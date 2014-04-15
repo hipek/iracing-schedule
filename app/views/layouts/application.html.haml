@@ -1,0 +1,19 @@
+!!!
+%html
+  %head
+    %title IRacing Schedule
+    = stylesheet_link_tag    'application', media: 'all'
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+  %body
+    %div.header
+      %ul.nav
+        %li
+          = link_to 'Seasons', '#'
+        %li
+          = link_to 'Users', '#'
+        %li
+          = link_to 'Tracks', '#'
+
+    %div#main
+      = yield
