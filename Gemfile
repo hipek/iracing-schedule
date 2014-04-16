@@ -28,6 +28,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'thin'
 gem 'haml-rails'
 gem 'rails_12factor'
+gem 'pdf-reader'
 
 group :development do
   gem 'spring'
