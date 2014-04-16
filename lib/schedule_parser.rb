@@ -25,13 +25,35 @@ class ScheduleParser < Struct.new(:file)
   end
 
   def read
+    season = nil
     lines do |line|
       rows = line.split(/[\s]{2,}/)
       if rows.size > 1
-        rows[-1] =~ MINS_LAPS
-        # p [rows[0], rows[1], "#{$1} #{$2}"].map{|t| clear(t)}
+        season.tracks << [
+          parse_date(rows[0]),
+          clear(rows[1]),
+          clear(mins_laps(rows[-1]))
+        ]
       else
-        # p rows
+        yield season if season.present?
+        season = OpenStruct.new name: rows.first, tracks: []
+      end
+    end
+  end
+
+  def parse_date(str)
+    Date.parse str
+  end
+
+  def mins_laps(str)
+    str =~ MINS_LAPS
+    "#{$1} #{$2}"
+  end
+
+  def series
+    [].tap do |result|
+      read do |ser|
+        result << ser
       end
     end
   end

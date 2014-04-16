@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140415194056) do
+ActiveRecord::Schema.define(version: 20140416205517) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -25,6 +25,17 @@ ActiveRecord::Schema.define(version: 20140415194056) do
   create_table "series", force: true do |t|
     t.string   "name"
     t.integer  "season_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "series_tracks", force: true do |t|
+    t.integer  "series_id"
+    t.integer  "track_id"
+    t.string   "name"
+    t.date     "date"
+    t.integer  "week"
+    t.string   "duration"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
