@@ -27,7 +27,6 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'thin'
 gem 'haml-rails'
-gem 'rails_12factor'
 gem 'pdf-reader'
 
 group :development do
@@ -39,4 +38,8 @@ group :development, :test do
   gem 'debugger'
   gem 'rspec-rails', '~> 3.0.0.beta'
   gem 'factory_girl_rails'
+end
+
+group :production do
+  gem 'rails_12factor'
 end
