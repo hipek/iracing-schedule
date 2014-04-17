@@ -14,7 +14,7 @@ class ScheduleParser < Struct.new(:file)
     'Single file', ',',
     'Double file', 'course cautions'
   ]
-  MINS_LAPS = /(\d{1,2})\s(laps|mins)/
+  MINS_LAPS = /(\d{1,3})\s(laps|mins)/
 
   def lines
     pages do |page|
