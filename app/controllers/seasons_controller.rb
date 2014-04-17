@@ -14,7 +14,7 @@ class SeasonsController < ApplicationController
 
   # GET /seasons/new
   def new
-    @season = Season.new
+    @season = Season.from_file(Rails.root.join('spec/fixtures/files/2014S2.pdf'))
   end
 
   # GET /seasons/1/edit

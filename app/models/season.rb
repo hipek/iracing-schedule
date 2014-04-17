@@ -6,7 +6,7 @@ class Season < ActiveRecord::Base
       season = new
       ScheduleParser.new(file).series.each do |series|
         season.name ||= series.name.split(' - ').last
-        ser = Series.new(name: series.name)
+        ser = Series.new(name: series.name.split('-').first.strip)
         ser.series_tracks = series.tracks.each_with_index.map do |track, i|
           SeriesTrack.new(
             week: i + 1,
