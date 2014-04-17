@@ -12,8 +12,10 @@
 
   - @season.series.each_with_index do |series, i|
     .series
-      = series.name
       %table.series-tracks
+        %thead
+          %tr
+            %th.series-name{colspan: 3}= series.name
         %tbody
           - series.series_tracks.each do |track|
             %tr
