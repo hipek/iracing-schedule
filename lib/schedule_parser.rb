@@ -1,11 +1,22 @@
 class ScheduleParser < Struct.new(:file)
+  def open_file
+    path = if file.respond_to?(:path)
+      file.path
+    else
+      file
+    end
+    File.open(path, "rb") do |io|
+      yield io
+    end if File.exists? path
+  end
+
   def pages
-    File.open(file, "rb") do |io|
+    open_file do |io|
       r = PDF::Reader.new(io)
       r.pages.each do |page|
         yield page
       end
-    end if File.exists? file
+    end
   end
 
   KEYWORDS = %w'Season Week'

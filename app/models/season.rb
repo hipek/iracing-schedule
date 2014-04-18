@@ -11,7 +11,7 @@ class Season < ActiveRecord::Base
 
   def read_seasons
     self.series = ScheduleParser.new(file).series.map do |series|
-      self.name ||= series.name.split(' - ').last.strip
+      self.name = series.name.split(' - ').last.strip if name.blank?
       ser = Series.new(
         name: series.name.split('-').first.strip,
         season_id: id

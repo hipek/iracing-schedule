@@ -1,8 +1,26 @@
-%p#notice= notice
-
 %p
   %b Name:
   = @season.name
+
+%p
+  - @season.series.each_with_index do |series, i|
+    .series
+      %table.series-tracks
+        %thead
+          %tr
+            %th.series-name{colspan: 3}= series.name
+        %tbody
+          - series.series_tracks.each do |track|
+            %tr
+              %td.week
+                Week #{track.week} (#{track.date})
+              %td.name
+                = track.name
+              %td.duration
+                = track.duration
+    - if i % 2 == 1
+      %div{style: 'clear:left'}
+
 
 = link_to 'Edit', edit_season_path(@season)
 \|
