@@ -1,3 +1,3 @@
 class Series < ActiveRecord::Base
-  has_many :series_tracks
+  has_many :series_tracks, dependent: :destroy
 end

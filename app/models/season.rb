@@ -1,5 +1,5 @@
 class Season < ActiveRecord::Base
-  has_many :series
+  has_many :series, dependent: :destroy
 
   class << self
     def from_file(file)
