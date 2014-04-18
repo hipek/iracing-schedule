@@ -24,4 +24,12 @@ class User < ActiveRecord::Base
   def tracks_to_buy
     @tracks_to_buy ||= Track.find(track_to_buy_ids)
   end
+
+  def own_track?(track)
+    track_ids.include?(track)
+  end
+
+  def to_buy_track?(track)
+    track_to_buy_ids.include?(track)
+  end
 end

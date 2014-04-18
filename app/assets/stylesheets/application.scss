@@ -170,7 +170,7 @@ body { padding:0; margin:0; }
 
 #main .series {
   float: left;
-  width: 522px;
+  width: 47%;
   margin-right: 15px;
 }
 
@@ -184,5 +184,11 @@ body { padding:0; margin:0; }
   .duration {
     text-align: right;
     width: 50px;
+  }
+  .green {
+    background-color: green;
+  }
+  .yellow {
+    background-color: yellow;
   }
 }

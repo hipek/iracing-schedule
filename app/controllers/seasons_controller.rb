@@ -10,6 +10,7 @@ class SeasonsController < ApplicationController
   # GET /seasons/1
   # GET /seasons/1.json
   def show
+    @users = User.all
   end
 
   # GET /seasons/new
