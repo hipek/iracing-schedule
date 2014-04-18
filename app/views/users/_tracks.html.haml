@@ -1,9 +1,5 @@
 - no_select ||= false
 
-%p
-  %b
-    Track count #{@user.track_ids.size}
-
 %table.tracks
   %tr
     - unless no_select
@@ -17,6 +13,6 @@
         %td
           = check_box_tag "user[track_ids][]", track.id, @user.track_ids.include?(track.id)
         %td
-          = check_box_tag "user[track_ids][]", track.id, @user.track_ids.include?(track.id)
+          = check_box_tag "user[track_to_buy_ids][]", track.id, @user.track_to_buy_ids.include?(track.id)
       %td
         = track.name

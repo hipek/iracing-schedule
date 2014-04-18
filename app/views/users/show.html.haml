@@ -3,6 +3,11 @@
   = @user.name
 
 %p
+  Tracks to buy (#{@user.track_to_buy_ids.size})
+  = render partial: 'users/tracks', locals: {tracks: @user.tracks_to_buy, no_select: true}
+
+%p
+  Owned tracks (#{@user.track_ids.size})
   = render partial: 'users/tracks', locals: {tracks: @user.tracks, no_select: true}
 
 = link_to 'Edit', edit_user_path(@user)
