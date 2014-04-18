@@ -2,6 +2,7 @@
 
 FactoryGirl.define do
   factory :season do
-    name "MyString"
+    name "Season 1"
+    file "file"
   end
 end
