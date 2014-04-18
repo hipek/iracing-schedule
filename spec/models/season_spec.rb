@@ -2,7 +2,8 @@ require 'spec_helper'
 
 describe Season do
   before(:all) do
-    @season = described_class.from_file(fixture_file_upload('files/2014S2.pdf'))
+    @season = described_class.new file: fixture_file_upload('files/2014S2.pdf')
+    expect(@season).to be_valid
   end
 
   it "has season name" do

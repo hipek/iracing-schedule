@@ -5,7 +5,7 @@ class ScheduleParser < Struct.new(:file)
       r.pages.each do |page|
         yield page
       end
-    end
+    end if File.exists? file
   end
 
   KEYWORDS = %w'Season Week'

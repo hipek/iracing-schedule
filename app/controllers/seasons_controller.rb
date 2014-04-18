@@ -14,7 +14,7 @@ class SeasonsController < ApplicationController
 
   # GET /seasons/new
   def new
-    @season = Season.from_file(Rails.root.join('spec/fixtures/files/2014S2.pdf'))
+    @season = Season.new
   end
 
   # GET /seasons/1/edit
@@ -69,6 +69,6 @@ class SeasonsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def season_params
-      params.require(:season).permit(:name)
+      params.require(:season).permit(:name, :file)
     end
 end
