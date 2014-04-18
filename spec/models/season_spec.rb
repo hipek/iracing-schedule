@@ -6,6 +6,8 @@ describe Season do
     expect(@season).to be_valid
   end
 
+  after(:all) { Track.delete_all }
+
   it "has season name" do
     expect(@season.name).to eql("2014 Season 2")
   end

@@ -9,5 +9,8 @@
   .field
     = f.label :name
     = f.text_field :name
+
+  = render partial: 'users/tracks', locals: {tracks: @tracks}
+
   .actions
     = f.submit 'Save'

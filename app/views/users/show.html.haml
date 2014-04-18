@@ -2,6 +2,9 @@
   %b Name:
   = @user.name
 
+%p
+  = render partial: 'users/tracks', locals: {tracks: @user.tracks, no_select: true}
+
 = link_to 'Edit', edit_user_path(@user)
 \|
 = link_to 'Back', users_path
