@@ -25,12 +25,15 @@ class ScheduleParser < Struct.new(:file)
     'Single file', ',',
     'Double file', 'course cautions'
   ]
-  MINS_LAPS = /(\d{1,3})\s(laps|mins)/
+  MINS_LAPS  = /(\d{1,3})\s(laps|mins)/
+  NIGHT_RACE = 'Night race'
 
   def lines
     pages do |page|
       page.text.split(/\n/).each do |line|
-        yield line.strip if KEYWORDS.any?{|k| line.match(k)}
+        if KEYWORDS.any?{|k| line.match(k)}
+          yield line.strip
+        end
       end
     end
   end
@@ -38,11 +41,13 @@ class ScheduleParser < Struct.new(:file)
   def read
     season = nil
     lines do |line|
+      night = line.match(NIGHT_RACE) ? ' (N)' : ''
       rows = line.split(/[\s]{2,}/)
+
       if rows.size > 1
         season.tracks << [
           parse_date(rows[0]),
-          clear(rows[1]),
+          clear(rows[1]) + night,
           clear(mins_laps(rows[-1]))
         ]
       else
