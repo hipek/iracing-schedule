@@ -1,5 +1,5 @@
 class User < ActiveRecord::Base
-  include JsonAttrAccessor.new(:track_ids, :tracks_to_buy).module
+  include JsonAttrAccessor.new(:track_ids, :track_to_buy_ids, type: :to_i).module
 
   def tracks
     @tracks ||= Track.find(track_ids)
