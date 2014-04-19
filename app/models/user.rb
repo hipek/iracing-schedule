@@ -6,6 +6,8 @@ class User < ActiveRecord::Base
 
   default_scope ->{ order(:name) }
 
+  has_many :user_seasons, dependent: :destroy
+
   def tracks
     @tracks ||= Track.find(track_ids)
   end
