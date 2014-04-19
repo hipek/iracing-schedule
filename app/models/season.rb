@@ -20,7 +20,7 @@ class Season < ActiveRecord::Base
     self.series = ScheduleParser.new(file).series.map do |series|
       self.name = series.name.split(' - ').last.strip if name.blank?
       ser = Series.new(
-        name: series.name.split('-').first.strip,
+        name: series.name.gsub(name, ' ').squeeze(' ').strip.chomp('-').strip,
         season_id: id
       )
       ser.series_tracks = series.tracks.each_with_index.map do |track, i|
