@@ -39,7 +39,7 @@ class Season < ActiveRecord::Base
   end
 
   def user_series
-    series.includes(:series_tracks).where(
+    series.includes(series_tracks: [:track_values]).where(
       name: user_seasons.map{|us| us.series_names}.flatten.uniq
     )
   end

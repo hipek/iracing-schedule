@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   resources :users
 
+  post 'series_track_values/:id', to: 'srs_track_values#update'
+
   get 'home/index'
   root 'home#index'
 end
