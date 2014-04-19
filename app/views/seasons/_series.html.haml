@@ -1,0 +1,30 @@
+- users ||= nil
+- series.each_with_index do |series, i|
+  .series
+    %table.series-tracks
+      %thead
+        %tr
+          %th.series-name{colspan: 3}= series.name
+          - if users.present?
+            - users.each do |user|
+              %th= user.name
+      %tbody
+        - series.series_tracks.each do |track|
+          %tr
+            %td.week
+              Week #{track.week} (#{track.date})
+            %td.name
+              = track.name
+            %td.duration
+              = track.duration
+            - if users.present?
+              - users.each do |user|
+                - if user.own_track?(track.track_id)
+                  %td.green= {user_id: user.id, sname: series.name, season_id: @season.id}.to_json
+                - elsif user.to_buy_track?(track.track_id)
+                  %td.yellow= ''
+                - else
+                  %td= ''
+            -
+  - if i % 2 == 1
+    %div{style: 'clear:left'}

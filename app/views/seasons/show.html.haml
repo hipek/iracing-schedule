@@ -3,34 +3,7 @@
   = @season.name
 
 %p
-  - @season.series.each_with_index do |series, i|
-    .series
-      %table.series-tracks
-        %thead
-          %tr
-            %th.series-name{colspan: 3}= series.name
-            - @users.each do |user|
-              %th= user.name
-        %tbody
-          - series.series_tracks.each do |track|
-            %tr
-              %td.week
-                Week #{track.week} (#{track.date})
-              %td.name
-                = track.name
-              %td.duration
-                = track.duration
-              - @users.each do |user|
-                - if user.own_track?(track.track_id)
-                  %td.green= ''
-                - elsif user.to_buy_track?(track.track_id)
-                  %td.yellow= ''
-                - else
-                  %td= ''
-              -
-    - if i % 2 == 1
-      %div{style: 'clear:left'}
-
+  = render partial: 'series', locals: { series: @season.series }
 
 = link_to 'Edit', edit_season_path(@season)
 \|

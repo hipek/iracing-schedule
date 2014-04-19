@@ -2,12 +2,19 @@ class Season < ActiveRecord::Base
   attr_accessor :file
 
   has_many :series, dependent: :destroy
+  has_many :user_seasons, dependent: :destroy, foreign_key: :season_id
 
   validates_presence_of   :name
   validates_uniqueness_of :name, :on => :create
   validates_presence_of   :file, :on => :create
 
   before_validation :read_seasons
+
+  class << self
+    def latest
+      includes(:series).last
+    end
+  end
 
   def read_seasons
     self.series = ScheduleParser.new(file).series.map do |series|
@@ -29,5 +36,11 @@ class Season < ActiveRecord::Base
       ser.season = self
       ser
     end if file.present?
+  end
+
+  def user_series
+    series.includes(:series_tracks).where(
+      name: user_seasons.map{|us| us.series_names}.flatten.uniq
+    )
   end
 end

@@ -1,0 +1,5 @@
+%p
+  = @season.name
+
+%p
+  = render partial: 'seasons/series', locals: { series: @user_series, users: @users }

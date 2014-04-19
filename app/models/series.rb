@@ -8,7 +8,7 @@ class Series < ActiveRecord::Base
 
   class << self
     def latest
-      Season.includes(:series).last.series
+      Season.latest.series
     end
   end
 end
