@@ -1,6 +1,8 @@
 class User < ActiveRecord::Base
   include JsonAttrAccessor.new(:track_ids, :track_to_buy_ids, type: :to_i).module
 
+  default_scope ->{ order(:name) }
+
   def tracks
     @tracks ||= Track.find(track_ids)
   end

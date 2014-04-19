@@ -3,4 +3,9 @@ class UserSeason < ActiveRecord::Base
 
   belongs_to :user
   belongs_to :season
+
+  validates_presence_of :user
+  validates_presence_of :season
+  validates_presence_of :series_names
+  validates_uniqueness_of :season, scope: :user
 end
