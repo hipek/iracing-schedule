@@ -6,7 +6,7 @@
         %tr
           %th.series-name{colspan: 3}= series.name
           - if users.present?
-            - users.each do |user|
+            - series.users.each do |user|
               %th= user.name
       %tbody
         - series.series_tracks.each do |track|
@@ -18,9 +18,9 @@
             %td.duration
               = track.duration
             - if users.present?
-              - users.each do |user|
+              - series.users.each do |user|
                 - if user.own_track?(track.track_id)
-                  %td.green= {user_id: user.id, sname: series.name, season_id: @season.id}.to_json
+                  %td.green= #{user_id: user.id, sname: series.name, season_id: @season.id}.to_json
                 - elsif user.to_buy_track?(track.track_id)
                   %td.yellow= ''
                 - else

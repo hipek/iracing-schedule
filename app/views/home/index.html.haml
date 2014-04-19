@@ -1,5 +1,10 @@
 %p
   = @season.name
 
-%p
-  = render partial: 'seasons/series', locals: { series: @user_series, users: @users }
+- if @user_series.present?
+  %p
+    = render partial: 'seasons/series', locals: { series: @user_series, users: true }
+
+- else 
+  %p
+    User series not found for this season

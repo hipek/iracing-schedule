@@ -11,4 +11,10 @@ class Series < ActiveRecord::Base
       Season.latest.series
     end
   end
+
+  def users
+    @users ||= UserSeason.where(
+      ["series_names like ?", "%\"#{name}\"%"]
+    ).includes(:user).map(&:user)
+  end
 end
