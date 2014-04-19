@@ -1,7 +1,7 @@
 %h1 Current
 
 %p
-  = @season.name
+  = @season.try(:name)
 
 - if @user_series.present?
   %p
