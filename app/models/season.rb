@@ -10,6 +10,8 @@ class Season < ActiveRecord::Base
 
   before_validation :read_seasons
 
+  scope :active, ->{ where(active: true) }
+
   class << self
     def latest
       includes(:series).last
