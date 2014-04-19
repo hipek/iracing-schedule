@@ -1,21 +1,5 @@
 class User < ActiveRecord::Base
-  def track_ids
-    JSON.parse read_attribute(:track_ids) || '[]'
-  end
-
-  def track_ids=(list)
-    list = (list || []).reject(&:blank?).map{|l| l.to_i}
-    write_attribute(:track_ids, list.to_json)
-  end
-
-  def track_to_buy_ids
-    JSON.parse read_attribute(:track_to_buy_ids) || '[]'
-  end
-
-  def track_to_buy_ids=(list)
-    list = (list || []).reject(&:blank?).map{|l| l.to_i}
-    write_attribute(:track_to_buy_ids, list.to_json)
-  end
+  include JsonAttrAccessor.new(:track_ids, :tracks_to_buy).module
 
   def tracks
     @tracks ||= Track.find(track_ids)

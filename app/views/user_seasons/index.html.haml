@@ -1,0 +1,20 @@
+%h1 Listing user season series
+
+%table
+  %tr
+    %th User
+    %th Season
+    %th Series
+    %th
+
+  - @user_seasons.each do |us|
+    %tr
+      %td= us.user.name
+      %td= us.season.name
+      %td= us.series
+      %td
+        = link_to 'Edit', edit_season_path(season)
+
+%br
+
+= link_to 'New user season series', new_user_season_path

@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :user_seasons
+
   resources :series
 
   resources :seasons

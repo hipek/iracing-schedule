@@ -1,0 +1,22 @@
+= form_for @user_season do |f|
+  - if @user_season.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@user_season.errors.count, "error")} prohibited this series from being saved:"
+      %ul
+        - @user_season.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :user_id, 'User'
+    = f.select :user_id, User.all.map{|u| [u.name, u.id]}
+
+  .field
+    = f.label :season_id, 'Season'
+    = f.select :season_id, Season.all.map{|u| [u.name, u.id]}
+
+  .field
+    = f.label :series_names, 'Series'
+    = f.select :series_names, Series.latest.map{|s| [s.name, s.name]}, {}, { :multiple => true, :size => 30 }
+
+  .actions
+    = f.submit 'Save'
