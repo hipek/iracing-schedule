@@ -10,7 +10,7 @@ Rails.application.routes.draw do
 
   post 'series_track_values/:id', to: 'srs_track_values#update'
 
-  scope path: ':team' do
+  scope path: ':team_id' do
     resources :user_seasons
 
     resources :users
