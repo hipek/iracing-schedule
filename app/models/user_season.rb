@@ -3,6 +3,7 @@ class UserSeason < ActiveRecord::Base
 
   belongs_to :user
   belongs_to :season
+  belongs_to :team
 
   validates_presence_of :user
   validates_presence_of :season

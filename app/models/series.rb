@@ -8,7 +8,7 @@ class Series < ActiveRecord::Base
 
   class << self
     def latest
-      Season.latest.series
+      Season.active.latest.series
     end
   end
 

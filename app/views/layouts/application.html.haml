@@ -8,16 +8,20 @@
   %body
     %div.header
       %ul.nav
-        %li
-          = link_to 'Home', root_url
-        %li
-          = link_to 'Seasons', seasons_url
-        %li
-          = link_to 'User Seasons', user_seasons_url
-        %li
-          = link_to 'Users', users_url
-        %li
-          = link_to 'Tracks', tracks_url
+        - if current_team.present?
+          %li
+            = link_to 'Home', team_root_url
+          %li
+            = link_to 'Users', users_url
+          %li
+            = link_to 'User seasons', user_seasons_url
+        - else
+          %li
+            = link_to 'Welcome', root_url
+          %li
+            = link_to 'Tracks', tracks_url
+          %li
+            = link_to 'Seasons', seasons_url
     %div.flash
       
 

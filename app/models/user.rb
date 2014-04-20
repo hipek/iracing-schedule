@@ -8,6 +8,8 @@ class User < ActiveRecord::Base
 
   has_many :user_seasons, dependent: :destroy
 
+  belongs_to :team
+
   def tracks
     @tracks ||= Track.find(track_ids)
   end

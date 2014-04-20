@@ -12,7 +12,7 @@
 
   .field
     = f.label :season_id, 'Season'
-    = f.select :season_id, Season.all.map{|u| [u.name, u.id]}
+    = f.select :season_id, Season.active.all.map{|u| [u.name, u.id]}
 
   .field
     = f.label :series_names, 'Series'

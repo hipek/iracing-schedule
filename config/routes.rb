@@ -1,16 +1,22 @@
 Rails.application.routes.draw do
-  resources :user_seasons
-
+  resources :teams
+  resources :seasons
+  resources :tracks
   resources :series
 
-  resources :seasons
+  get 'welcome/index'
 
-  resources :tracks
-
-  resources :users
+  root 'welcome#index'
 
   post 'series_track_values/:id', to: 'srs_track_values#update'
 
-  get 'home/index'
-  root 'home#index'
+  scope path: ':team' do
+    resources :user_seasons
+
+    resources :users
+
+    get 'home/index'
+
+    get '/', to: 'home#index', as: :team_root
+  end
 end
