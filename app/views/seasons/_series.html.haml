@@ -12,7 +12,7 @@
         - series.series_tracks.each do |track|
           %tr
             %td.week
-              Week #{track.week} (#{track.date})
+              W#{track.week} (#{track.date})
             %td.name
               = track.name
             %td.duration
@@ -22,5 +22,4 @@
                 %td{class: user_track_css(user, track)}
                   = text_field_tag '', track.value_for_user(user).try(:value), id: "ut_#{user.id}_#{track.id}", class: user_track_css(user, track), 'data' => {user_id: user.id, series_track_id: track.id}
 
-  - if i % 2 == 1
-    %div{style: 'clear:left'}
+%div{style: 'clear:left'}
