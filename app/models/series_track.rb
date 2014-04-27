@@ -13,4 +13,8 @@ class SeriesTrack < ActiveRecord::Base
   def value_for_user(user)
     track_values.to_a.find{|v| v.user_id == user.id}
   end
+
+  def display_name
+    "#{name}#{night ? ' (N)' : ''}"
+  end
 end

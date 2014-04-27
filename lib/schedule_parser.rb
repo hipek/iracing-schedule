@@ -41,14 +41,14 @@ class ScheduleParser < Struct.new(:file)
   def read
     season = nil
     lines do |line|
-      night = line.match(NIGHT_RACE) ? ' (N)' : ''
+      night = !!line.match(NIGHT_RACE)
       rows = line.split(/[\s]{2,}/)
-
       if rows.size > 1
         season.tracks << [
           parse_date(rows[0]),
-          clear(rows[1]) + night,
-          clear(mins_laps(rows[-1]))
+          clear(rows[1]),
+          clear(mins_laps(rows[-1])),
+          night
         ]
       else
         yield season if season.present?

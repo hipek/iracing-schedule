@@ -31,6 +31,7 @@ class Season < ActiveRecord::Base
           date: track[0],
           name: track[1],
           duration: track[2],
+          night: track[3]
         ).tap do |st|
           st.apply_track
         end
