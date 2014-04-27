@@ -6,6 +6,8 @@ class Series < ActiveRecord::Base
 
   default_scope ->{ order(:name) }
 
+  accepts_nested_attributes_for :series_tracks
+
   class << self
     def latest
       Season.active.latest.series

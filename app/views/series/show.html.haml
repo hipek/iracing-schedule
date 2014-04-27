@@ -1,9 +1,9 @@
+%h1= @series.season.name
+
+%h2= @series.name
+
 %p
-  %b Name:
-  = @series.name
-%p
-  %b Season:
-  = @series.season_id
+  = render partial: 'seasons/series', locals: { series: [@series] }
 
 = link_to 'Edit', edit_series_path(@series)
 \|

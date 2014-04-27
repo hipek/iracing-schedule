@@ -10,7 +10,24 @@
     = f.label :name
     = f.text_field :name
   .field
-    = f.label :season_id
-    = f.number_field :season_id
-  .actions
+    = f.hidden_field :season_id
+
+  .series
+    %table.series-tracks
+      %tr
+        %th Week
+        %th Name
+        %th Duration
+
+      = f.fields_for :series_tracks do |ft|
+        %tr
+          %td.week
+            = ft.text_field :week
+          %td.name
+            = ft.text_field :name
+          %td.duration
+            = ft.text_field :duration
+
+  %div{style: 'clear:left'}
+  .actions.clear
     = f.submit 'Save'

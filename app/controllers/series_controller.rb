@@ -4,7 +4,7 @@ class SeriesController < ApplicationController
   # GET /series
   # GET /series.json
   def index
-    @series = Series.all
+    @series = Series.includes(:season).all
   end
 
   # GET /series/1
@@ -69,6 +69,6 @@ class SeriesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def series_params
-      params.require(:series).permit(:name, :season_id)
+      params.require(:series).permit(:name, :season_id, series_tracks_attributes: [:id, :week, :name, :duration])
     end
 end

@@ -5,17 +5,11 @@
     %th Name
     %th Season
     %th
-    %th
-    %th
 
   - @series.each do |series|
     %tr
       %td= series.name
-      %td= series.season_id
-      %td= link_to 'Show', series
-      %td= link_to 'Edit', edit_series_path(series)
-      %td= link_to 'Destroy', series, :method => :delete, :data => { :confirm => 'Are you sure?' }
-
-%br
-
-= link_to 'New Series', new_series_path
+      %td= series.season.name
+      %td
+        = link_to 'Show', series
+        = link_to 'Edit', edit_series_path(series)

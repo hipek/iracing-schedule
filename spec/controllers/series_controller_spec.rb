@@ -48,55 +48,11 @@ describe SeriesController do
     end
   end
 
-  describe "GET new" do
-    it "assigns a new series as @series" do
-      get :new, {}, valid_session
-      expect(assigns(:series)).to be_a_new(Series)
-    end
-  end
-
   describe "GET edit" do
     it "assigns the requested series as @series" do
       series = Series.create! valid_attributes
       get :edit, {:id => series.to_param}, valid_session
       expect(assigns(:series)).to eq(series)
-    end
-  end
-
-  describe "POST create" do
-    describe "with valid params" do
-      it "creates a new Series" do
-        expect {
-          post :create, {:series => valid_attributes}, valid_session
-        }.to change(Series, :count).by(1)
-      end
-
-      it "assigns a newly created series as @series" do
-        post :create, {:series => valid_attributes}, valid_session
-        expect(assigns(:series)).to be_a(Series)
-        expect(assigns(:series)).to be_persisted
-      end
-
-      it "redirects to the created series" do
-        post :create, {:series => valid_attributes}, valid_session
-        expect(response).to redirect_to(Series.last)
-      end
-    end
-
-    describe "with invalid params" do
-      it "assigns a newly created but unsaved series as @series" do
-        # Trigger the behavior that occurs when invalid params are submitted
-        allow_any_instance_of(Series).to receive(:save).and_return(false)
-        post :create, {:series => { "name" => "invalid value" }}, valid_session
-        expect(assigns(:series)).to be_a_new(Series)
-      end
-
-      it "re-renders the 'new' template" do
-        # Trigger the behavior that occurs when invalid params are submitted
-        allow_any_instance_of(Series).to receive(:save).and_return(false)
-        post :create, {:series => { "name" => "invalid value" }}, valid_session
-        expect(response).to render_template("new")
-      end
     end
   end
 
@@ -143,20 +99,4 @@ describe SeriesController do
       end
     end
   end
-
-  describe "DELETE destroy" do
-    it "destroys the requested series" do
-      series = Series.create! valid_attributes
-      expect {
-        delete :destroy, {:id => series.to_param}, valid_session
-      }.to change(Series, :count).by(-1)
-    end
-
-    it "redirects to the series list" do
-      series = Series.create! valid_attributes
-      delete :destroy, {:id => series.to_param}, valid_session
-      expect(response).to redirect_to(series_index_url)
-    end
-  end
-
 end

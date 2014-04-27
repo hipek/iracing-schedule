@@ -193,6 +193,10 @@ body { padding:0; margin:0; }
 }
 
 #main .series-tracks {
+  input {
+    margin: 0;
+    padding: 0;
+  }
   .week {
     width: 102px;
     font-size: 12px;
@@ -201,6 +205,9 @@ body { padding:0; margin:0; }
     width: 305px;
     text-align: left;
     overflow: hidden;
+    input {
+      width: 99%;
+    }
   }
   .series-name {
     text-align: center;
@@ -235,4 +242,7 @@ body { padding:0; margin:0; }
     font-size: 14px;
     font-weight: bold;
   }
+}
+#series_name {
+  width: 300px;
 }

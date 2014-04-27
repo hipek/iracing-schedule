@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   resources :teams
   resources :seasons
   resources :tracks
-  resources :series
+  resources :series, only: [:edit, :update, :index, :show]
 
   get 'welcome/index'
 
