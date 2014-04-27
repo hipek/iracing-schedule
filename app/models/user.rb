@@ -34,7 +34,9 @@ class User < ActiveRecord::Base
   end
 
   def own_track?(track)
-    track_ids.include?(track) || track_owned_ids.include?(track)
+    track_ids.include?(track) ||
+    track_owned_ids.include?(track) ||
+    Track.is_free?(track)
   end
 
   def to_buy_track?(track)

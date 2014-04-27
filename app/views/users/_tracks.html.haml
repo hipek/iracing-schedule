@@ -14,8 +14,10 @@
         %td
           = radio_button_tag "user[track_ids][#{track.id}]", 'own', @user.own_track?(track.id)
         %td
-          = radio_button_tag "user[track_ids][#{track.id}]", 'to_buy', @user.to_buy_track?(track.id)
+          - unless Track.is_free?(track.id)
+            = radio_button_tag "user[track_ids][#{track.id}]", 'to_buy', @user.to_buy_track?(track.id)
         %td
-          = radio_button_tag "user[track_ids][#{track.id}]", 'ignored', @user.ignored_track?(track.id)
+          - unless Track.is_free?(track.id)
+            = radio_button_tag "user[track_ids][#{track.id}]", 'ignored', @user.ignored_track?(track.id)
       %td
         = track.name
