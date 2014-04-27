@@ -5,7 +5,7 @@ class UsersController < ApplicationController
   # GET /users
   # GET /users.json
   def index
-    @users = User.all
+    @users = User.all # current_team.users
   end
 
   # GET /users/1
@@ -26,6 +26,7 @@ class UsersController < ApplicationController
   # POST /users.json
   def create
     @user = User.new(user_params)
+    @user.team = current_team
 
     respond_to do |format|
       if @user.save
@@ -41,6 +42,8 @@ class UsersController < ApplicationController
   # PATCH/PUT /users/1
   # PATCH/PUT /users/1.json
   def update
+    @user.team ||= current_team
+
     respond_to do |format|
       if @user.update(user_params)
         format.html { redirect_to @user, notice: 'User was successfully updated.' }
@@ -71,7 +74,7 @@ class UsersController < ApplicationController
     # Never trust parameters from the scary internet, only allow the white list through.
     def user_params
       track_ids = Track.select(:id).all.map{|t| t.id.to_s}
-      params.require(:user).permit(:name, :team_id, track_ids: track_ids)
+      params.require(:user).permit(:name, track_ids: track_ids)
     end
 
     def set_tracks

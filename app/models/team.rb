@@ -5,7 +5,7 @@ class Team < ActiveRecord::Base
   before_validation :set_slug
 
   has_many :users, dependent: :destroy
-  # has_many :user_seasons, dependent: :destroy
+  has_many :user_seasons, through: :users
 
   def set_slug
     self.slug = name.to_s.gsub(' ', '-').downcase

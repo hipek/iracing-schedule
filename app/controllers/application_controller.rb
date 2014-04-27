@@ -1,6 +1,4 @@
 class ApplicationController < ActionController::Base
-  # Prevent CSRF attacks by raising an exception.
-  # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
   helper_method :current_team
 
@@ -12,5 +10,11 @@ class ApplicationController < ActionController::Base
 
   def current_team
     @current_team ||= Team.find_by(slug: params[:team_id])
+  end
+
+  def team_required
+    if current_team.blank?
+      redirect_to root_url, notice: t('Team is required')
+    end
   end
 end
