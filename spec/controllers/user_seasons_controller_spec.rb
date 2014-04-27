@@ -4,7 +4,7 @@ describe UserSeasonsController do
 
   describe "GET 'index'" do
     it "returns http success" do
-      get 'index'
+      get 'index', team_id: 1
       expect(response).to be_success
     end
   end

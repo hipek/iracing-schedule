@@ -70,7 +70,8 @@ class UsersController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def user_params
-      params.require(:user).permit(:name, track_ids: [], track_to_buy_ids: [])
+      track_ids = Track.select(:id).all.map{|t| t.id.to_s}
+      params.require(:user).permit(:name, track_ids: track_ids)
     end
 
     def set_tracks
