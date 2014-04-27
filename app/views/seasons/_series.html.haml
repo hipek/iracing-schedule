@@ -7,6 +7,7 @@
           %th.series-name{colspan: 3}= series.name
           - if users.present?
             - series.users.each do |user|
+              - next unless user.team_id == current_team.id
               %th= user.name
       %tbody
         - series.series_tracks.each do |track|
@@ -19,6 +20,7 @@
               = track.duration
             - if users.present?
               - series.users.each do |user|
+                - next unless user.team_id == current_team.id
                 %td{class: user_track_css(user, track)}
                   = text_field_tag '', track.value_for_user(user).try(:value), id: "ut_#{user.id}_#{track.id}", class: user_track_css(user, track), 'data' => {user_id: user.id, series_track_id: track.id}
 

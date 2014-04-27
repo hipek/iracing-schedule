@@ -2,7 +2,7 @@ class UserSeasonsController < ApplicationController
   before_action :set_user_season, only: [:show, :edit, :update, :destroy]
 
   def index
-    @user_seasons = UserSeason.includes(:user, :season).all
+    @user_seasons = current_team.user_seasons.includes(:user, :season).all
   end
 
   def new
@@ -48,6 +48,8 @@ class UserSeasonsController < ApplicationController
     end
 
     def user_season_params
-      params.require(:user_season).permit(:user_id, :season_id, series_names: [])
+      params.require(:user_season).permit(:user_id, :season_id, series_names: []).tap do |param|
+        param[:series_names].reject!(&:blank?)
+      end
     end
 end

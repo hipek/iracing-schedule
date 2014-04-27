@@ -40,9 +40,9 @@ class Season < ActiveRecord::Base
     end if file.present?
   end
 
-  def user_series
+  def user_series(team)
     series.includes(series_tracks: [:track_values]).where(
-      name: user_seasons.map{|us| us.series_names}.flatten.uniq
+      name: team.user_seasons.map{|us| us.series_names}.flatten.uniq
     )
   end
 end
