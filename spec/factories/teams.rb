@@ -2,7 +2,7 @@
 
 FactoryGirl.define do
   factory :team do
-    name "MyString"
-    slug "MyString"
+    name "team1"
+    slug "team1"
   end
 end
