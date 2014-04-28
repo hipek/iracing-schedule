@@ -12,7 +12,7 @@
       %tbody
         - series.series_tracks.each do |track|
           %tr
-            %td.week
+            %td.week{ class: track.current?  ? 'bold' : '' }
               W#{track.week} (#{track.date})
             %td.name
               = track.display_name

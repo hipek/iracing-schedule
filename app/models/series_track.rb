@@ -17,4 +17,9 @@ class SeriesTrack < ActiveRecord::Base
   def display_name
     "#{name}#{night ? ' (N)' : ''}"
   end
+
+  def current?
+    Time.now.to_date >= date &&
+    Time.now.to_date < (date + 7)
+  end
 end
