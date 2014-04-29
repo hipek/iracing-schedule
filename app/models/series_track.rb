@@ -5,6 +5,8 @@ class SeriesTrack < ActiveRecord::Base
     foreign_key: :series_track_id,
     dependent: :destroy
 
+  default_scope ->{ order(:week) }
+
   def apply_track
     tname = name.split(' - ').first.strip
     self.track = Track.find_or_create_by(name: tname)
