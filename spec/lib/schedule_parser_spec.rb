@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'rails_helper'
 
 describe ScheduleParser do
   subject { described_class.new(fixture_file_upload('files/2014S2.pdf')) }

@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-ruby '2.1.1'
+ruby '2.1.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.0'
+gem 'rails', '4.1.4'
 
 gem 'pg'
 
@@ -36,8 +36,8 @@ group :development do
 end
 
 group :development, :test do
-  gem 'debugger'
-  gem 'rspec-rails', '~> 3.0.0.beta'
+  gem 'byebug'
+  gem 'rspec-rails', '~> 3.0.1'
   gem 'factory_girl_rails'
 end
 
