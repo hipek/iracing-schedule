@@ -1,5 +1,7 @@
 class ScheduleParser < Struct.new(:file)
-  class SeriesSeason < Struct.new(:name, :tracks, :season_name)
+  class SeriesSeason < Struct.new(:name, :tracks)
+    attr_accessor :season_name, :klass, :kind
+
     def series_name
       name.gsub(season_name, ' ').
       squeeze(' ').
@@ -8,7 +10,7 @@ class ScheduleParser < Struct.new(:file)
     end
 
     def season_name
-      @season_name ||= super || name.split(' - ').last.strip
+      @season_name ||= name.split(' - ').last.strip
     end
   end
 
@@ -32,7 +34,7 @@ class ScheduleParser < Struct.new(:file)
     end
   end
 
-  KEYWORDS = %w'Season Week'
+  KEYWORDS = ['Season', 'Week', 'Class Series', 'ROAD', 'OVAL']
   BLACKLISTED_WORDS = [
     'Local enforced cautions',
     'Single file', ',',
@@ -53,9 +55,20 @@ class ScheduleParser < Struct.new(:file)
 
   def read
     season = nil
+    klass = nil
+    kind = nil
     lines do |line|
+      if line.match /Class Series/
+        klass = line.strip 
+        next
+      end
+      if line.match /ROAD|OVAL/
+        kind = line.strip
+        next
+      end
       night = !!line.match(NIGHT_RACE)
-      rows = line.split(/[\s]{2,}/)
+      rows  = line.split(/[\s]{2,}/)
+
       if rows.size > 1
         season.tracks << [
           parse_date(rows[0]),
@@ -65,7 +78,10 @@ class ScheduleParser < Struct.new(:file)
         ]
       else
         yield season if season.present?
-        season = SeriesSeason.new rows.first, [], @season_name
+        season = SeriesSeason.new rows.first, []
+        season.season_name = @season_name
+        season.kind = kind
+        season.klass = klass
         @season_name ||= season.season_name
       end
     end
