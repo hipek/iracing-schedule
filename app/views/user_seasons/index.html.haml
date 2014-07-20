@@ -13,8 +13,11 @@
       %td= us.season.name
       %td= us.series_names.join(', ')
       %td
-        = link_to 'Edit', edit_user_season_path(us)
-        = link_to 'Destroy', us, :method => :delete, :data => { :confirm => 'Are you sure?' }
+        - if us.season.active?
+          = link_to 'Edit', edit_user_season_path(us)
+          = link_to 'Destroy', us, :method => :delete, :data => { :confirm => 'Are you sure?' }
+        - else
+          &nbsp;
 
 %br
 

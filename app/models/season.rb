@@ -46,4 +46,8 @@ class Season < ActiveRecord::Base
       name: team.user_seasons.map{|us| us.series_names}.flatten.uniq
     )
   end
+
+  def make_other_inactive
+    self.class.where('id != ?', id).update_all active: false
+  end
 end

@@ -4,19 +4,19 @@ class Series < ActiveRecord::Base
 
   validates_presence_of :season
 
-  default_scope ->{ order(:name) }
+  default_scope ->{ joins(:season).order('seasons.name desc, series.name asc') }
 
   accepts_nested_attributes_for :series_tracks
 
   class << self
     def latest
-      Season.active.latest.series
+      (Season.active.latest || Season.first).series
     end
   end
 
   def users
     @users ||= UserSeason.where(
       ["series_names like ?", "%\"#{name}\"%"]
-    ).includes(:user).map(&:user)
+    ).where(season_id: season_id).includes(:user).map(&:user)
   end
 end

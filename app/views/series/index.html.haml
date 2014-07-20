@@ -12,4 +12,4 @@
       %td= series.season.name
       %td
         = link_to 'Show', series
-        = link_to 'Edit', edit_series_path(series)
+        = link_to 'Edit', edit_series_path(series) if series.season.active?

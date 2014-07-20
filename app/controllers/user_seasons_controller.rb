@@ -2,7 +2,7 @@ class UserSeasonsController < ApplicationController
   before_action :set_user_season, only: [:show, :edit, :update, :destroy]
 
   def index
-    @user_seasons = current_team.user_seasons.includes(:user, :season).all
+    @user_seasons = current_team.user_seasons.includes(:user, :season).order('seasons.name desc').all
   end
 
   def new

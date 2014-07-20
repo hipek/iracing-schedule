@@ -28,6 +28,7 @@ class SeasonsController < ApplicationController
 
     respond_to do |format|
       if @season.save
+        @season.make_other_inactive if @season.active?
         format.html { redirect_to @season, notice: 'Season was successfully created.' }
         format.json { render :show, status: :created, location: @season }
       else
@@ -42,6 +43,7 @@ class SeasonsController < ApplicationController
   def update
     respond_to do |format|
       if @season.update(season_params)
+        @season.make_other_inactive if @season.active?
         format.html { redirect_to @season, notice: 'Season was successfully updated.' }
         format.json { render :show, status: :ok, location: @season }
       else
