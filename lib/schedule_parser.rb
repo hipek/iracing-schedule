@@ -1,4 +1,17 @@
 class ScheduleParser < Struct.new(:file)
+  class SeriesSeason < Struct.new(:name, :tracks, :season_name)
+    def series_name
+      name.gsub(season_name, ' ').
+      squeeze(' ').
+      gsub(/\-\s?\-/,'-').
+      strip.chomp('-').strip
+    end
+
+    def season_name
+      @season_name ||= super || name.split(' - ').last.strip
+    end
+  end
+
   def open_file
     path = if file.respond_to?(:path)
       file.path
@@ -52,7 +65,8 @@ class ScheduleParser < Struct.new(:file)
         ]
       else
         yield season if season.present?
-        season = OpenStruct.new name: rows.first, tracks: []
+        season = SeriesSeason.new rows.first, [], @season_name
+        @season_name ||= season.season_name
       end
     end
   end

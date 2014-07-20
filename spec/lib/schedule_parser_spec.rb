@@ -6,4 +6,8 @@ describe ScheduleParser do
   it "returns series" do
     expect(subject.series.size).to eql(36)
   end
+
+  it "has correct series names" do
+    expect(subject.series.map(&:series_name)).to include('iRacing Global Challenge - Fixed')
+  end
 end
