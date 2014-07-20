@@ -43,7 +43,8 @@ class Season < ActiveRecord::Base
 
   def user_series(team)
     series.includes(series_tracks: [:track_values]).where(
-      name: team.user_seasons.map{|us| us.series_names}.flatten.uniq
+      name: team.user_seasons.where(season_id: id).
+        map{|us| us.series_names}.flatten.uniq
     )
   end
 
