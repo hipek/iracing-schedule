@@ -14,9 +14,15 @@
     = f.label :season_id, 'Season'
     = f.select :season_id, Season.active.all.map{|u| [u.name, u.id]}
 
+  - series = SeriesCollectionDecorator.decorate(Series.latest)
+
   .field
-    = f.label :series_names, 'Series'
-    = f.select :series_names, Series.latest.map{|s| [s.name, s.name]}, {}, { :multiple => true, :size => 30 }
+    = f.label :series_names, 'Road Series'
+    = f.select :series_names, series.road.map{|s| [s.full_name, s.name]}, {}, { :multiple => true, :size => 20, style: 'width: 260px' }
+
+  .field
+    = f.label :series_names, 'Oval Series'
+    = f.select :series_names, series.oval.map{|s| [s.full_name, s.name]}, {}, { :multiple => true, :size => 20, style: 'width: 260px' }
 
   .actions
     = f.submit 'Save'

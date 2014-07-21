@@ -4,7 +4,10 @@
     %table.series-tracks
       %thead
         %tr
-          %th.series-name{colspan: 3}= series.name
+          %th.series-name{colspan: 3}
+            - if series.license.present?
+              [#{series.license}]
+            = series.name
           - if users.present?
             - series.users.each do |user|
               - next unless user.team_id == current_team.id

@@ -29,6 +29,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'thin'
 gem 'haml-rails'
 gem 'pdf-reader'
+gem 'draper'
 
 group :development do
   gem 'spring'

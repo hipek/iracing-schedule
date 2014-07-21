@@ -18,6 +18,7 @@ module IracingSchedule
 
     config.eager_load_paths += %W(
       #{config.root}/lib
+      #{config.root}/decorators
     )
 
     # The default locale is :en and all translations from config/locales/*.rb,yml are auto loaded.
