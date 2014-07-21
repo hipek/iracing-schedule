@@ -23,6 +23,8 @@ class Season < ActiveRecord::Base
       self.name = series.season_name if name.blank?
       ser = Series.new(
         name: series.series_name,
+        license: series.license,
+        race_type: series.race_type,
         season_id: id
       )
       ser.series_tracks = series.tracks.each_with_index.map do |track, i|

@@ -1,6 +1,6 @@
 class ScheduleParser < Struct.new(:file)
   class SeriesSeason < Struct.new(:name, :tracks)
-    attr_accessor :season_name, :klass, :kind
+    attr_accessor :season_name, :license, :race_type
 
     def series_name
       name.gsub(season_name, ' ').
@@ -55,17 +55,18 @@ class ScheduleParser < Struct.new(:file)
 
   def read
     season = nil
-    klass = nil
-    kind = nil
+    license = nil
+    race_type = nil
     lines do |line|
       if line.match /Class Series/
-        klass = line.strip 
+        license = line.strip.split('Class').first.strip
         next
       end
       if line.match /ROAD|OVAL/
-        kind = line.strip
+        race_type = line.strip
         next
       end
+
       night = !!line.match(NIGHT_RACE)
       rows  = line.split(/[\s]{2,}/)
 
@@ -80,8 +81,8 @@ class ScheduleParser < Struct.new(:file)
         yield season if season.present?
         season = SeriesSeason.new rows.first, []
         season.season_name = @season_name
-        season.kind = kind
-        season.klass = klass
+        season.race_type = race_type
+        season.license = license
         @season_name ||= season.season_name
       end
     end
