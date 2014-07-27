@@ -27,6 +27,11 @@
             = ft.text_field :name
           %td.duration
             = ft.text_field :duration
+    %p
+      Cars:
+      %br
+      - f.object.cars.each do |car|
+        = text_field_tag 'series[cars][]', car
 
   %div{style: 'clear:left'}
   .actions.clear

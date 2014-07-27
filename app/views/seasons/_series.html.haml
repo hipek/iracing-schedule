@@ -27,4 +27,8 @@
                 %td{class: user_track_css(user, track)}
                   = text_field_tag '', track.value_for_user(user).try(:value), id: "ut_#{user.id}_#{track.id}", class: user_track_css(user, track), 'data' => {user_id: user.id, series_track_id: track.id}
 
+    %p
+      Cars:
+      = series.cars.join(', ')
+
 %div{style: 'clear:left'}
