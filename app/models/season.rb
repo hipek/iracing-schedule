@@ -25,7 +25,8 @@ class Season < ActiveRecord::Base
         name: series.series_name,
         license: series.license,
         race_type: series.race_type,
-        season_id: id
+        season_id: id,
+        cars: series.cars,
       )
       ser.series_tracks = series.tracks.each_with_index.map do |track, i|
         SeriesTrack.new(

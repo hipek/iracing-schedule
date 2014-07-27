@@ -1,5 +1,7 @@
 class ScheduleParser < Struct.new(:file)
-  class SeriesSeason < Struct.new(:name, :tracks)
+  attr_accessor :season, :license, :race_type, :cars
+
+  class SeriesSeason < Struct.new(:name, :tracks, :cars)
     attr_accessor :season_name, :license, :race_type
 
     def series_name
@@ -44,26 +46,29 @@ class ScheduleParser < Struct.new(:file)
   NIGHT_RACE = 'Night race'
 
   def lines
+    last = ''
     pages do |page|
       page.text.split(/\n/).each do |line|
+        next if line.blank?
         if KEYWORDS.any?{|k| line.match(k)}
+          last = line
           yield line.strip
+        elsif last.match /Season/
+          self.cars = line.strip.split(',')
+          last = ''
         end
       end
     end
   end
 
   def read
-    season = nil
-    license = nil
-    race_type = nil
     lines do |line|
       if line.match /Class Series/
-        license = line.strip.split('Class').first.strip
+        self.license = line.strip.split('Class').first.strip
         next
       end
       if line.match /ROAD|OVAL/
-        race_type = line.strip
+        self.race_type = line.strip
         next
       end
 
@@ -71,6 +76,7 @@ class ScheduleParser < Struct.new(:file)
       rows  = line.split(/[\s]{2,}/)
 
       if rows.size > 1
+        season.cars ||= cars.map(&:strip)
         season.tracks << [
           parse_date(rows[0]),
           clear(rows[1]),
@@ -79,13 +85,17 @@ class ScheduleParser < Struct.new(:file)
         ]
       else
         yield season if season.present?
-        season = SeriesSeason.new rows.first, []
-        season.season_name = @season_name
-        season.race_type = race_type
-        season.license = license
-        @season_name ||= season.season_name
+        set_season(rows)
       end
     end
+  end
+
+  def set_season(rows)
+    self.season = SeriesSeason.new rows.first, []
+    season.season_name = @season_name
+    season.race_type = race_type
+    season.license = license
+    @season_name ||= season.season_name
   end
 
   def parse_date(str)
