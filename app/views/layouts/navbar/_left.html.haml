@@ -1,0 +1,43 @@
+%ul.nav.navbar-nav
+  %li.dropdown
+    = link_to '#', class: 'dropdown-toggle', data: {toggle: 'dropdown'} do
+      = t'Series'
+      %b.caret
+
+    %ul.dropdown-menu
+      %li= link_to t('Current seasons'), Season.current.first
+      %li.divider
+      %li.dropdown-header= t'Past seasons'
+      - Season.past.each do |season|
+        %li= link_to season.name, season_url(season)
+
+  / %li
+  /   = link_to 'Tracks', tracks_url
+  / %li
+  /   = link_to 'Seasons', seasons_url
+  / %li
+  /   = link_to 'Series', series_index_url
+
+  - if current_team.present?
+
+    %li.dropdown
+      = link_to '#', class: 'dropdown-toggle', data: {toggle: 'dropdown'} do
+        = t'My Series'
+        %b.caret
+
+      %ul.dropdown-menu
+        %li= link_to t('Current seasons'), team_root_url
+        %li.divider
+        %li.dropdown-header= t'Past seasons'
+        - Season.past.each do |season|
+          %li= link_to season.name, my_series_url(season)
+
+    %li
+      = link_to 'Users', users_url
+    %li
+      = link_to 'User seasons', user_seasons_url
+
+  / %li
+  /   %a{:href => "#about"} About
+  / %li
+  /   %a{:href => "#contact"} Contact

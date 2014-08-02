@@ -11,6 +11,8 @@ class Season < ActiveRecord::Base
   before_validation :read_seasons
 
   scope :active, ->{ where(active: true) }
+  scope :past, ->{ where(active: false).order('name asc') }
+  scope :current, -> { active }
 
   class << self
     def latest

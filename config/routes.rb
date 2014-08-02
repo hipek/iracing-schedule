@@ -16,6 +16,7 @@ Rails.application.routes.draw do
     resources :users
 
     get 'home/index'
+    get 'my_series/:id', to: 'home#show', as: :my_series
 
     get '/', to: 'home#index', as: :team_root
   end

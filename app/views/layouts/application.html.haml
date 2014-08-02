@@ -17,38 +17,15 @@
   %body
     .navbar.navbar-inverse.navbar-fixed-top
       .container
-        .navbar-header
-          %button.navbar-toggle{:type => "button", :data => {:toggle => "collapse", :target => ".navbar-collapse"} }
-            %span.sr-only Toggle navigation
-            %span.icon-bar
-            %span.icon-bar
-            %span.icon-bar
-          = link_to "iSchedule", '/', :class => "navbar-brand"
+        = render 'layouts/navbar/header'
         .collapse.navbar-collapse
-          %ul.nav.navbar-nav
-            %li
-              = link_to 'Welcome', root_url
-            %li
-              = link_to 'Tracks', tracks_url
-            %li
-              = link_to 'Seasons', seasons_url
-            %li
-              = link_to 'Series', series_index_url
-            - if current_team.present?
-              %li
-                = link_to 'Home', team_root_url
-              %li
-                = link_to 'Users', users_url
-              %li
-                = link_to 'User seasons', user_seasons_url
+          = render 'layouts/navbar/left'
+          = render 'layouts/navbar/right'
 
-            %li
-              %a{:href => "#about"} About
-            %li
-              %a{:href => "#contact"} Contact
     .container
       - flash.each do |name, msg|
         = content_tag :div, :class => "alert alert-#{name == :error ? "danger" : "success" } alert-dismissable" do
           %button.close{:type => "button", :data => {:dismiss => "alert"}, :aria => {:hidden => "true"} } &times;
           = msg
+
       = yield

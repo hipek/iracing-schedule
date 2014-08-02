@@ -1,6 +1,6 @@
 - users ||= nil
 - series.each_with_index do |series, i|
-  .series
+  .series.col-md-6
     %table.series-tracks.table.table-striped.table-hover
       %thead
         %tr
@@ -26,9 +26,10 @@
                 - next unless user.team_id == current_team.id
                 %td{class: user_track_css(user, track)}
                   = text_field_tag '', track.value_for_user(user).try(:value), id: "ut_#{user.id}_#{track.id}", class: user_track_css(user, track), 'data' => {user_id: user.id, series_track_id: track.id}
+      %tfoot
+        %tr
+          %td{colspan: 12}
+            Cars:
+            = series.cars.join(', ')
 
-    %p
-      Cars:
-      = series.cars.join(', ')
-
-%div{style: 'clear:left'}
+.clearfix
