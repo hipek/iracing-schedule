@@ -1,15 +1,17 @@
 %h1 Listing series
 
-%table
-  %tr
-    %th Name
-    %th Season
-    %th
-
-  - @series.each do |series|
+= table_for do |t|
+  %thead
     %tr
-      %td= series.name
-      %td= series.season.name
-      %td
-        = link_to 'Show', series
-        = link_to 'Edit', edit_series_path(series) if series.season.active?
+      %th Name
+      %th Season
+      %th
+
+  %tbody
+    - @series.each do |series|
+      %tr
+        %td= series.name
+        %td= series.season.name
+        %td
+          = link_to 'Show', series
+          = link_to 'Edit', edit_series_path(series) if series.season.active?

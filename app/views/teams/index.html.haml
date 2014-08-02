@@ -1,17 +1,19 @@
 %h1 Listing teams
 
-%table
-  %tr
-    %th Name
-    %th
-
-  - @teams.each do |team|
+= table_for do |t|
+  %thead
     %tr
-      %td= team.name
-      %td
-        = link_to 'Show', team
-        = link_to 'Edit', edit_team_path(team)
-        = link_to 'Destroy', team, :method => :delete, :data => { :confirm => 'Are you sure?' }
+      %th Name
+      %th
+
+  %tbody
+    - @teams.each do |team|
+      %tr
+        %td= team.name
+        %td
+          = link_to 'Show', team
+          = link_to 'Edit', edit_team_path(team)
+          = link_to 'Destroy', team, :method => :delete, :data => { :confirm => 'Are you sure?' }
 
 %br
 

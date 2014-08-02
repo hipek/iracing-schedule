@@ -23,11 +23,25 @@
             %span.icon-bar
             %span.icon-bar
             %span.icon-bar
-          = link_to "Project name", "#", :class => "navbar-brand"
+          = link_to "iSchedule", '/', :class => "navbar-brand"
         .collapse.navbar-collapse
           %ul.nav.navbar-nav
-            %li.active
-              %a{:href => "#"} Home
+            %li
+              = link_to 'Welcome', root_url
+            %li
+              = link_to 'Tracks', tracks_url
+            %li
+              = link_to 'Seasons', seasons_url
+            %li
+              = link_to 'Series', series_index_url
+            - if current_team.present?
+              %li
+                = link_to 'Home', team_root_url
+              %li
+                = link_to 'Users', users_url
+              %li
+                = link_to 'User seasons', user_seasons_url
+
             %li
               %a{:href => "#about"} About
             %li

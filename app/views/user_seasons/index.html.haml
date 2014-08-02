@@ -1,23 +1,25 @@
 %h1 Listing user season series
 
-%table
-  %tr
-    %th User
-    %th Season
-    %th Series
-    %th
-
-  - @user_seasons.each do |us|
+= table_for do |t|
+  %thead
     %tr
-      %td= us.user.name
-      %td= us.season.name
-      %td= us.series_names.join(', ')
-      %td
-        - if us.season.active?
-          = link_to 'Edit', edit_user_season_path(us)
-          = link_to 'Destroy', us, :method => :delete, :data => { :confirm => 'Are you sure?' }
-        - else
-          &nbsp;
+      %th User
+      %th Season
+      %th Series
+      %th
+
+  %tbody
+    - @user_seasons.each do |us|
+      %tr
+        %td= us.user.name
+        %td= us.season.name
+        %td= us.series_names.join(', ')
+        %td
+          - if us.season.active?
+            = link_to 'Edit', edit_user_season_path(us)
+            = link_to 'Destroy', us, :method => :delete, :data => { :confirm => 'Are you sure?' }
+          - else
+            &nbsp;
 
 %br
 

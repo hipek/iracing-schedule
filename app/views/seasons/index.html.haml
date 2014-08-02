@@ -1,19 +1,20 @@
 %h1 Listing seasons
 
-%table
-  %tr
-    %th Name
-    %th Active
-    %th
-
-  - @seasons.each do |season|
+= table_for do |t|
+  %thead
     %tr
-      %td= season.name
-      %td= season.active
-      %td
-        = link_to 'Show', season
-        = link_to 'Edit', edit_season_path(season)
-        = link_to 'Destroy', season, :method => :delete, :data => { :confirm => 'Are you sure?' }
+      %th Name
+      %th Active
+      %th
+  %tbody
+    - @seasons.each do |season|
+      %tr
+        %td= season.name
+        %td= season.active
+        %td
+          = link_to 'Show', season
+          = link_to 'Edit', edit_season_path(season)
+          = link_to 'Destroy', season, :method => :delete, :data => { :confirm => 'Are you sure?' }
 
 %br
 
