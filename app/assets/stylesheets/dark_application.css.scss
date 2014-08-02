@@ -10,7 +10,6 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
  *= require_self
  */
 
@@ -86,6 +85,7 @@ body { padding:0; margin:0; }
 #main span.hl { background:#efefef; padding:2px;}
 #main h1 { margin:10px 0; font-size:190%; font-weight:bold; color:#ce1212;}
 #main h2 { margin:10px 0; font-size:130%;}
+#main h3 { margin:10px 0; font-size:150%; font-weight:bold; color:#ce1212;}
 #main table { width:100%; margin:10px 0;}
 #main table tr td, #main table tr th { border:1px solid #ccc; padding:3px;}
 #main table tr th { background:#efefef; color:#888; font-size:15px; font-weight:bold;}
@@ -249,4 +249,8 @@ body { padding:0; margin:0; }
 
 .bold {
   font-weight:bold;
+}
+
+table tfoot td {
+  border: none !important;
 }
