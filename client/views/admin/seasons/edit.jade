@@ -1,0 +1,8 @@
+template(name='adminSeasonsEdit')
+  .anti-modal-box
+    .anti-modal-header
+      .anti-modal-title Edit seasons
+      .anti-modal-closer &times;
+    .anti-modal-body
+      +quickForm collection='Seasons' schema="SeasonsSchema" id='updateSeasonForm' doc=season type='update'
+

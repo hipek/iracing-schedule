@@ -1,0 +1,22 @@
+template(name='adminTeams')
+  h1 Teams
+
+  a(href='#' id='newTeam') New team
+
+  table
+    thead
+      tr
+        th Name
+        th Players
+        th Actions
+    tbody
+      each teams
+        tr
+          td= name
+          td= playerList
+          td
+            a(href='#' id="destroyTeam" data-id=_id)
+              | Delete
+            | |
+            a(href='#' id="editTeam" data-id=_id)
+              | Edit

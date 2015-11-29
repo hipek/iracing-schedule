@@ -1,0 +1,11 @@
+template(name='mainLayout')
+  .navbar.navbar-inverse.navbar-fixed-top
+    .container-fluid
+      +navbarHeader
+      .collapse.navbar-collapse
+        +navbarLeft
+        +navbarRight
+
+  .container-fluid
+    +flashMessages
+    +yield

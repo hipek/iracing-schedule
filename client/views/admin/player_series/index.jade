@@ -1,0 +1,23 @@
+template(name='adminPlayerSeries')
+  h1 Player Series
+
+  table
+    thead
+      tr
+        th Name
+        th Season ID
+        th Season name
+        th Player
+        th Team
+        th Actions
+    tbody
+      each playerSeries
+        tr
+          td= seriesName
+          td= seasonId
+          td= seasonName
+          td= playerNickname
+          td= teamId
+          td
+            a(href='#' id="destroyPlayerSeries" data-id=_id)
+              | Delete

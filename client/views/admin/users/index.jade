@@ -1,0 +1,19 @@
+template(name='adminUsers')
+  h1 Users
+
+  table
+    thead
+      tr
+        th ID
+        th Email
+        th Service
+        th Roles
+        th Actions
+    tbody
+      each users
+        tr
+          td= _id
+          td= email
+          td= service
+          td= roles
+          td

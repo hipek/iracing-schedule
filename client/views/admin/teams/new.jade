@@ -1,0 +1,7 @@
+template(name='adminTeamsNew')
+  .anti-modal-box
+    .anti-modal-header
+      .anti-modal-title New team
+      .anti-modal-closer &times;
+    .anti-modal-body
+      +quickForm collection='Teams' schema="TeamsSchema" id='insertTeamForm' type='insert'

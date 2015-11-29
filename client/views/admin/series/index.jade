@@ -1,0 +1,19 @@
+template(name='adminSeries')
+  h1 Series
+
+  table
+    thead
+      tr
+        th Name
+        th Cars
+        th Season
+        th Actions
+    tbody
+      each series
+        tr
+          td= seriesName
+          td= carNames
+          td= seasonName
+          td
+            +linkTo route='adminSeriesEdit' id=_id
+              | Edit

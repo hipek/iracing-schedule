@@ -1,0 +1,28 @@
+template(name='playerTracksIndex')
+  .row
+    .col-md-12
+      h1 Player tracks
+
+  .row
+    .col-md-12
+      form(id='savePlayerTracksForm')
+        table
+          thead
+            tr
+              th Own
+              th To buy
+              th Don't want
+              th Name
+          tbody
+            each playerTracks
+              tr
+                each playerTrackKinds this
+                  td
+                    if show
+                      input(type='radio' name="{{track._id}}" value=kind checked=checked)
+                td
+                  = name
+        br/
+        button(type='submit' class='btn btn-primary btn-xs') Update
+        br/
+        br/

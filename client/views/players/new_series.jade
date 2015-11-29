@@ -1,0 +1,20 @@
+template(name='playerSeriesNew')
+  .anti-modal-box.player-series-modal
+    .anti-modal-header
+      .anti-modal-title New player series for
+        | {{seasonName}}
+      .anti-modal-closer &times;
+    .anti-modal-body.row
+      +autoForm collection='PlayerSeries' schema='PlayerSeriesSelectSchema' id='insertPlayerSeriesForm' doc=doc
+        .col-md-6
+          +afQuickField name='seriesRoad' options=roadOptions
+
+        .col-md-6
+          +afQuickField name='seriesOval' options=ovalOptions
+
+        .form-group.col-md-6
+          +afQuickField name='playerNickname'
+          +afQuickField name='teamId'
+          +afQuickField name='seasonId'
+
+          button(type="submit" class="btn btn-primary") Submit
