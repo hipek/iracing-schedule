@@ -1,8 +1,0 @@
-template(name='navbarRight')
-  ul.nav.navbar-nav.navbar-right
-    +loginButtons
-
-    if isAdmin
-      li
-        +linkTo route='admin'
-          | Admin

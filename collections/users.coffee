@@ -1,1 +1,0 @@
-Meteor.users.helpers UsersHelpers
