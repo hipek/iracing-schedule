@@ -1,0 +1,1775 @@
+Current iRacing Race Schedule
+OVAL
+R Class Series
+iRacing Advanced Legends - 2015 Season 2
+Legends Ford '34 Coupe
+Rookie (3.0) --> Pro/WC (4.0)
+Races at 30 past and qual at 15 past every hour
+Week 1 (2015-03-17) Charlotte Motor Speedway - Legends Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 2 (2015-03-24) Oxford Plains Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 3 (2015-03-31) USA International Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 4 (2015-04-07) South Boston Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+Week 5 (2015-04-14) Thompson Speedway Motorsports Park - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+30 laps
+Week 6 (2015-04-21) Lanier National Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+Week 7 (2015-04-28) Charlotte Motor Speedway - Legends Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 8 (2015-05-05) Lime Rock Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+20 laps
+Week 9 (2015-05-12) USA International Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 10 (2015-05-19) South Boston Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 11 (2015-05-26) Thompson Speedway Motorsports Park - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+30 laps
+Week 12 (2015-06-02) Lanier National Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+iRacing Street Stock - 2015 Season 2 Fixed
+Street Stock
+Rookie (1.0) --> Class D (4.0)
+qual at 45 past every hour races every hour
+Week 1 (2015-03-17) Charlotte Motor Speedway - Oval Cautions disabled, Single file restarts,
+Rolling start
+20 laps
+Week 2 (2015-03-24) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 3 (2015-03-31) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 4 (2015-04-07) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 5 (2015-04-14) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 6 (2015-04-21) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 7 (2015-04-28) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 8 (2015-05-05) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 9 (2015-05-12) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 10 (2015-05-19) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 11 (2015-05-26) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 12 (2015-06-02) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+D Class Series
+NASCAR iRacing Late Model Series - 2015 Season 2
+Chevrolet Monte Carlo SS
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every 2 hours and qual on the hour every hour
+Week 1 (2015-03-17) New Smyrna Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+60 laps
+Week 2 (2015-03-24) Lanier National Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+60 laps
+Week 3 (2015-03-31) Stafford Motor Speedway - Full Course Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 4 (2015-04-07) South Boston Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+70 laps
+Week 5 (2015-04-14) Langley Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+70 laps
+Week 6 (2015-04-21) Lucas Oil Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 7 (2015-04-28) Irwindale Speedway - Outer Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 8 (2015-05-05) Thompson Speedway Motorsports Park - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 9 (2015-05-12) Bristol Motor Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+70 laps
+Week 10 (2015-05-19) Gateway Motorsports Park - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+35 laps
+Week 11 (2015-05-26) USA International Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 12 (2015-06-02) Iowa Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+NASCAR iRacing National Series - 2015 Season 2 Fixed
+Chevrolet National Impala
+Rookie (4.0) --> Pro/WC (4.0)
+Races 45 past every odd 2 hours and qual 30 past every hour
+Week 1 (2015-03-17) Gateway Motorsports Park - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 2 (2015-03-24) New Smyrna Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+60 laps
+Week 3 (2015-03-31) Irwindale Speedway - Outer Cautions disabled, Double file restarts
+lapped at back, Rolling start
+60 laps
+Week 4 (2015-04-07) Bristol Motor Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 5 (2015-04-14) Richmond International Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 6 (2015-04-21) Lucas Oil Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 7 (2015-04-28) USA International Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 8 (2015-05-05) Thompson Speedway Motorsports Park - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 9 (2015-05-12) Iowa Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 10 (2015-05-19) Rockingham Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 11 (2015-05-26) Darlington Raceway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 12 (2015-06-02) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+NASCAR iRacing SK Modified Series - 2015 Season 2
+Modified - SK
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours and qual at 45 past every hour
+Week 1 (2015-03-17) USA International Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+Week 2 (2015-03-24) South Boston Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+45 laps
+Week 3 (2015-03-31) Lanier National Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 4 (2015-04-07) Lucas Oil Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 5 (2015-04-14) Thompson Speedway Motorsports Park - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 6 (2015-04-21) Concord Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 7 (2015-04-28) Martinsville Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+55 laps
+Week 8 (2015-05-05) Oxford Plains Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+60 laps
+Week 9 (2015-05-12) Stafford Motor Speedway - Full Course Cautions disabled, Double file restarts
+lapped at back, Rolling start
+45 laps
+Week 10 (2015-05-19) Irwindale Speedway - Outer Cautions disabled, Double file restarts
+lapped at back, Rolling start
+45 laps
+Week 11 (2015-05-26) Langley Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 12 (2015-06-02) New Smyrna Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+C Class Series
+INDYCAR Series - Oval - 2015 Season 2 Fixed
+Dallara DW12
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past and qual on the hour every hour
+Week 1 (2015-03-17) Michigan International Speedway Full course cautions, Single file
+restarts, Rolling start
+42 laps
+Week 2 (2015-03-24) Pocono Raceway - Oval Full course cautions, Single file
+restarts, Rolling start
+32 laps
+Week 3 (2015-03-31) Twin Ring Motegi - Oval Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 4 (2015-04-07) Charlotte Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 5 (2015-04-14) Homestead Miami Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 6 (2015-04-21) Atlanta Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+60 laps
+Week 7 (2015-04-28) New Hampshire Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+60 laps
+Week 8 (2015-05-05) Iowa Speedway - Oval Night race, Full course cautions,
+Single file restarts, Rolling start
+60 laps
+Week 9 (2015-05-12) Chicagoland Speedway Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 10 (2015-05-19) Indianapolis Motor Speedway - IndyCar Oval Full course cautions, Single file
+restarts, Rolling start
+32 laps
+Week 11 (2015-05-26) Auto Club Speedway - Oval Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 12 (2015-06-02) Texas Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+50 laps
+iRacing Street Stock Class C - 2015 Season 2 - Fixed
+Street Stock
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour and qual at 45 past every hour
+Week 1 (2015-03-17) New Smyrna Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 2 (2015-03-24) Lanier National Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 3 (2015-03-31) Thompson Speedway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 4 (2015-04-07) Rockingham Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+30 laps
+Week 5 (2015-04-14) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 6 (2015-04-21) Lucas Oil Raceway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 7 (2015-04-28) South Boston Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 8 (2015-05-05) Irwindale Speedway - Outer Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 9 (2015-05-12) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 10 (2015-05-19) USA International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 11 (2015-05-26) Langley Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 12 (2015-06-02) Stafford Motor Speedway - Full Course Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+NASCAR iRacing Super Late Model Series - 2015 Season 2
+Super Late Model
+Class D (4.0) --> Pro/WC (4.0)
+Races at 15 past every 2 hours and qual on the hour every hour
+Week 1 (2015-03-17) Gateway Motorsports Park - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+60 laps
+Week 2 (2015-03-24) Irwindale Speedway - Outer Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 3 (2015-03-31) New Smyrna Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+70 laps
+Week 4 (2015-04-07) Lanier National Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+80 laps
+Week 5 (2015-04-14) South Boston Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 6 (2015-04-21) USA International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 7 (2015-04-28) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 8 (2015-05-05) Stafford Motor Speedway - Full Course Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 9 (2015-05-12) Langley Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 10 (2015-05-19) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+80 laps
+Week 11 (2015-05-26) Thompson Speedway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 12 (2015-06-02) Concord Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+90 laps
+NASCAR iRacing Class C Series - 2015 Season
+Chevrolet Silverado
+Class D (4.0) --> Pro/WC (4.0)
+Races 45 past every 2 hours and qual 30 past every hour
+Week 1 (2015-03-24) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+125 laps
+Week 2 (2015-05-05) Kansas Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+84 laps
+Week 3 (2015-05-12) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+67 laps
+Week 4 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 5 (2015-06-02) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+84 laps
+Week 6 (2015-06-09) Gateway Motorsports Park - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 7 (2015-06-16) Iowa Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 8 (2015-07-07) Kentucky Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+75 laps
+Week 9 (2015-07-28) Pocono Raceway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+38 laps
+Week 10 (2015-08-11) Michigan International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 11 (2015-08-18) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 12 (2015-08-25) Canadian Tire Motorsports Park Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+35 laps
+Week 13 (2015-09-15) Chicagoland Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+75 laps
+Week 14 (2015-09-22) New Hampshire Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+88 laps
+Week 15 (2015-09-29) Las Vegas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+73 laps
+Week 16 (2015-10-20) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+47 laps
+Week 17 (2015-10-27) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 18 (2015-11-03) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+74 laps
+Week 19 (2015-11-10) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+75 laps
+Week 20 (2015-11-17) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+67 laps
+NASCAR iRacing Class C Series - 2015 Season 2 Fixed
+Chevrolet Silverado
+Class D (4.0) --> Pro/WC (4.0)
+Races 15 past and qual on the hour every hour
+Week 1 (2015-03-17) Daytona International Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+25 laps
+Week 2 (2015-03-24) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+62 laps
+Week 3 (2015-03-31) Autodromo Nazionale Monza - Oval - Left turning Full course cautions, Double file
+restarts lapped at back, Rolling start
+20 laps
+Week 4 (2015-04-07) Atlanta Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+42 laps
+Week 5 (2015-04-14) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 6 (2015-04-21) Michigan International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+25 laps
+Week 7 (2015-04-28) New Hampshire Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+44 laps
+Week 8 (2015-05-05) Kansas Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+42 laps
+Week 9 (2015-05-12) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+34 laps
+Week 10 (2015-05-19) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+38 laps
+Week 11 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+42 laps
+Week 12 (2015-06-02) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+42 laps
+NASCAR iRacing Tour Modified Series - 2015 Season 2
+Modified - Tour
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 45 past every hour
+Week 1 (2015-03-17) New Smyrna Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 2 (2015-03-24) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 3 (2015-03-31) Lanier National Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+120 laps
+Week 4 (2015-04-07) Thompson Speedway Motorsports Park - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 5 (2015-04-14) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 6 (2015-04-21) Stafford Motor Speedway - Full Course Full course cautions, Double file
+restarts lapped at back, Rolling start
+90 laps
+Week 7 (2015-04-28) Phoenix International Raceway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 8 (2015-05-05) South Boston Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+120 laps
+Week 9 (2015-05-12) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 10 (2015-05-19) USA International Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+80 laps
+Week 11 (2015-05-26) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+90 laps
+Week 12 (2015-06-02) New Hampshire Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+B Class Series
+INDYCAR Series - Oval - 2015 Season 2
+Dallara DW12
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour Qual at 45 past every hour.
+Week 1 (2015-03-17) Michigan International Speedway Full course cautions, Single file
+restarts, Rolling start
+84 laps
+Week 2 (2015-03-31) Twin Ring Motegi - Oval Full course cautions, Single file
+restarts, Rolling start
+100 laps
+Week 3 (2015-04-14) Homestead Miami Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+100 laps
+Week 4 (2015-04-28) New Hampshire Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+120 laps
+Week 5 (2015-05-19) Indianapolis Motor Speedway - IndyCar Oval Full course cautions, Single file
+restarts, Rolling start
+64 laps
+Week 6 (2015-06-02) Texas Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+100 laps
+iRacing Silver Crown Cup - 2015 Season 2
+Silver Crown
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours starting at 45 past qual 30 past every hour
+Week 1 (2015-03-17) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+67 laps
+Week 2 (2015-03-24) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 3 (2015-03-31) Phoenix International Raceway - 2008 - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 4 (2015-04-07) Iowa Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 5 (2015-04-14) Indianapolis Motor Speedway - IndyCar Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+40 laps
+Week 6 (2015-04-21) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 7 (2015-04-28) Gateway Motorsports Park - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+80 laps
+Week 8 (2015-05-05) New Hampshire Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 9 (2015-05-12) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 10 (2015-05-19) Kentucky Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+67 laps
+Week 11 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 12 (2015-06-02) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+67 laps
+iRacing Sprint Car Cup - 2015 Season 2
+Sprint Car
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour with qual every hour at 45 past
+Week 1 (2015-03-17) Lanier National Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 2 (2015-03-24) Thompson Speedway Motorsports Park - Oval Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 3 (2015-03-31) Phoenix International Raceway - 2008 - Oval Full course cautions, Single file
+restarts, Rolling start
+40 laps
+Week 4 (2015-04-07) Iowa Speedway - Oval Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 5 (2015-04-14) Stafford Motor Speedway - Full Course Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 6 (2015-04-21) Lucas Oil Raceway Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 7 (2015-04-28) South Boston Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 8 (2015-05-05) New Hampshire Motor Speedway - Oval Full course cautions, Single file
+restarts, Rolling start
+40 laps
+Week 9 (2015-05-12) Bristol Motor Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 10 (2015-05-19) USA International Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 11 (2015-05-26) Irwindale Speedway - Outer Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 12 (2015-06-02) New Smyrna Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+NASCAR iRacing Class B Series - 2015 Season
+Ford Mustang Class B, Chevrolet Camaro Class B
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 45 past every hour
+Week 1 (2015-02-17) Daytona International Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 2 (2015-02-24) Atlanta Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+97 laps
+Week 3 (2015-03-03) Las Vegas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 4 (2015-03-10) Phoenix International Raceway - Oval w/open
+dogleg
+Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 5 (2015-03-17) Auto Club Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+75 laps
+Week 6 (2015-04-07) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 7 (2015-04-14) Bristol Motor Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+125 laps
+Week 8 (2015-04-21) Richmond International Raceway Full course cautions, Double file
+restarts lapped at back, Rolling start
+125 laps
+Week 9 (2015-04-28) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+58 laps
+Week 10 (2015-05-12) Iowa Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+125 laps
+Week 11 (2015-05-19) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 12 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 13 (2015-06-09) Michigan International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+63 laps
+Week 14 (2015-06-16) Chicagoland Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 15 (2015-06-30) Daytona International Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 16 (2015-07-07) Kentucky Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 17 (2015-07-14) New Hampshire Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+98 laps
+Week 18 (2015-07-21) Indianapolis Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 19 (2015-07-28) Iowa Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+125 laps
+Week 20 (2015-08-04) Watkins Glen International - Cup Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+41 laps
+Week 21 (2015-08-11) Mid-Ohio Sports Car Course - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 laps
+Week 22 (2015-08-18) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+150 laps
+Week 23 (2015-08-25) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 laps
+Week 24 (2015-09-01) Darlington Raceway Full course cautions, Double file
+restarts lapped at back, Rolling start
+74 laps
+Week 25 (2015-09-08) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+125 laps
+Week 26 (2015-09-15) Chicagoland Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 27 (2015-09-22) Kentucky Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 28 (2015-09-29) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 29 (2015-10-06) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 30 (2015-10-13) Kansas Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 31 (2015-11-03) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 32 (2015-11-10) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 33 (2015-11-17) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+NASCAR iRacing Class B Series - 2015 Season 2 Fixed
+Ford Mustang Class B, Chevrolet Camaro Class B
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour and qual at 45 past every hour
+Week 1 (2015-03-17) Auto Club Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+37 laps
+Week 2 (2015-03-24) Daytona International Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+30 laps
+Week 3 (2015-03-31) Atlanta Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+41 laps
+Week 4 (2015-04-07) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 5 (2015-04-14) Bristol Motor Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+62 laps
+Week 6 (2015-04-21) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+62 laps
+Week 7 (2015-04-28) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+29 laps
+Week 8 (2015-05-05) Las Vegas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 9 (2015-05-12) Iowa Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+62 laps
+Week 10 (2015-05-19) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 11 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 12 (2015-06-02) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+A Class Series
+NASCAR iRacing Class A Series - 2015 Season 2
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past and qual at 15 past every hour
+Week 1 (2015-03-17) Auto Club Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 2 (2015-03-24) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+250 laps
+Week 3 (2015-03-31) Autodromo Nazionale Monza - Oval - Left turning Full course cautions, Double file
+restarts lapped at back, Rolling start
+75 laps
+Week 4 (2015-04-07) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+167 laps
+Week 5 (2015-04-14) Bristol Motor Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+250 laps
+Week 6 (2015-04-21) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+200 laps
+Week 7 (2015-04-28) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+94 laps
+Week 8 (2015-05-05) Kansas Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+134 laps
+Week 9 (2015-05-12) Daytona International Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 10 (2015-05-19) Charlotte Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+200 laps
+Week 11 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+200 laps
+Week 12 (2015-06-02) Pocono Raceway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+55 laps
+NASCAR iRacing Class A Series - 2015 Season 2 Fixed
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 and qual at 30 past every hour
+Week 1 (2015-03-17) Auto Club Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 2 (2015-03-24) Martinsville Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+125 laps
+Week 3 (2015-03-31) Autodromo Nazionale Monza - Oval - Left turning Full course cautions, Double file
+restarts lapped at back, Rolling start
+38 laps
+Week 4 (2015-04-07) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+84 laps
+Week 5 (2015-04-14) Bristol Motor Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+125 laps
+Week 6 (2015-04-21) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 7 (2015-04-28) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+47 laps
+Week 8 (2015-05-05) Kansas Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+69 laps
+Week 9 (2015-05-12) Daytona International Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 10 (2015-05-19) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 11 (2015-05-26) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 12 (2015-06-02) Pocono Raceway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+40 laps
+ROAD
+R Class Series
+iRacing Production Car Challenge - 2015 Season 2
+Pontiac Solstice, Mazda MX-5 Roadster
+Rookie (3.0) --> Pro/WC (4.0)
+Races 30 past every hour and qual on the hour every hour
+Week 1 (2015-03-17) Okayama International Circuit - Short Local enforced cautions, Single file
+restarts, Standing start
+25 laps
+Week 2 (2015-03-24) Summit Point Raceway - Jefferson Reverse Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 3 (2015-03-31) Charlotte Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 4 (2015-04-07) Summit Point Raceway - Short Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 5 (2015-04-14) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 6 (2015-04-21) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+11 laps
+Week 7 (2015-04-28) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+12 laps
+Week 8 (2015-05-05) Summit Point Raceway - Jefferson Circuit Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 9 (2015-05-12) Charlotte Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 10 (2015-05-19) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+14 laps
+Week 11 (2015-05-26) Lime Rock Park - Chicane Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 12 (2015-06-02) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+14 laps
+iRacing Mazda Cup - 2015 Season 2 Fixed
+Mazda MX-5 Cup, Mazda MX-5 Roadster
+Rookie (1.0) --> Pro/WC (4.0)
+Qual at 30 past every hour races every hour
+Week 1 (2015-03-17) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 2 (2015-03-24) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 3 (2015-03-31) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 4 (2015-04-07) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 5 (2015-04-14) Summit Point Raceway - Jefferson Circuit Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 6 (2015-04-21) Charlotte Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 7 (2015-04-28) Okayama International Circuit - Short Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 8 (2015-05-05) Lime Rock Park - Chicane Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 9 (2015-05-12) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 10 (2015-05-19) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 11 (2015-05-26) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 12 (2015-06-02) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+D Class Series
+iRacing Team GT3 Series- 2015 Season 2
+McLaren MP4-12C GT3, Ruf RT 12R Track, BMW Z4 GT3, Ford GT GT3
+Rookie (4.0) --> Pro/WC (4.0)
+Qual and Races Saturdays 14 GMT and Sundays 19 GMT
+Week 1 (2015-03-21) Sebring International Raceway - International Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 2 (2015-04-04) Suzuka International Racing Course - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 3 (2015-04-11) Circuit Zolder - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 4 (2015-04-18) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 5 (2015-04-25) Silverstone Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 6 (2015-05-02) Brands Hatch Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 7 (2015-05-09) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 8 (2015-05-16) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 9 (2015-05-23) Phillip Island Circuit Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+Week 10 (2015-06-06) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+180
+mins
+iRacing Global Challenge - 2015 Season 2 - Fixed
+Cadillac CTS-V Racecar, Kia Optima
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 30 past every odd 2 hours and qual at 15 past every hour
+Week 1 (2015-03-17) Okayama International Circuit - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 2 (2015-03-24) Watkins Glen International - Boot Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 3 (2015-03-31) Lime Rock Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 4 (2015-04-07) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 5 (2015-04-14) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 6 (2015-04-21) Daytona International Speedway - Road Course Night race, Local enforced cautions,
+Double file restarts lapped on inside,
+Rolling start
+25 mins
+Week 7 (2015-04-28) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 8 (2015-05-05) Canadian Tire Motorsports Park Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 9 (2015-05-12) Silverstone Circuit - Historical Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 10 (2015-05-19) Sonoma Raceway - Cup Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 11 (2015-05-26) Sebring International Raceway - International Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 12 (2015-06-02) Mount Panorama Circuit Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+iRacing Grand Touring Cup- 2015 Season 2
+Pontiac Solstice, VW Jetta TDI Cup, Ford Mustang FR500S
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 15 past and qual at 45 past every hour
+Week 1 (2015-03-17) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 2 (2015-03-24) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 3 (2015-03-31) Homestead Miami Speedway - Road Course A Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 4 (2015-04-07) Brands Hatch Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 5 (2015-04-14) Road America - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 6 (2015-04-21) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 7 (2015-04-28) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 8 (2015-05-05) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 9 (2015-05-12) Watkins Glen International - Cup Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 10 (2015-05-19) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 11 (2015-05-26) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 12 (2015-06-02) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+iRacing Spec Racer Ford Challenge - 2015 Season 2
+SCCA Spec Racer Ford
+Rookie (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past and qual at 15 past every hour
+Week 1 (2015-03-17) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 2 (2015-03-24) Sebring International Raceway - Modified Local enforced cautions, Single file
+restarts, Standing start
+18 laps
+Week 3 (2015-03-31) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 4 (2015-04-07) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+18 laps
+Week 5 (2015-04-14) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 6 (2015-04-21) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 7 (2015-04-28) Brands Hatch Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 8 (2015-05-05) Charlotte Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+18 laps
+Week 9 (2015-05-12) Sebring International Raceway - Club Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 10 (2015-05-19) Barber Motorsports Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 11 (2015-05-26) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 12 (2015-06-02) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Skip Barber Race Series - 2015 Season 2
+Skip Barber Formula 2000
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every hour
+Week 1 (2015-03-17) Suzuka International Racing Course - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+10 laps
+Week 2 (2015-03-24) Lime Rock Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+25 laps
+Week 3 (2015-03-31) Phillip Island Circuit Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+14 laps
+Week 4 (2015-04-07) Sebring International Raceway - International Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+10 laps
+Week 5 (2015-04-14) Virginia International Raceway - North Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+15 laps
+Week 6 (2015-04-21) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+10 laps
+Week 7 (2015-04-28) Canadian Tire Motorsports Park Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+16 laps
+Week 8 (2015-05-05) Circuit Gilles Villeneuve Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+13 laps
+Week 9 (2015-05-12) Oran Park Raceway - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+20 laps
+Week 10 (2015-05-19) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+15 laps
+Week 11 (2015-05-26) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+15 laps
+Week 12 (2015-06-02) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+14 laps
+C Class Series
+Advanced Mazda MX-5 Cup Series - 2015 Season 2
+Mazda MX-5 Cup
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past and qual at 45 past every hour
+Week 1 (2015-03-17) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 2 (2015-03-24) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 3 (2015-03-31) Mid-Ohio Sports Car Course - Short Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 4 (2015-04-07) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 5 (2015-04-14) Watkins Glen International - Boot Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 6 (2015-04-21) Oran Park Raceway - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 7 (2015-04-28) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 8 (2015-05-05) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 9 (2015-05-12) Daytona International Speedway - Short Night race, Local enforced cautions,
+Single file restarts, Standing start
+25 mins
+Week 10 (2015-05-19) Virginia International Raceway - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 11 (2015-05-26) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 12 (2015-06-02) Road Atlanta - Short Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Grand Prix Legends - 2015 Season 2
+Lotus 49
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 30 past and qual on the hour every hour
+Week 1 (2015-03-17) Okayama International Circuit - Full Course Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+17 laps
+Week 2 (2015-03-24) Oulton Park Circuit - Intl w/no Chicanes Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+18 laps
+Week 3 (2015-03-31) Brands Hatch Circuit - Grand Prix Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+18 laps
+Week 4 (2015-04-07) Road America - Full Course Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+27 laps
+Week 5 (2015-04-14) Virginia International Raceway - Full Course Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+14 laps
+Week 6 (2015-04-21) Autodromo Nazionale Monza - GP without
+chicanes
+Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+35 laps
+Week 7 (2015-04-28) Mazda Raceway Laguna Seca - Full Course Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+18 laps
+Week 8 (2015-05-05) Mid-Ohio Sports Car Course - Full Course Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+19 laps
+Week 9 (2015-05-12) Watkins Glen International - Classic Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+22 laps
+Week 10 (2015-05-19) Circuit Gilles Villeneuve Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+35 laps
+Week 11 (2015-05-26) Road Atlanta - Full Course Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+19 laps
+Week 12 (2015-06-02) Autodromo Nazionale Monza - Combined Local advisory cautions, Double file
+restarts lapped on inside, Standing
+start
+15 laps
+INDYCAR Series - Road - 2015 Season 2 Fixed
+Dallara DW12
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour. Qual 30 past every hour.
+Week 1 (2015-03-17) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+19 laps
+Week 2 (2015-03-31) Silverstone Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+14 laps
+Week 3 (2015-04-14) Circuit of the Americas - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+13 laps
+Week 4 (2015-04-28) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+13 laps
+Week 5 (2015-05-19) Brands Hatch Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+19 laps
+Week 6 (2015-06-09) Suzuka International Racing Course - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+12 laps
+iRacing Corvette Challenge- 2015 Season 2
+Chevrolet Corvette C6.R GT1
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour and qual at 30 past every hour
+Week 1 (2015-03-17) Watkins Glen International - Boot Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 2 (2015-03-24) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 3 (2015-03-31) Daytona International Speedway - Road Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 4 (2015-04-07) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 5 (2015-04-14) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 6 (2015-04-21) Autodromo Nazionale Monza - GP without first
+chicane
+Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 7 (2015-04-28) Donington Park Racing Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 8 (2015-05-05) Circuit Zolder - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 9 (2015-05-12) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 10 (2015-05-19) Suzuka International Racing Course - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 11 (2015-05-26) Road America - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 12 (2015-06-02) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+iRacing V8 Supercars Series - 2015 Season 2
+Holden Commodore VF V8, Ford Falcon FG V8
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2015-03-17) Canadian Tire Motorsports Park Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+38 laps
+Week 2 (2015-03-24) Donington Park Racing Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+24 laps
+Week 3 (2015-03-31) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+26 laps
+Week 4 (2015-04-07) Road Atlanta - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+22 laps
+Week 5 (2015-04-14) Oran Park Raceway - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+55 laps
+Week 6 (2015-04-21) Circuit Gilles Villeneuve Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+30 laps
+Week 7 (2015-04-28) Circuit Zolder - Alternate Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+29 laps
+Week 8 (2015-05-05) Mount Panorama Circuit Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+34 laps
+Week 9 (2015-05-12) Sebring International Raceway - International Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+26 laps
+Week 10 (2015-05-19) Virginia International Raceway - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+23 laps
+Week 11 (2015-05-26) Sonoma Raceway - Cup Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+25 laps
+Week 12 (2015-06-02) Phillip Island Circuit Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+27 laps
+iRacing Radical Racing Challenge - 2015 Season 2
+Radical SR8
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past qual 15 past every hour
+Week 1 (2015-03-17) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 2 (2015-03-24) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 3 (2015-03-31) Oulton Park Circuit - Intl w/no Chicanes Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 4 (2015-04-07) Barber Motorsports Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 5 (2015-04-14) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 6 (2015-04-21) Watkins Glen International - Classic Boot Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 7 (2015-04-28) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 8 (2015-05-05) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 9 (2015-05-12) Sebring International Raceway - International Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 10 (2015-05-19) Silverstone Circuit - Historical Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 11 (2015-05-26) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 12 (2015-06-02) Circuit of the Americas - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Ruf Cup - 2015 Season 2
+Ruf RT 12R C-Spec
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past and qual at 15 past every hour
+Week 1 (2015-03-17) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 2 (2015-03-24) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 3 (2015-03-31) Sebring International Raceway - International Night race, Local enforced cautions,
+Single file restarts, Standing start
+25 mins
+Week 4 (2015-04-07) Virginia International Raceway - North Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 5 (2015-04-14) Daytona International Speedway - Short Night race, Local enforced cautions,
+Single file restarts, Standing start
+25 mins
+Week 6 (2015-04-21) Indianapolis Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 7 (2015-04-28) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 8 (2015-05-05) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 9 (2015-05-12) Sonoma Raceway - Cup Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 10 (2015-05-19) Twin Ring Motegi - Grand Prix Night race, Local enforced cautions,
+Single file restarts, Standing start
+25 mins
+Week 11 (2015-05-26) Suzuka International Racing Course - East Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 12 (2015-06-02) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Star Mazda Championship - 2015 Season 2
+Star Mazda
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2015-03-17) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+18 laps
+Week 2 (2015-03-24) Barber Motorsports Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+20 laps
+Week 3 (2015-03-31) Circuit of the Americas - West Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+16 laps
+Week 4 (2015-04-07) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+12 laps
+Week 5 (2015-04-14) Mount Panorama Circuit Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+12 laps
+Week 6 (2015-04-21) Twin Ring Motegi - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+16 laps
+Week 7 (2015-04-28) Suzuka International Racing Course - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+15 laps
+Week 8 (2015-05-05) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+60 laps
+Week 9 (2015-05-12) Okayama International Circuit - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+18 laps
+Week 10 (2015-05-19) Lime Rock Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+24 laps
+Week 11 (2015-05-26) Virginia International Raceway - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+16 laps
+Week 12 (2015-06-02) Oran Park Raceway - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+18 laps
+B Class Series
+iRacing Classic Lotus Grand Prix- 2015 Season 2
+Lotus 79
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past. Qual on the hour every hour
+Week 1 (2015-03-17) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+44 laps
+Week 2 (2015-03-24) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Standing start
+34 laps
+Week 3 (2015-03-31) Autodromo Nazionale Monza - GP without
+chicanes
+Local enforced cautions, Single file
+restarts, Standing start
+30 laps
+Week 4 (2015-04-07) Circuit of the Americas - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+24 laps
+Week 5 (2015-04-14) Donington Park Racing Circuit - National Local enforced cautions, Single file
+restarts, Standing start
+49 laps
+Week 6 (2015-04-21) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+24 laps
+Week 7 (2015-04-28) Brands Hatch Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+38 laps
+Week 8 (2015-05-05) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+23 laps
+Week 9 (2015-05-12) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+39 laps
+Week 10 (2015-05-19) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Standing start
+31 laps
+Week 11 (2015-05-26) Sonoma Raceway - Long Local enforced cautions, Single file
+restarts, Standing start
+33 laps
+Week 12 (2015-06-02) Silverstone Circuit - Historical Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+66 laps
+iRacing GT3 Challenge Series- 2015 Season 2
+McLaren MP4-12C GT3, Ruf RT 12R Track, BMW Z4 GT3, Ford GT GT3
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 30 past every hour
+Week 1 (2015-03-17) Sebring International Raceway - International Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 2 (2015-03-24) Sonoma Raceway - IRL Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 3 (2015-03-31) Suzuka International Racing Course - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 4 (2015-04-07) Circuit Zolder - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 5 (2015-04-14) Road America - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 6 (2015-04-21) Silverstone Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 7 (2015-04-28) Brands Hatch Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 8 (2015-05-05) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 9 (2015-05-12) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 10 (2015-05-19) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 11 (2015-05-26) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+Week 12 (2015-06-02) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+40 mins
+INDYCAR Series - Road - 2015 Season 2
+Dallara DW12
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour. Qual 30 past every hour.
+Week 1 (2015-03-24) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+23 laps
+Week 2 (2015-04-07) Watkins Glen International - Boot Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+27 laps
+Week 3 (2015-04-21) Barber Motorsports Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+36 laps
+Week 4 (2015-05-05) Indianapolis Motor Speedway - Road Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+n/a
+Week 5 (2015-05-12) Mid-Ohio Sports Car Course - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+38 laps
+Week 6 (2015-05-26) Road Atlanta - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+35 laps
+World Sports Car Series - 2015 Season 2
+Riley MkXX Daytona Prototype, HPD ARX-01c, Ford GT, Ruf RT 12R C-
+Spec
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past and qual at 15 past every hour. 4 lap single
+car qual
+Week 1 (2015-03-17) Sebring International Raceway - International Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 2 (2015-03-24) Canadian Tire Motorsports Park Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 3 (2015-03-31) Indianapolis Motor Speedway - Road Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 4 (2015-04-07) Silverstone Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+70 mins
+Week 5 (2015-04-14) Watkins Glen International - Boot Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 6 (2015-04-21) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 7 (2015-04-28) Circuit de Spa-Francorchamps - Endurance Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+70 mins
+Week 8 (2015-05-05) Virginia International Raceway - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 9 (2015-05-12) Road Atlanta - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 10 (2015-05-19) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 11 (2015-05-26) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 12 (2015-06-02) Lime Rock Park - Chicane Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+A Class Series
+iRacing Grand Prix Series - 2015 Season 2
+Williams-Toyota FW31
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 30 past every hour
+Week 1 (2015-03-17) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+71 laps
+Week 2 (2015-03-24) Twin Ring Motegi - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+40 laps
+Week 3 (2015-03-31) Watkins Glen International - Classic Boot Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+35 laps
+Week 4 (2015-04-07) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+44 laps
+Week 5 (2015-04-14) Brands Hatch Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+52 laps
+Week 6 (2015-04-21) Suzuka International Racing Course - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+32 laps
+Week 7 (2015-04-28) Autodromo Nazionale Monza - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+53 laps
+Week 8 (2015-05-05) Silverstone Circuit - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+40 laps
+Week 9 (2015-05-12) Circuit of the Americas - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+34 laps
+Week 10 (2015-05-19) Circuit Gilles Villeneuve Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+42 laps
+Week 11 (2015-05-26) Phillip Island Circuit Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+42 laps
+Week 12 (2015-06-02) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Standing
+start
+29 laps
+FUN
+R Class Series
+Carburetor Cup - 2015 Season 2
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Rookie (1.0) --> Pro/WC (4.0)
+Races at 45 past and qual at 30 past every hour
+Week 1 (2015-03-17) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 2 (2015-03-24) Charlotte Motor Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+25 laps
+Week 3 (2015-03-31) Daytona International Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 4 (2015-04-07) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 5 (2015-04-14) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+25 laps
+Week 6 (2015-04-21) Daytona International Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+15 laps
+Week 7 (2015-04-28) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 8 (2015-05-05) Charlotte Motor Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+25 laps
+Week 9 (2015-05-12) Daytona International Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 10 (2015-05-19) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 11 (2015-05-26) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+25 laps
+Week 12 (2015-06-02) Daytona International Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+15 laps
+Week 13 (2015-06-09) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+

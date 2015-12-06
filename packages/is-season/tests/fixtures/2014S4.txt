@@ -1,0 +1,1090 @@
+Current iRacing Race Schedule
+OVAL
+R Class Series
+iRacing Advanced Legends - 2014 Season 4
+Legends Ford '34 Coupe
+Rookie (3.0) --> Pro/WC (4.0)
+Races at 30 past and qual at 15 past every hour
+Week 1 (2014-10-28) Charlotte Motor Speedway - Legends Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 2 (2014-11-04) Oxford Plains Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 3 (2014-11-11) USA International Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 4 (2014-11-18) South Boston Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+Week 5 (2014-11-25) Thompson Speedway Motorsports Park - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+30 laps
+Week 6 (2014-12-02) Lanier National Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+iRacing Street Stock - 2014 Season 4 Fixed
+Street Stock
+Rookie (1.0) --> Class D (4.0)
+qual at 45 past every hour races every hour
+Week 1 (2014-10-28) Charlotte Motor Speedway - Oval Cautions disabled, Single file restarts,
+Rolling start
+20 laps
+Week 2 (2014-11-04) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 3 (2014-11-11) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 4 (2014-11-18) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+Week 5 (2014-11-25) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Single
+file restarts, Rolling start
+20 laps
+Week 6 (2014-12-02) USA International Speedway Cautions disabled, Single file restarts,
+Rolling start
+40 laps
+D Class Series
+NASCAR iRacing Late Model Series - 2014 Season 4
+Chevrolet Monte Carlo SS
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every 2 hours and qual on the hour every hour
+Week 1 (2014-10-28) Lanier National Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+60 laps
+Week 2 (2014-11-04) New Hampshire Motor Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 3 (2014-11-11) South Boston Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+65 laps
+Week 4 (2014-11-18) Rockingham Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+35 laps
+Week 5 (2014-11-25) Oxford Plains Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+65 laps
+Week 6 (2014-12-02) Iowa Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+40 laps
+NASCAR iRacing National Series - 2014 Season 4 Fixed
+Chevrolet National Impala
+Rookie (4.0) --> Pro/WC (4.0)
+Races 45 past every odd 2 hours and qual 30 past every hour
+Week 1 (2014-10-28) Richmond International Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 2 (2014-11-04) Gateway Motorsports Park - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 3 (2014-11-11) Iowa Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 4 (2014-11-18) Bristol Motor Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+70 laps
+Week 5 (2014-11-25) Thompson Speedway Motorsports Park - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 6 (2014-12-02) Lucas Oil Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+NASCAR iRacing Team Truck Series - 2014 Season 4
+Chevrolet Silverado
+Rookie (4.0) --> Pro/WC (4.0)
+Qual and Races 45 past every odd 4 hours
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+70 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 4 (2014-11-18) Daytona International Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 6 (2014-12-02) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+60 laps
+NASCAR iRacing SK Modified Series - 2014 Season 4
+Modified - SK
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours and qual at 45 past every hour
+Week 1 (2014-10-28) USA International Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+40 laps
+Week 2 (2014-11-04) Lucas Oil Raceway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 3 (2014-11-11) Concord Speedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+50 laps
+Week 4 (2014-11-18) New Smyrna Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 5 (2014-11-25) Langley Speedway Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+50 laps
+Week 6 (2014-12-02) Thompson Speedway Motorsports Park - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+45 laps
+C Class Series
+INDYCAR Series - Oval - 2014 Season 4 Fixed
+Dallara DW12
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past and qual on the hour every hour
+Week 1 (2014-10-28) Indianapolis Motor Speedway - IndyCar Oval Full course cautions, Single file
+restarts, Rolling start
+32 laps
+Week 2 (2014-11-04) Lucas Oil Raceway Night race, Full course cautions,
+Single file restarts, Rolling start
+65 laps
+Week 3 (2014-11-11) Chicagoland Speedway Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 4 (2014-11-18) Darlington Raceway Full course cautions, Single file
+restarts, Rolling start
+55 laps
+Week 5 (2014-11-25) Dover International Speedway Full course cautions, Single file
+restarts, Rolling start
+65 laps
+Week 6 (2014-12-02) Gateway Motorsports Park - Oval Full course cautions, Single file
+restarts, Rolling start
+60 laps
+iRacing Street Stock Class C - 2014 Season 4 - Fixed
+Street Stock
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour and qual at 45 past every hour
+Week 1 (2014-10-28) New Smyrna Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 2 (2014-11-04) Irwindale Speedway - Outer Full course cautions, Double file
+restarts lapped at back, Rolling start
+30 laps
+Week 3 (2014-11-11) USA International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 4 (2014-11-18) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 5 (2014-11-25) Langley Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 6 (2014-12-02) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+NASCAR iRacing Super Late Model Series - 2014 Season 4
+Super Late Model
+Class D (4.0) --> Pro/WC (4.0)
+Races at 15 past every 2 hours and qual on the hour every hour
+Week 1 (2014-10-28) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+80 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+60 laps
+Week 3 (2014-11-11) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 4 (2014-11-18) Lanier National Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+80 laps
+Week 5 (2014-11-25) South Boston Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 6 (2014-12-02) USA International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+NASCAR iRacing Class C Series - 2014 Season 4
+Chevrolet Silverado
+Class D (4.0) --> Pro/WC (4.0)
+Races 45 past every 2 hours and qual 30 past every hour
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+70 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 4 (2014-11-18) Daytona International Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+70 laps
+Week 6 (2014-12-02) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+60 laps
+NASCAR iRacing Class C Series - 2014 Season 4 Fixed
+Chevrolet Silverado
+Class D (4.0) --> Pro/WC (4.0)
+Races 15 past and qual on the hour every hour
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+35 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+35 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+30 laps
+Week 4 (2014-11-18) Daytona International Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+25 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped on inside, Rolling start
+35 laps
+Week 6 (2014-12-02) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+30 laps
+NASCAR iRacing Team Nationwide Series - 2014 Season 4
+Ford Mustang Class B, Chevrolet Camaro Class B
+Class D (4.0) --> Pro/WC (4.0)
+Qual and Races 30 past every 4 hours
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+167 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+156 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+134 laps
+Week 4 (2014-11-18) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+200 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+150 laps
+Week 6 (2014-12-02) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+NASCAR iRacing Tour Modified Series - 2014 Season 4
+Modified - Tour
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 45 past every hour
+Week 1 (2014-10-28) USA International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+80 laps
+Week 2 (2014-11-04) New Hampshire Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 3 (2014-11-11) Thompson Speedway Motorsports Park - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 4 (2014-11-18) Stafford Motor Speedway - Full Course Full course cautions, Double file
+restarts lapped at back, Rolling start
+90 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+60 laps
+Week 6 (2014-12-02) Lanier National Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+120 laps
+B Class Series
+INDYCAR Series - Oval - 2014 Season 4
+Dallara DW12
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour Qual at 45 past every hour.
+Week 1 (2014-10-28) Indianapolis Motor Speedway - IndyCar Oval Full course cautions, Single file
+restarts, Rolling start
+65 laps
+Week 2 (2014-11-04) Lucas Oil Raceway Night race, Full course cautions,
+Single file restarts, Rolling start
+130 laps
+Week 3 (2014-11-11) Chicagoland Speedway Full course cautions, Single file
+restarts, Rolling start
+100 laps
+Week 4 (2014-11-18) Darlington Raceway Full course cautions, Single file
+restarts, Rolling start
+110 laps
+Week 5 (2014-11-25) Dover International Speedway Full course cautions, Single file
+restarts, Rolling start
+130 laps
+Week 6 (2014-12-02) Gateway Motorsports Park - Oval Full course cautions, Single file
+restarts, Rolling start
+120 laps
+iRacing Silver Crown Cup - 2014 Season 4
+Silver Crown
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours starting at 45 past qual 30 past every hour
+Week 1 (2014-10-28) Charlotte Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+67 laps
+Week 2 (2014-11-04) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+67 laps
+Week 3 (2014-11-11) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+80 laps
+Week 4 (2014-11-18) Indianapolis Motor Speedway - IndyCar Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+40 laps
+Week 5 (2014-11-25) The Milwaukee Mile Full course cautions, Double file
+restarts lapped at back, Rolling start
+75 laps
+Week 6 (2014-12-02) Lucas Oil Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+iRacing Sprint Car Cup - 2014 Season 4
+Sprint Car
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour with qual every hour at 45 past
+Week 1 (2014-10-28) Phoenix International Raceway - Oval Night race, Full course cautions,
+Single file restarts, Rolling start
+40 laps
+Week 2 (2014-11-04) USA International Speedway Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 3 (2014-11-11) Lucas Oil Raceway Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 4 (2014-11-18) Concord Speedway Full course cautions, Single file
+restarts, Rolling start
+50 laps
+Week 5 (2014-11-25) Langley Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+Week 6 (2014-12-02) South Boston Speedway Night race, Full course cautions,
+Single file restarts, Rolling start
+50 laps
+NASCAR iRacing Class B Series - 2014 Season 4
+Ford Mustang Class B, Chevrolet Camaro Class B
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 45 past every hour
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+90 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+80 laps
+Week 4 (2014-11-18) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+110 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+110 laps
+Week 6 (2014-12-02) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+NASCAR iRacing Class B Series - 2014 Season 4 Fixed
+Ford Mustang Class B, Chevrolet Camaro Class B
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour and qual at 45 past every hour
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+45 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+50 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+40 laps
+Week 4 (2014-11-18) Bristol Motor Speedway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+55 laps
+Week 5 (2014-11-25) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+55 laps
+Week 6 (2014-12-02) Talladega Superspeedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+25 laps
+A Class Series
+NASCAR iRacing Class A Series - 2014 Season 4
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past and qual at 15 past every hour
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+100 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+110 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+90 laps
+Week 4 (2014-11-18) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+90 laps
+Week 5 (2014-11-25) Watkins Glen International - Cup Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+30 laps
+Week 6 (2014-12-02) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+110 laps
+NASCAR iRacing Class A Series - 2014 Season 4 Fixed
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 and qual at 30 past every hour
+Week 1 (2014-10-28) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+50 laps
+Week 2 (2014-11-04) Phoenix International Raceway - Oval w/open
+dogleg
+Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+55 laps
+Week 3 (2014-11-11) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+45 laps
+Week 4 (2014-11-18) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+45 laps
+Week 5 (2014-11-25) Watkins Glen International - Cup Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+15 laps
+Week 6 (2014-12-02) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+55 laps
+P Class Series
+NASCAR iRacing Pro Series - Oval - 2014 Season
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Pro (1.0) --> Pro (4.0)
+Race at 1 GMT week 1 and 2 GMT for the remainder of the season on
+Wednesday. (Tuesday in the US timezones)
+Week 1 (2014-11-05) Texas Motor Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+167 laps
+Week 2 (2014-11-12) Phoenix International Raceway - 2008 - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+156 laps
+Week 3 (2014-11-19) Homestead Miami Speedway - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+134 laps
+Week 4 (2014-11-26) Auto Club Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+Week 5 (2014-12-03) Watkins Glen International - Cup Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 laps
+Week 6 (2014-12-10) Richmond International Raceway Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+200 laps
+Week 7 (2014-12-17) Charlotte Motor Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+167 laps
+Week 8 (2015-01-07) Dover International Speedway Full course cautions, Double file
+restarts lapped at back, Rolling start
+200 laps
+Week 9 (2015-01-14) Kentucky Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+134 laps
+Week 10 (2015-01-21) Daytona International Speedway - Oval Night race, Full course cautions,
+Double file restarts lapped at back,
+Rolling start
+100 laps
+ROAD
+R Class Series
+iRacing Production Car Challenge - 2014 Season 4
+Pontiac Solstice, Mazda MX-5 Roadster
+Rookie (3.0) --> Pro/WC (4.0)
+Races 30 past every hour and qual on the hour every hour
+Week 1 (2014-10-28) Okayama International Circuit - Short Local enforced cautions, Single file
+restarts, Standing start
+25 laps
+Week 2 (2014-11-04) Summit Point Raceway - Jefferson Reverse Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 3 (2014-11-11) Charlotte Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 4 (2014-11-18) Summit Point Raceway - Short Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 5 (2014-11-25) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 6 (2014-12-02) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+11 laps
+iRacing Mazda Cup - 2014 Season 4 Fixed
+Mazda MX-5 Cup, Mazda MX-5 Roadster
+Rookie (1.0) --> Pro/WC (4.0)
+Qual at 30 past every hour races every hour
+Week 1 (2014-10-28) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 2 (2014-11-04) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 3 (2014-11-11) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 4 (2014-11-18) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 5 (2014-11-25) Summit Point Raceway - Jefferson Circuit Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 6 (2014-12-02) Charlotte Motor Speedway - Road Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+D Class Series
+iRacing Team GT3 Series- 2014 Season 4
+McLaren MP4-12C GT3, Ruf RT 12R Track, BMW Z4 GT3, Ford GT GT3
+Rookie (4.0) --> Pro/WC (4.0)
+Qual and Races every odd 4 hours on the hour
+Week 1 (2014-10-28) Silverstone Circuit - International Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+60 mins
+Week 2 (2014-11-04) Twin Ring Motegi - East Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+60 mins
+Week 3 (2014-11-11) Road Atlanta - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+60 mins
+Week 4 (2014-11-18) Sebring International Raceway - International Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+120
+mins
+Week 5 (2014-11-25) Suzuka International Racing Course - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+60 mins
+Week 6 (2014-12-02) Sonoma Raceway - Long Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+60 mins
+iRacing Global Challenge - 2014 Season 4 - Fixed
+Cadillac CTS-V Racecar, Kia Optima
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 30 past every odd 2 hours and qual at 15 past every hour
+Week 1 (2014-10-28) Okayama International Circuit - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 2 (2014-11-04) Watkins Glen International - Boot Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 3 (2014-11-11) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 4 (2014-11-18) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 5 (2014-11-25) Lime Rock Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+Week 6 (2014-12-02) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+25 mins
+iRacing Grand Touring Cup- 2014 Season 4
+Pontiac Solstice, VW Jetta TDI Cup, Ford Mustang FR500S
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 15 past and qual at 45 past every hour
+Week 1 (2014-10-28) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 2 (2014-11-04) Donington Park Racing Circuit - National Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 3 (2014-11-11) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 4 (2014-11-18) Watkins Glen International - Classic Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 5 (2014-11-25) Circuit de Spa-Francorchamps - Classic Pits Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+Week 6 (2014-12-02) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+25 mins
+iRacing Spec Racer Ford Challenge - 2014 Season 4
+SCCA Spec Racer Ford
+Rookie (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past and qual at 15 past every hour
+Week 1 (2014-10-28) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 2 (2014-11-04) Donington Park Racing Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+16 laps
+Week 3 (2014-11-11) Watkins Glen International - Classic Boot Local enforced cautions, Single file
+restarts, Standing start
+12 laps
+Week 4 (2014-11-18) Circuit Park Zandvoort - Club Local enforced cautions, Single file
+restarts, Standing start
+21 laps
+Week 5 (2014-11-25) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Standing start
+18 laps
+Week 6 (2014-12-02) Mid-Ohio Sports Car Course - Chicane Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Skip Barber Race Series - 2014 Season 4
+Skip Barber Formula 2000
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past and qual at 45 past every hour
+Week 1 (2014-10-28) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+16 laps
+Week 2 (2014-11-04) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 laps
+Week 3 (2014-11-11) Donington Park Racing Circuit - National Local enforced cautions, Single file
+restarts, Standing start
+19 laps
+Week 4 (2014-11-18) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 5 (2014-11-25) Barber Motorsports Park - Full Course Local enforced cautions, Single file
+restarts, Standing start
+15 laps
+Week 6 (2014-12-02) Circuit Park Zandvoort - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+13 laps
+C Class Series
+Advanced Mazda MX-5 Cup Series - 2014 Season 4
+Mazda MX-5 Cup
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past and qual at 45 past every hour
+Week 1 (2014-10-28) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 2 (2014-11-04) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 3 (2014-11-11) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 4 (2014-11-18) Autódromo José Carlos Pace - Moto Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 5 (2014-11-25) Watkins Glen International - Classic Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 6 (2014-12-02) Daytona International Speedway - Road Course Night race, Local enforced cautions,
+Single file restarts, Standing start
+25 mins
+Grand Prix Legends - 2014 Season 4
+Lotus 49
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 30 past and qual on the hour every hour
+Week 1 (2014-10-28) Canadian Tire Motorsports Park Local advisory cautions, Single file
+restarts, Standing start
+19 laps
+Week 2 (2014-11-04) Autódromo José Carlos Pace - Grand Prix Local advisory cautions, Single file
+restarts, Standing start
+15 laps
+Week 3 (2014-11-11) Lime Rock Park - Full Course Local advisory cautions, Single file
+restarts, Standing start
+30 laps
+Week 4 (2014-11-18) Sebring International Raceway - International Local advisory cautions, Single file
+restarts, Standing start
+12 laps
+Week 5 (2014-11-25) Circuit de Spa-Francorchamps - Classic Pits Local advisory cautions, Single file
+restarts, Standing start
+11 laps
+Week 6 (2014-12-02) Donington Park Racing Circuit - Grand Prix Local advisory cautions, Single file
+restarts, Standing start
+15 laps
+iRacing Corvette Challenge- 2014 Season 4
+Chevrolet Corvette C6.R GT1
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour and qual at 30 past every hour
+Week 1 (2014-10-28) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+20 laps
+Week 2 (2014-11-04) Silverstone Circuit - Historical Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+20 laps
+Week 3 (2014-11-11) Daytona International Speedway - Road Course Night race, Local enforced cautions,
+Single file restarts, Rolling start
+20 laps
+Week 4 (2014-11-18) Watkins Glen International - Classic Boot Local enforced cautions, Single file
+restarts, Rolling start
+20 laps
+Week 5 (2014-11-25) Sebring International Raceway - International Night race, Local enforced cautions,
+Single file restarts, Rolling start
+20 laps
+Week 6 (2014-12-02) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+20 laps
+iRacing Global Challenge - 2014 Season 4
+Cadillac CTS-V Racecar, Kia Optima
+Class D (4.0) --> Pro/WC (4.0)
+Races at 30 past every 2 hours and qual at 15 past every hour
+Week 1 (2014-10-28) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+35 mins
+Week 2 (2014-11-04) Watkins Glen International - Boot Local enforced cautions, Single file
+restarts, Rolling start
+35 mins
+Week 3 (2014-11-11) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+35 mins
+Week 4 (2014-11-18) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Rolling start
+35 mins
+Week 5 (2014-11-25) Lime Rock Park - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+35 mins
+Week 6 (2014-12-02) Summit Point Raceway - Summit Point Raceway Local enforced cautions, Single file
+restarts, Rolling start
+35 mins
+iRacing V8 Supercars Series - 2014 Season 4
+Holden Commodore VF V8
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past and qual at 45 past every hour
+Week 1 (2014-10-28) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 laps
+Week 2 (2014-11-04) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Standing start
+28 laps
+Week 3 (2014-11-11) Watkins Glen International - Classic Local enforced cautions, Single file
+restarts, Standing start
+30 laps
+Week 4 (2014-11-18) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+21 laps
+Week 5 (2014-11-25) Phillip Island Circuit Local enforced cautions, Single file
+restarts, Standing start
+30 laps
+Week 6 (2014-12-02) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+33 laps
+iRacing Radical Racing Challenge - 2014 Season 4
+Radical SR8
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past qual 15 past every hour
+Week 1 (2014-10-28) Watkins Glen International - Classic Boot Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 2 (2014-11-04) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 3 (2014-11-11) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 4 (2014-11-18) Donington Park Racing Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 5 (2014-11-25) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 6 (2014-12-02) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Ruf Cup - 2014 Season 4
+Ruf RT 12R C-Spec
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past and qual at 15 past every hour
+Week 1 (2014-10-28) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 2 (2014-11-04) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 3 (2014-11-11) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 4 (2014-11-18) Autódromo José Carlos Pace - Moto Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 5 (2014-11-25) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Week 6 (2014-12-02) Suzuka International Racing Course - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+25 mins
+Star Mazda Championship - 2014 Season 4
+Star Mazda
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past and qual at 15 past every hour. Oval
+races qual at 30 past every hour.
+Week 1 (2014-10-28) Okayama International Circuit - Full Course Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 2 (2014-11-04) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Standing start
+22 laps
+Week 3 (2014-11-11) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Standing start
+12 laps
+Week 4 (2014-11-18) Brands Hatch Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+20 laps
+Week 5 (2014-11-25) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+10 laps
+Week 6 (2014-12-02) Gateway Motorsports Park - Oval Full course cautions, Double file
+restarts lapped at back, Rolling start
+80 laps
+iRacing Team Sports Car Series - 2014 Season 4
+Riley MkXX Daytona Prototype, HPD ARX-01c, Ford GT, Ruf RT 12R C-
+Spec
+Class D (4.0) --> Pro/WC (4.0)
+Qual and Races every odd 4 hours at 45 past
+Week 1 (2014-10-28) Daytona International Speedway - Road Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+90 mins
+Week 2 (2014-11-04) Barber Motorsports Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+90 mins
+Week 3 (2014-11-11) Circuit de Spa-Francorchamps - Endurance Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+90 mins
+Week 4 (2014-11-18) Circuit Gilles Villeneuve Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+90 mins
+Week 5 (2014-11-25) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+90 mins
+Week 6 (2014-12-02) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+90 mins
+B Class Series
+iRacing Classic Lotus Grand Prix- 2014 Season 4
+Lotus 79
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past. Qual on the hour every hour
+Week 1 (2014-10-28) Donington Park Racing Circuit - National Local enforced cautions, Single file
+restarts, Standing start
+49 laps
+Week 2 (2014-11-04) Mazda Raceway Laguna Seca - Full Course Local enforced cautions, Single file
+restarts, Standing start
+43 laps
+Week 3 (2014-11-11) Canadian Tire Motorsports Park Local enforced cautions, Single file
+restarts, Standing start
+39 laps
+Week 4 (2014-11-18) Mount Panorama Circuit Local enforced cautions, Single file
+restarts, Standing start
+25 laps
+Week 5 (2014-11-25) Silverstone Circuit - Historical Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+31 laps
+Week 6 (2014-12-02) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+47 laps
+iRacing GT3 Challenge Series- 2014 Season 4
+McLaren MP4-12C GT3, Ruf RT 12R Track, BMW Z4 GT3, Ford GT GT3
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 30 past every hour
+Week 1 (2014-10-28) Silverstone Circuit - International Local enforced cautions, Single file
+restarts, Rolling start
+30 mins
+Week 2 (2014-11-04) Twin Ring Motegi - East Local enforced cautions, Single file
+restarts, Rolling start
+30 mins
+Week 3 (2014-11-11) Road Atlanta - Full Course Local enforced cautions, Single file
+restarts, Rolling start
+75 mins
+Week 4 (2014-11-18) Sebring International Raceway - International Local enforced cautions, Single file
+restarts, Rolling start
+30 mins
+Week 5 (2014-11-25) Suzuka International Racing Course - Grand Prix Local enforced cautions, Single file
+restarts, Rolling start
+30 mins
+Week 6 (2014-12-02) Sonoma Raceway - Long Local enforced cautions, Single file
+restarts, Rolling start
+30 mins
+INDYCAR Series - Road - 2014 Season 4
+Dallara DW12
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour. Qual 30 past every hour.
+Week 1 (2014-10-28) Circuit de Spa-Francorchamps - Classic Pits Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+21 laps
+Week 2 (2014-11-04) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+32 laps
+Week 3 (2014-11-11) Mount Panorama Circuit Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+22 laps
+Week 4 (2014-11-18) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+23 laps
+Week 5 (2014-11-25) Barber Motorsports Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+36 laps
+Week 6 (2014-12-02) Canadian Tire Motorsports Park Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+37 laps
+iRacing World Sports Car Series - 2014 Season 4
+Riley MkXX Daytona Prototype, HPD ARX-01c, Ford GT, Ruf RT 12R C-
+Spec
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past and qual at 15 past every hour. 4 lap single
+car qual
+Week 1 (2014-10-28) Daytona International Speedway - Road Course Night race, Local enforced cautions,
+Double file restarts lapped on inside,
+Rolling start
+45 mins
+Week 2 (2014-11-04) Barber Motorsports Park - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 3 (2014-11-11) Circuit de Spa-Francorchamps - Endurance Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 4 (2014-11-18) Circuit Gilles Villeneuve Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 5 (2014-11-25) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+Week 6 (2014-12-02) Road America - Full Course Local enforced cautions, Double file
+restarts lapped on inside, Rolling start
+45 mins
+A Class Series
+iRacing Grand Prix Series - 2014 Season 4
+Williams-Toyota FW31
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour and qual at 30 past every hour
+Week 1 (2014-10-28) Watkins Glen International - Classic Boot Local enforced cautions, Single file
+restarts, Standing start
+46 laps
+Week 2 (2014-11-04) Twin Ring Motegi - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+64 laps
+Week 3 (2014-11-11) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Standing start
+70 laps
+Week 4 (2014-11-18) Silverstone Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+60 laps
+Week 5 (2014-11-25) Suzuka International Racing Course - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+53 laps
+Week 6 (2014-12-02) Circuit of the Americas - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+56 laps
+P Class Series
+iRacing Pro Series - Road - 2014 Season
+Williams-Toyota FW31
+Pro (1.0) --> Pro (4.0)
+14 GMT race on Saturday. Qual is 3 single car laps, fastest lap is your
+qual lap.
+Week 1 (2014-11-08) Twin Ring Motegi - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+64 laps
+Week 2 (2014-11-15) Circuit Gilles Villeneuve Local enforced cautions, Single file
+restarts, Standing start
+70 laps
+Week 3 (2014-11-22) Silverstone Circuit - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+60 laps
+Week 4 (2014-11-29) Suzuka International Racing Course - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+53 laps
+Week 5 (2014-12-06) Circuit of the Americas - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+56 laps
+Week 6 (2014-12-13) Watkins Glen International - Classic Boot Local enforced cautions, Single file
+restarts, Standing start
+56 laps
+Week 7 (2014-12-20) Virginia International Raceway - Full Course Local enforced cautions, Single file
+restarts, Standing start
+58 laps
+Week 8 (2015-01-10) Circuit de Spa-Francorchamps - Grand Prix Pits Local enforced cautions, Single file
+restarts, Standing start
+44 laps
+Week 9 (2015-01-17) Road America - Full Course Local enforced cautions, Single file
+restarts, Standing start
+47 laps
+Week 10 (2015-01-24) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+restarts, Standing start
+71 laps
+FUN
+R Class Series
+Carburetor Cup - 2014 Season 4
+Chevrolet SS-Gen6, Ford Fusion-Gen6, Toyota Camry-Gen6
+Rookie (1.0) --> Pro/WC (4.0)
+Races at 45 past and qual at 30 past every hour
+Week 1 (2014-10-28) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 2 (2014-11-04) Charlotte Motor Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+25 laps
+Week 3 (2014-11-11) Daytona International Speedway - Oval Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 4 (2014-11-18) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+Week 5 (2014-11-25) Charlotte Motor Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+25 laps
+Week 6 (2014-12-02) Daytona International Speedway - Oval Night race, Cautions disabled, Double
+file restarts lapped at back, Rolling
+start
+15 laps
+Week 7 (2014-12-09) Talladega Superspeedway Cautions disabled, Double file restarts
+lapped at back, Rolling start
+15 laps
+
