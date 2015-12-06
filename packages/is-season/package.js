@@ -24,9 +24,6 @@ Package.onUse(function(api) {
     'aldeed:collection2@2.5.0',
     'aldeed:autoform@5.7.1',
     'dburles:collection-helpers@1.0.4'
-    // 'matb33:collection-hooks',
-    // 'accounts-password',
-    // 'zimme:collection-timestampable',
   ]);
 
   api.export([
