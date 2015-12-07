@@ -6,12 +6,13 @@ Package.describe({
   documentation: 'README.md'
 });
 
-var findFiles = function(dir) {
+var findFiles = function(dir, ext) {
+  if(ext == undefined) ext = 'coffee';
   if(process.env.PWD.match(/packages/)) var name = '';
   else var name = 'packages/is-web/';
   var glob = Npm.require("glob");
   var list = []; 
-  glob.sync(name + dir + '/**/*.{coffee,jade}').forEach(function(path){ list.push(path.replace(name, '')); });
+  glob.sync(name + dir + '/**/*.' + ext).forEach(function(path){ list.push(path.replace(name, '')); });
   return list.sort().reverse();
 }
 
@@ -25,11 +26,15 @@ Package.onUse(function(api) {
     'is-season',
     'iron:router@1.0.12',
     'blaze-html-templates@1.0.1',
-    'mquandalle:jade@0.4.5'
+    'mquandalle:jade@0.4.5',
+    'aldeed:autoform@5.7.1'
   ]);
 
   api.addFiles(
     findFiles('lib'), 'client'
+  );
+  api.addFiles(
+    findFiles('client/views', 'jade'), 'client'
   );
   api.addFiles(
     findFiles('client').sort(), 'client'
