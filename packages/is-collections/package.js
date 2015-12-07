@@ -35,6 +35,8 @@ Package.onUse(function(api) {
 
   api.export([
     'Teams',
+    'PlayerSeries',
+    'Players'
   ]);
 
   api.addFiles(

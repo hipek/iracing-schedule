@@ -34,7 +34,7 @@ Package.onUse(function(api) {
     'sacha:spin',
     'anti:modals@0.4.0',
     'accounts-google@1.0.6',
-    'ian:accounts-ui-bootstrap-3@1.2.84'
+    // 'ian:accounts-ui-bootstrap-3@1.2.84'
   ]);
 
   api.addFiles(
