@@ -30,7 +30,8 @@ Package.onUse(function(api) {
 
   api.export([
     'Tracks',
-    'Seasons'
+    'Seasons',
+    'Series'
   ]);
 
   api.addFiles(
@@ -44,6 +45,7 @@ Package.onUse(function(api) {
     'SeasonParser',
     'SeasonBuilder'
   ], 'server');
+
   api.addFiles(
     findFiles('server'), 'server'
   );

@@ -1,5 +1,7 @@
 @Series = new Mongo.Collection('series')
 
+Series = @Series
+
 Series.helpers SeriesHelpers
 Series.attachSchema SeriesSchema
 

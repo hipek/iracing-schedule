@@ -27,7 +27,14 @@ Package.onUse(function(api) {
     'iron:router@1.0.12',
     'blaze-html-templates@1.0.1',
     'mquandalle:jade@0.4.5',
-    'aldeed:autoform@5.7.1'
+    'aldeed:autoform@5.7.1',
+    'anti:modals@0.4.0',
+    'accounts-google@1.0.6',
+    'less',
+    'mrt:flash-messages@1.0.1',
+    'nemo64:bootstrap@3.3.5_2',
+    'sacha:spin',
+    'ian:accounts-ui-bootstrap-3@1.2.84'
   ]);
 
   api.addFiles(
@@ -39,6 +46,14 @@ Package.onUse(function(api) {
   api.addFiles(
     findFiles('client').sort(), 'client'
   );
+  api.addFiles([
+    'client/stylesheets/bootswatch.import.less',
+    'client/stylesheets/bootswatch.variables.import.less',
+    'client/stylesheets/custom.bootstrap.mixins.import.less',
+    'client/stylesheets/custom.bootstrap.std.import.less',
+    'client/stylesheets/custom.bootstrap.import.less',
+    'client/stylesheets/custom.bootstrap.less'
+  ], 'client');
 });
 
 Package.onTest(function(api) {
