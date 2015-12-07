@@ -1,0 +1,29 @@
+template(name='adminSeasons')
+  h1 Seasons
+
+  a(href='#' id='newSeason') New season
+
+  table
+    thead
+      tr
+        th Name
+        th From
+        th To
+        th Actions
+    tbody
+      each seasons
+        tr
+          td= name
+          td
+            if activeFrom
+              | {{displayDate activeFrom}}
+          td
+            if activeTo
+              | {{displayDate activeTo}}
+          td
+            +linkTo route='adminSeason' sid=_id
+              | Show
+            a(href='#' id='editSeason', data-id=_id)
+              | Edit
+            a(href='#' id="destroySeason" data-id=_id)
+              | Delete

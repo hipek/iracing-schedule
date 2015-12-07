@@ -1,0 +1,8 @@
+template(name='homeShow')
+  h1 Welcome on iRacing schedule organizer
+  p You can define a Team/Group here (TODO)
+
+  each teams
+    p
+      +linkTo route='mySeries' tid=slug sid=currentSeasonId
+        | #{name}

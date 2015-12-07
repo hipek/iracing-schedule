@@ -1,7 +1,9 @@
 Package.describe({
-  summary: 'iSchedule Season (seasons, tracks, series, parser)',
+  name: 'is-season',
   version: '0.1.0',
-  name: 'is-season'
+  summary: 'iSchedule Season (seasons, tracks, series, parser)',
+  git: '',
+  documentation: 'README.md'
 });
 
 var findFiles = function(dir) {
