@@ -24,16 +24,16 @@ Package.onUse(function(api) {
     'underscore',
     'coffeescript',
     'is-season',
+    'less',
     'iron:router@1.0.12',
     'blaze-html-templates@1.0.1',
     'mquandalle:jade@0.4.5',
     'aldeed:autoform@5.7.1',
-    'anti:modals@0.4.0',
-    'accounts-google@1.0.6',
-    'less',
     'mrt:flash-messages@1.0.1',
     'nemo64:bootstrap@3.3.5_2',
     'sacha:spin',
+    'anti:modals@0.4.0',
+    'accounts-google@1.0.6',
     'ian:accounts-ui-bootstrap-3@1.2.84'
   ]);
 
