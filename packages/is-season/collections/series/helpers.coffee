@@ -30,7 +30,7 @@ currentWeek = (date) ->
         name: if track.night then "#{track.name} (N)" else track.name
         playerSeriesTrackData: (team) =>
           @playerSeries().map (ps) ->
-            tracks = team.player(ps.playerNickname).tracks || {}
+            tracks = team?.player(ps.playerNickname).tracks || {}
             kind: tracks[track.trackId]
             value: (ps.tracks || {})[track.trackId]
             trackId: track.trackId

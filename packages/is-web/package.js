@@ -24,6 +24,7 @@ Package.onUse(function(api) {
     'underscore',
     'coffeescript',
     'is-season',
+    'is-collections',
     'less',
     'iron:router@1.0.12',
     'blaze-html-templates@1.0.1',
@@ -39,7 +40,7 @@ Package.onUse(function(api) {
   ]);
 
   api.addFiles(
-    findFiles('lib'), 'client'
+    findFiles('lib')
   );
   api.addFiles(
     findFiles('client/views', 'jade'), 'client'

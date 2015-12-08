@@ -24,10 +24,13 @@ Package.onUse(function(api) {
     'ecmascript',
     'mongo',
     'aldeed:simple-schema',
-    // 'aldeed:collection2@2.5.0',
-    // 'aldeed:autoform@5.7.1',
-    // 'dburles:collection-helpers@1.0.4'
+    'alanning:roles@1.2.14',
+    'dburles:collection-helpers@1.0.4',
   ]);
+
+  api.addFiles(
+    findFiles('lib')
+  );
 
   api.addFiles(
     findFiles('collections')
