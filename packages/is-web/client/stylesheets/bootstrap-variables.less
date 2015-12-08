@@ -1,10 +1,10 @@
-// Spacelab 3.3.4
-// Variables
-// --------------------------------------------------
+// These are custom bootstrap variables for you to edit.
+// These simply override any default bootstrap variables.
+// This means that you may delete anything in this file
+// and the default bootstrap values will be used instead.
 
 
-//== Colors
-//
+
 //## Gray and brand colors for use across Bootstrap.
 
 @gray-base:              #000;
@@ -859,3 +859,359 @@
 @dl-horizontal-offset:        @component-offset-horizontal;
 //** Horizontal line color.
 @hr-border:                   @gray-lighter;
+
+// Spacelab 3.3.2
+// BOOTSWATCH ===================================
+
+@import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700");
+
+.btn-shadow(@color) {
+  #gradient > .vertical-three-colors(lighten(@color, 15%), @color, 50%, darken(@color, 4%));
+  filter: none;
+  border: 1px solid darken(@color, 10%);
+}
+
+// Navbar =====================================================================
+
+.navbar {
+
+  .btn-shadow(@navbar-default-bg);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+
+  &-inverse {
+    .btn-shadow(@navbar-inverse-bg);
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+
+    .badge {
+      background-color: #fff;
+      color: @navbar-inverse-bg;
+    }
+  }
+
+  .badge {
+    text-shadow: none;
+  }
+
+  &-nav > li > a,
+  &-nav > li > a:hover {
+    padding-top: @navbar-padding-vertical;
+    padding-bottom: @navbar-padding-vertical;
+    .transition(color ease-in-out .2s);
+  }
+  
+  &-brand,
+  &-brand:hover {
+    .transition(color ease-in-out .2s);
+  }
+
+  .caret,
+  .caret:hover {
+    .transition(border-color ease-in-out .2s);
+  }
+
+  .dropdown-menu {
+    text-shadow: none;
+  }
+}
+
+// Buttons ====================================================================
+
+.btn {
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+
+  &-default {
+    .btn-shadow(@btn-default-bg);
+
+    &:hover {
+      .btn-shadow(darken(@btn-default-bg, 4%));
+    }
+  }
+
+  &-primary {
+    .btn-shadow(@btn-primary-bg);
+
+    &:hover {
+      .btn-shadow(darken(@btn-primary-bg, 4%));
+    }
+  }
+
+  &-success {
+    .btn-shadow(@btn-success-bg);
+
+    &:hover {
+      .btn-shadow(darken(@btn-success-bg, 4%));
+    }
+  }
+
+  &-info {
+    .btn-shadow(@btn-info-bg);
+
+    &:hover {
+      .btn-shadow(darken(@btn-info-bg, 4%));
+    }
+  }
+
+  &-warning {
+    .btn-shadow(@btn-warning-bg);
+
+    &:hover {
+      .btn-shadow(darken(@btn-warning-bg, 4%));
+    }
+  }
+
+  &-danger {
+    .btn-shadow(@btn-danger-bg);
+
+    &:hover {
+      .btn-shadow(darken(@btn-danger-bg, 4%));
+    }
+  }
+
+  &:active,
+  &.active {
+    background-image: none;
+    .box-shadow(inset 0 3px 5px rgba(0,0,0,.125));
+  }
+}
+
+// Typography =================================================================
+
+// Tables =====================================================================
+
+// Forms ======================================================================
+
+// Navs =======================================================================
+
+// Indicators =================================================================
+
+// Progress bars ==============================================================
+
+// Containers =================================================================
+
+.panel {
+
+  &-primary {
+    .panel-title {
+      color: #fff;
+    }
+  }
+}
+
+// CUSTOM CSS ========================
+
+body {
+  padding-top: 50px;
+}
+
+#velocity-status-widget {
+  // display: none;
+}
+
+.player-series-modal {
+  width: auto;
+  max-width: 66%;
+  .row {
+    padding-bottom: 15px;
+  }
+  select[multiple].series-select {
+    height: 300px;
+  }
+}
+
+table {
+  .table;
+  .table-striped;
+  margin-bottom: 0;
+  font-size: 11px;
+  > thead,
+  > tbody,
+  > tfoot {
+    > tr {
+      > th,
+      > td {
+        padding: 3px;
+        border-right: solid 1px #ddd;
+        &:last-child {
+          border-right: none;
+        }
+      }
+    }
+  }
+}
+
+.series {
+  tr.active {
+    td {
+      font-weight: bold;
+    }
+  }
+  .week {
+    text-align: center;
+    width: 25px;
+  }
+  .date {
+    text-align: center;
+    width: 66px;
+  }
+  .duration {
+    text-align: center;
+    width: 54px;
+  }
+  .track {
+    width: 280px;
+  }
+  .user {
+    text-align: center;
+    width: 30px;
+  }
+  input {
+    border: 0;
+    margin: 0;
+    width: 23px;
+    height: auto;
+    font-weight: bold;
+    text-align: center;
+  }
+  .own {
+    background-color: #009900;
+    color: black;
+    input {
+      background-color: inherit;
+    }
+  }
+  .to_buy {
+    background-color: #CCCC00;
+    color: black;
+    input {
+      background-color: inherit;
+    }
+  }
+}
+
+.series-head {
+  .panel-heading {
+    font-weight: bold;
+    font-size: 12px;
+  }
+}
+
+.series-tracks {
+  input {
+    margin: 0;
+    padding: 0;
+    border: none;
+    max-width: 22px;
+    background: transparent;
+    text-align: center;
+    font-weight: bold;
+  }
+  .week {
+    width: 106px;
+    font-size: 12px;
+  }
+  .name {
+    width: 315px;
+    font-size: 13px;
+  }
+  td {
+    padding: 1px 2px !important;
+    vertical-align: middle !important;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .duration {
+    text-align: right;
+    width: 60px;
+    font-size: 13px;
+  }
+  .green {
+    background-color: #009900 !important;
+    color: black;
+  }
+  .yellow {
+    background-color: #CCCC00 !important;
+    color: black;
+  }
+  td.yellow, td.green {
+    text-align: center;
+    border-left: solid 1px white;
+  }
+}
+
+form {
+  .panel {
+    .list-group {
+      padding: 4px;
+      list-style-type: none;
+
+      .media {
+        .media-body {
+
+        }
+      }
+
+      .list-group-item {
+
+      }
+    }
+  }
+}
+
+.series-edit {
+  .panel {
+    .list-group {
+      padding: 4px;
+      list-style-type: none;
+
+      .media {
+        .media-body {
+          width: 95%;
+          float: left;
+        }
+      }
+
+      .list-group-item {
+        clear: both;
+
+        .media {
+          .media-body {
+            .panel {
+              margin-bottom: 5px;
+
+              .panel-body {
+                padding: 6px 6px 0 6px;
+
+                .form-group {
+                  float: left;
+                  margin-bottom: 0;
+
+                  input {
+                    padding: 4px 6px;
+                    margin-right: 5px;
+                  }
+                  .checkbox {
+                    margin-top: 34px;
+                  }
+                  .week {
+                    width: 44px;
+                  }
+
+                  .date {
+                    width: 144px;
+                  }
+                  .name {
+                    width: 340px;
+                  }
+                  .duration {
+                    width: 80px;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
