@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'is-web',
-  version: '0.1.0',
-  summary: 'iSchedule browser views',
+  name: 'is-mobile',
+  version: '0.0.1',
+  summary: 'iSchedule mobile views',
   git: '',
   documentation: 'README.md'
 });
@@ -9,7 +9,7 @@ Package.describe({
 var findFiles = function(dir, ext) {
   if(ext == undefined) ext = 'coffee';
   if(process.env.PWD.match(/packages/)) var name = '';
-  else var name = 'packages/is-web/';
+  else var name = 'packages/is-mobile/';
   var glob = Npm.require("glob");
   var list = []; 
   glob.sync(name + dir + '/**/*.' + ext).forEach(function(path){ list.push(path.replace(name, '')); });
@@ -25,32 +25,11 @@ Package.onUse(function(api) {
     'coffeescript',
     'is-season',
     'is-collections',
-    'less',
-    'iron:router@1.0.12',
-    'blaze-html-templates@1.0.1',
-    'mquandalle:jade@0.4.5',
-    'aldeed:autoform@5.7.1',
-    'mrt:flash-messages@1.0.1',
-    'sacha:spin',
-    'anti:modals@0.4.0',
-    'accounts-password',
-    'accounts-google',
-    'huttonr:bootstrap3',
-    'ian:accounts-ui-bootstrap-3'
   ]);
 
   api.addFiles(
     findFiles('lib')
   );
-  api.addFiles(
-    findFiles('client/views', 'jade'), 'client'
-  );
-  api.addFiles(
-    findFiles('client').sort(), 'client'
-  );
-  api.addFiles([
-    'client/stylesheets/bootstrap-settings.json',
-  ], 'client');
 });
 
 Package.onTest(function(api) {
@@ -59,6 +38,6 @@ Package.onTest(function(api) {
     'tinytest',
     'underscore',
     'coffeescript',
-    'is-web',
+    'is-mobile',
   ]);
 });
