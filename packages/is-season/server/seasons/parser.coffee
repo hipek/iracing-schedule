@@ -9,15 +9,16 @@ class @SeasonParser
   ]
   @MINS_LAPS      = /(\d{1,3})\s(laps|mins)/
   @MINS_LAPS_LINE = /^(laps|mins)$/
-  @NIGHT_RACE = 'Night race'
+  @NIGHT_RACE = ['Night race', '(Night)']
   @BLACKLISTED_WORDS = [
     'Local enforced cautions',
     'Local advisory cautions',
     'Single file', ',',
     'Double file', 'course cautions',
-    'Cautions disabled',
-    @NIGHT_RACE
-  ]
+    'Cautions disabled', 'Dynamic weather',
+    'Qual attached'
+  ].concat @NIGHT_RACE
+
   @DATE = /\((\d{4}-\d{2}-\d{2})\)/
 
   constructor: (@data) ->
@@ -62,7 +63,9 @@ class @SeasonParser
       @raceType = line.trim()
       return
 
-    night = line.contains(@constructor.NIGHT_RACE)
+    night = _.some @constructor.NIGHT_RACE, (name) ->
+      line.contains name
+
     list = @parseWeek line
     if list.length > 1
       @season.cars = _.clone @cars
