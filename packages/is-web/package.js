@@ -32,6 +32,7 @@ Package.onUse(function(api) {
     'mrt:flash-messages@1.0.1',
     'sacha:spin',
     'anti:modals@0.4.0',
+    'accounts-password',
     'accounts-google',
     'huttonr:bootstrap3',
     'ian:accounts-ui-bootstrap-3'
