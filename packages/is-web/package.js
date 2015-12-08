@@ -43,14 +43,16 @@ Package.onUse(function(api) {
     findFiles('lib')
   );
   api.addFiles(
-    findFiles('client/views', 'jade'), 'client'
+    findFiles('client/views', 'jade'),
+    'web.browser'
   );
   api.addFiles(
-    findFiles('client').sort(), 'client'
+    findFiles('client').sort(),
+    'web.browser'
   );
   api.addFiles([
     'client/stylesheets/bootstrap-settings.json',
-  ], 'client');
+  ], 'web.browser');
 });
 
 Package.onTest(function(api) {

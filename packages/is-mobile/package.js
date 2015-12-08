@@ -30,6 +30,14 @@ Package.onUse(function(api) {
   api.addFiles(
     findFiles('lib')
   );
+  api.addFiles(
+    findFiles('client/views', 'jade'),
+    'web.cordova'
+  );
+  api.addFiles(
+    findFiles('client').sort(),
+    'web.cordova'
+  );
 });
 
 Package.onTest(function(api) {
