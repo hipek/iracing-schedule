@@ -29,15 +29,18 @@ Package.onUse(function(api) {
     'iron:router@1.0.12',
     'blaze-html-templates@1.0.1',
     'mquandalle:jade@0.4.5',
-    'aldeed:autoform@5.7.1',
     'mrt:flash-messages@1.0.1',
-    'sacha:spin',
-    'anti:modals@0.4.0',
+  ]);
+
+  api.use([
     'accounts-password',
     'accounts-google',
+    'aldeed:autoform@5.7.1',
+    'sacha:spin',
+    'anti:modals@0.4.0',
     'huttonr:bootstrap3',
     'ian:accounts-ui-bootstrap-3'
-  ]);
+  ], 'web.browser');
 
   api.addFiles(
     findFiles('lib')
