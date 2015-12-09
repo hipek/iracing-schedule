@@ -1,7 +1,7 @@
 Router.configure
-  layoutTemplate: 'mainLayout'
-  notFoundTemplate: 'notFound'
-  loadingTemplate: 'loading'
+  layoutTemplate: 'mobileLayout'
+  # notFoundTemplate: 'notFound'
+  # loadingTemplate: 'loading'
 
 Meteor.startup ->
   if Meteor.isClient

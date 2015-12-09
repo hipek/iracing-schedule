@@ -1,4 +1,4 @@
 class @HomeController extends RouteController
-  # template: "homeShow"
+  template: "homeShow"
   # waitOn: ->
   #   Meteor.subscribe 'publicTeams'
