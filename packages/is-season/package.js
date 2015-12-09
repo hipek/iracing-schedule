@@ -24,7 +24,7 @@ Package.onUse(function(api) {
     'mongo',
     'aldeed:simple-schema',
     'aldeed:collection2@2.5.0',
-    'aldeed:autoform@5.7.1',
+    'aldeed:autoform',
     'dburles:collection-helpers@1.0.4'
   ]);
 

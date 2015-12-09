@@ -35,8 +35,8 @@ Package.onUse(function(api) {
   api.use([
     'accounts-password',
     'accounts-google',
-    'aldeed:autoform@5.7.1',
-    'sacha:spin',
+    'aldeed:autoform',
+    'sacha:spin@2.3.1',
     'anti:modals@0.4.0',
     'huttonr:bootstrap3',
     'ian:accounts-ui-bootstrap-3'

@@ -25,7 +25,17 @@ Package.onUse(function(api) {
     'coffeescript',
     'is-season',
     'is-collections',
+    'iron:router',
+    'mquandalle:jade',
   ]);
+
+  api.use([
+    'meteoric:ionic-sass@0.3.0',
+    'meteoric:ionicons-sass@0.1.7',
+    'meteoric:ionic@0.1.19',
+    'meteoric:autoform-ionic',
+    'useraccounts:ionic',
+  ], 'web.cordova');
 
   api.addFiles(
     findFiles('lib')
