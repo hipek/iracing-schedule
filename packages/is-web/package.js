@@ -26,6 +26,8 @@ Package.onUse(function(api) {
     'is-season',
     'is-collections',
     'less',
+    'accounts-password',
+    'accounts-google',
     'iron:router@1.0.12',
     'blaze-html-templates@1.0.1',
     'mquandalle:jade@0.4.5',
@@ -33,8 +35,6 @@ Package.onUse(function(api) {
   ]);
 
   api.use([
-    'accounts-password',
-    'accounts-google',
     'aldeed:autoform',
     'sacha:spin@2.3.1',
     'anti:modals@0.4.0',

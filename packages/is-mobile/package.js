@@ -27,11 +27,11 @@ Package.onUse(function(api) {
     'is-collections',
     'iron:router',
     'mquandalle:jade',
+    'meteoric:ionic-sass@0.3.0',
+    'meteoric:ionicons-sass@0.1.7',
   ]);
 
   api.use([
-    'meteoric:ionic-sass@0.3.0',
-    'meteoric:ionicons-sass@0.1.7',
     'meteoric:ionic@0.1.19',
     'meteoric:autoform-ionic',
     'useraccounts:ionic',
@@ -48,6 +48,9 @@ Package.onUse(function(api) {
     findFiles('client').sort(),
     'web.cordova'
   );
+  api.addFiles([
+    'client/stylesheets/app.scss',
+  ], 'web.cordova');
 });
 
 Package.onTest(function(api) {
