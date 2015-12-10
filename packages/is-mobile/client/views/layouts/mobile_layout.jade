@@ -10,7 +10,7 @@ template(name='mobileLayout')
               div(class="item item-icon-right" data-ion-menu-close="")
                 | Close Me {{> ionIcon icon="ios-arrow-right"}}
 
-      //- +ionSideMenuContent
-      //-   +ionNavBar class="bar-positive"
-      //-   +ionNavView
-      //-     +yield
+      +ionSideMenuContent
+        +ionNavBar class="bar-positive"
+        +ionNavView
+          +yield
