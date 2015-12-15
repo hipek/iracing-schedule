@@ -35,6 +35,7 @@ Package.onUse(function(api) {
     'meteoric:ionic@0.1.19',
     'meteoric:autoform-ionic',
     'useraccounts:ionic',
+    'sacha:spin@2.3.1',
   ], 'web.cordova');
 
   api.addFiles(
