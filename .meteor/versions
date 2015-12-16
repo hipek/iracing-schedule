@@ -56,9 +56,8 @@ iron:middleware-stack@1.0.11
 iron:router@1.0.12
 iron:url@1.0.11
 is-collections@0.1.0
-is-mobile@0.0.1
+is-frontend@0.0.2
 is-season@0.1.0
-is-web@0.1.0
 jquery@1.11.4
 launch-screen@1.0.4
 less@2.5.1
