@@ -61,10 +61,19 @@ Package.onUse(function(api) {
     findFiles('browser/lib'), 'web.browser'
   );
 
-  // web.browser
+  // shared
   api.addFiles(
     findFiles('browser/client/views', 'jade'), 'web.browser'
   );
+  api.addFiles(
+    findFiles('cordova/client/views', 'jade'), 'web.cordova'
+  );
+  api.addFiles(
+    findFiles('shared/client').sort(),
+    ['web.browser', 'web.cordova']
+  );
+
+  // web.browser
   api.addFiles(
     findFiles('browser/client').sort(), 'web.browser'
   );
@@ -73,9 +82,6 @@ Package.onUse(function(api) {
   ], 'web.browser');
 
   // web.cordova
-  api.addFiles(
-    findFiles('cordova/client/views', 'jade'), 'web.cordova'
-  );
   api.addFiles(
     findFiles('cordova/client').sort(), 'web.cordova'
   );

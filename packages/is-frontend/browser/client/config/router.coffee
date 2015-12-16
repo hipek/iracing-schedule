@@ -1,8 +1,3 @@
-Router.configure
-  layoutTemplate: 'mainLayout'
-  notFoundTemplate: 'notFound'
-  loadingTemplate: 'loading'
-
 Router.route '/admin',
   name: 'admin',
   controller: 'Admin.HomeController'
@@ -30,26 +25,3 @@ Router.route '/admin/teams',
 Router.route '/admin/player-series',
   name: 'adminPlayerSeries',
   controller: 'Admin.PlayerSeriesController'
-
-Router.route '/',
-  name: 'home',
-  controller: 'HomeController'
-Router.route '/teams',
-  name: 'teams',
-  controller: 'TeamsController'
-Router.route '/:tid/seasons/:sid',
-  name: 'seasons',
-  controller: 'SeasonsController'
-Router.route '/:tid/series/:sid',
-  name: 'series',
-  controller: 'SeriesController'
-Router.route '/:tid/my-series/:sid',
-  name: 'mySeries',
-  controller: 'MySeriesController'
-Router.route '/:tid/players',
-  name: 'players',
-  controller: 'PlayersController'
-
-Router.route '/:tid/player/:nickname/tracks',
-  name: 'playerTracks',
-  controller: 'PlayerTracksController'

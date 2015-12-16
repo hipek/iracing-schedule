@@ -1,4 +1,4 @@
-template(name='mobileLayout')
+template(name='mainLayout')
   +ionBody
     +ionSideMenuContainer
       +ionSideMenus
@@ -7,10 +7,12 @@ template(name='mobileLayout')
             h1(class="title") Menu
           div(class="content has-header")
             div(class="list")
-              div(class="item item-icon-right")
+              div(class="item")
                 | Teams
+              div(class="item")
+                | My-Series
               div(class="item item-icon-right" data-ion-menu-close="")
-                | PKJH {{> ionIcon icon="ios-arrow-right"}}
+                | 2016 {{> ionIcon icon="ios-arrow-right"}}
 
       +ionSideMenuContent
         +ionNavBar class="bar-positive"

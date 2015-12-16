@@ -1,12 +1,19 @@
 template(name="homeShow")
+  +contentFor "headerButtonLeft"
+    button(class="button button-clear pull-left" data-ion-menu-toggle="left")
+      +ionIcon icon="navicon"
+
   +contentFor "headerTitle"
     h1(class="title") iSchedule
 
-  +contentFor "headerButtonLeft"
-    button(class="button button-clear pull-left" data-ion-menu-toggle="left")
-      if isAndroid
-        +ionIcon icon="android-more-vertical"
-      else
-        +ionIcon icon="navicon"
   +ionView
+    +ionSubheaderBar
+      h2(class="title") Teams
+
     +ionContent
+      +ionList
+        each teams
+          +ionItem route="mySeries" data=getMySeries iconLeft=true iconRight=true
+            +ionIcon icon="ios-paper" class="positive"
+            = name
+            +ionIcon icon="ios-arrow-right"

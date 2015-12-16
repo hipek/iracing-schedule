@@ -1,3 +1,3 @@
 Template.homeShow.helpers
-  teams: () ->
+  teams: ->
     Teams.find()

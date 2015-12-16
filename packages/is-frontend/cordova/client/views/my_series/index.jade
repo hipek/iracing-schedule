@@ -1,0 +1,16 @@
+template(name='mySeriesIndex')
+  +contentFor "headerButtonLeft"
+    button(class="button button-clear pull-left" data-ion-menu-toggle="left")
+      +ionIcon icon="navicon"
+
+  +contentFor "headerTitle"
+    h1(class="title") iSchedule
+
+  +ionView
+    +ionSubheaderBar
+      h2(class="title") My Series
+        | -
+        = name
+
+    +ionContent
+      +ionList
