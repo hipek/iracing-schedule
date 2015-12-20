@@ -35,6 +35,7 @@ currentWeek = (date) ->
             value: (ps.tracks || {})[track.trackId]
             trackId: track.trackId
             seriesId: ps._id
+            playerNickname: ps.playerNickname
 
   carNames: ->
     @cars.join ', '

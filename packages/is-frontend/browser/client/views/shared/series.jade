@@ -16,7 +16,7 @@ template(name='series')
                   each playerSeries
                     th.user= playerNickname
               tbody
-                each playerSeriesTracks team
+                each playerSeriesTracks
                   tr(class=currentWeek)
                     td.week= week
                     td.date {{displayDate date}}

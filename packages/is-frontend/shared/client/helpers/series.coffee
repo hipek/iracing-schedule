@@ -13,7 +13,3 @@ Template.series.helpers
       i = i + 2
 
     result
-
-  team: ->
-    Teams.findOne
-      slug: UI._globalHelpers.currentTeamId()

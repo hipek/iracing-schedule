@@ -28,3 +28,7 @@ Template.registerHelper 'hasUpcommingSeasons', ->
     Seasons.find
       activeFrom: $gt: new Date()
     .count() > 0
+
+Template.registerHelper 'team', ->
+    Teams.findOne
+      slug: UI._globalHelpers.currentTeamId()

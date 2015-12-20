@@ -1,6 +1,11 @@
 template(name='series')
   each series
     each rowSeries
-      +ionItem
+      +ionItem route='mySeriesDetails' data=getSeriesDetails iconRight=true
         = name
-        p= raceType
+        p
+          = license
+          | Class
+          | -
+          = raceType
+        +ionIconArrowRight
