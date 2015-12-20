@@ -14,21 +14,21 @@ Template.registerHelper 'isAdmin', ->
   Meteor.user()?.isAdmin()
 
 Template.registerHelper 'pastSeasons', ->
-    Seasons.find
-      activeTo: $lt: new Date()
-    ,
-      sort:
-        activeFrom: -1
+  Seasons.find
+    activeTo: $lt: new Date()
+  ,
+    sort:
+      activeFrom: -1
 
 Template.registerHelper 'upcommingSeasons', ->
-    Seasons.find
-      activeFrom: $gt: new Date()
+  Seasons.find
+    activeFrom: $gt: new Date()
 
 Template.registerHelper 'hasUpcommingSeasons', ->
-    Seasons.find
-      activeFrom: $gt: new Date()
-    .count() > 0
+  Seasons.find
+    activeFrom: $gt: new Date()
+  .count() > 0
 
 Template.registerHelper 'team', ->
-    Teams.findOne
-      slug: UI._globalHelpers.currentTeamId()
+  Teams.findOne
+    slug: UI._globalHelpers.currentTeamId()

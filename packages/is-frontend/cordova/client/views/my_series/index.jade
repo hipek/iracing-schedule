@@ -4,7 +4,10 @@ template(name='mySeriesIndex')
       +ionIcon icon="navicon"
 
   +contentFor "headerTitle"
-    h1(class="title") iSchedule
+    h1(class="title")
+      | iSchedule
+      | - 
+      = team.name
 
   +ionView
     +ionSubheaderBar
