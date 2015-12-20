@@ -1,0 +1,47 @@
+template(name='sideMenuList')
+  +ionItem route="home" iconRight=true
+    | Teams
+    +ionIconArrowRight
+
+  if currentTeamId
+    +ionItem
+      | My-Series
+    +ionItem route="mySeries" data=getCurrentSeries iconRight=true
+      | Current
+      +ionIconArrowRight
+
+    if hasUpcommingSeasons
+      +ionItem
+        | Upcomming season
+      each upcommingSeasons
+        +ionItem route="mySeries" data=getSeries iconRight=true
+          = name
+          +ionIconArrowRight
+
+    +ionItem
+      | Past seasons
+    each pastSeasons
+      +ionItem route="mySeries" data=getSeries iconRight=true
+        = name
+        +ionIconArrowRight
+
+    +ionItem
+      | Series
+    +ionItem route="series" data=getCurrentSeries iconRight=true
+      | Current
+      +ionIconArrowRight
+
+    if hasUpcommingSeasons
+      +ionItem
+        | Upcomming season
+      each upcommingSeasons
+        +ionItem route="series" data=getSeries iconRight=true
+          = name
+          +ionIconArrowRight
+
+    +ionItem
+      | Past seasons
+    each pastSeasons
+      +ionItem route="series" data=getSeries iconRight=true
+        = name
+        +ionIconArrowRight

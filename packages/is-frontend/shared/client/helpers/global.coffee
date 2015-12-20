@@ -12,3 +12,19 @@ Template.registerHelper 'paramsSeasonId', ->
 
 Template.registerHelper 'isAdmin', ->
   Meteor.user()?.isAdmin()
+
+Template.registerHelper 'pastSeasons', ->
+    Seasons.find
+      activeTo: $lt: new Date()
+    ,
+      sort:
+        activeFrom: -1
+
+Template.registerHelper 'upcommingSeasons', ->
+    Seasons.find
+      activeFrom: $gt: new Date()
+
+Template.registerHelper 'hasUpcommingSeasons', ->
+    Seasons.find
+      activeFrom: $gt: new Date()
+    .count() > 0

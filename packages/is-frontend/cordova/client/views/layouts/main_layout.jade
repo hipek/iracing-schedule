@@ -7,12 +7,7 @@ template(name='mainLayout')
             h1(class="title") Menu
           div(class="content has-header")
             div(class="list")
-              +ionItem route="home" iconRight=true data-ion-menu-close=""
-                | Teams
-              div(class="item")
-                | My-Series
-              div(class="item item-icon-right" data-ion-menu-close="")
-                | 2016 {{> ionIcon icon="ios-arrow-right"}}
+              +sideMenuList
 
       +ionSideMenuContent
         +ionNavBar class="bar-positive"
