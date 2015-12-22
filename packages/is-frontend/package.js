@@ -16,6 +16,12 @@ var findFiles = function(dir, ext) {
   return list.sort().reverse();
 }
 
+var webClient     = ['web.browser'];
+var cordovaClient = ['web.cordova'];
+
+// var webClient     = [];
+// var cordovaClient = ['web.browser', 'web.cordova'];
+
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
 
@@ -42,7 +48,7 @@ Package.onUse(function(api) {
     'less',
     'accounts-password',
     'accounts-google',
-  ], 'web.browser');
+  ], webClient);
 
   // mobile
   api.use([
@@ -51,43 +57,42 @@ Package.onUse(function(api) {
     'useraccounts:ionic',
     'meteoric:ionic-sass@0.3.0',
     'meteoric:ionicons-sass@0.1.7',
-  ], 'web.cordova');
+  ], cordovaClient);
 
   // libs
   api.addFiles(
     findFiles('lib')
   );
   api.addFiles(
-    findFiles('browser/lib'), 'web.browser'
+    findFiles('browser/lib'), webClient
   );
 
   // shared
   api.addFiles(
-    findFiles('browser/client/views', 'jade'), 'web.browser'
+    findFiles('browser/client/views', 'jade'), webClient
   );
   api.addFiles(
-    findFiles('cordova/client/views', 'jade'), 'web.cordova'
+    findFiles('cordova/client/views', 'jade'), cordovaClient
   );
   api.addFiles(
-    findFiles('shared/client').sort(),
-    ['web.browser', 'web.cordova']
+    findFiles('shared/client').sort(), 'client'
   );
 
   // web.browser
   api.addFiles(
-    findFiles('browser/client').sort(), 'web.browser'
+    findFiles('browser/client').sort(), webClient
   );
   api.addFiles([
     'browser/client/stylesheets/bootstrap-settings.json',
-  ], 'web.browser');
+  ], webClient);
 
   // web.cordova
   api.addFiles(
-    findFiles('cordova/client').sort(), 'web.cordova'
+    findFiles('cordova/client').sort(), cordovaClient
   );
   api.addFiles([
     'cordova/client/stylesheets/app.scss',
-  ], 'web.cordova');
+  ], cordovaClient);
 });
 
 Package.onTest(function(api) {
