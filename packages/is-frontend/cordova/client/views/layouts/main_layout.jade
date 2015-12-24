@@ -3,13 +3,15 @@ template(name='mainLayout')
     +ionSideMenuContainer side="left"
       +ionSideMenus
         +ionSideMenu
-          div(class="bar bar-header bar-dark")
+          div(class="bar bar-header bar-stable")
             h1(class="title") Menu
           div(class="content has-header")
             div(class="list")
               +sideMenuList
+              div(class="padding")
+                button(class="button button-block button-balanced") Quit
 
       +ionSideMenuContent
-        +ionNavBar class="bar-positive"
+        +ionNavBar class="bar-calm"
         +ionNavView
           +yield

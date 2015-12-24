@@ -75,6 +75,9 @@ Package.onUse(function(api) {
     findFiles('cordova/client/views', 'jade'), cordovaClient
   );
   api.addFiles(
+    findFiles('cordova/client/views', 'html'), cordovaClient
+  );
+  api.addFiles(
     findFiles('shared/client').sort(), 'client'
   );
 

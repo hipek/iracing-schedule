@@ -1,7 +1,14 @@
 template(name='sideMenuList')
-  +ionItem route="home" iconRight=true
-    | Teams
-    +ionIconArrowRight
+  label.item.item-input.item-select
+    .input-label
+      | Teams
+    select
+      option not selected
+      each teams
+        if isSelectedTeam
+          option(selected)= name
+        else
+          option= name
 
   if currentTeamId
     +ionItem
