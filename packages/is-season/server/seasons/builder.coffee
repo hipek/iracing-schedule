@@ -1,7 +1,9 @@
 class @SeasonBuilder
   @BLACKLISTED_WORDS = [
     'Full', 'Circuit', 'Speedway', 'Park',
-    'Raceway', 'Course', 'Racing'
+    'Raceway', 'Course', 'Racing', '(Night) Dynamic weather',
+    '(Night) Qual attached', '(Night)', 'Night', 'Dynamic weather',
+    'Qual attached'
   ]
 
   constructor: (@name, @data) ->
