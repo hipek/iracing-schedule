@@ -10,7 +10,7 @@ var findFiles = function(dir) {
   if(process.env.PWD.match(/packages/)) var name = '';
   else var name = 'packages/is-season/';
   var glob = Npm.require("glob");
-  var list = []; 
+  var list = [];
   glob.sync(name + dir + '/**/*.coffee').forEach(function(path){ list.push(path.replace(name, '')); });
   return list.sort().reverse();
 }
