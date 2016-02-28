@@ -1,12 +1,10 @@
 template(name='mySeriesIndex')
   +contentFor "headerButtonLeft"
-    button(class="button button-clear pull-left" data-ion-menu-toggle="left")
-      +ionIcon icon="navicon"
+    +ionNavBackButton path="home"
 
   +contentFor "headerTitle"
     h1(class="title")
-      | iSchedule
-      | - 
+      | Team 
       = team.name
 
   +ionView

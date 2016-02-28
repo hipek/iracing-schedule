@@ -1,17 +1,6 @@
 template(name='mainLayout')
   +ionBody
-    +ionSideMenuContainer side="left"
-      +ionSideMenus
-        +ionSideMenu
-          div(class="bar bar-header bar-stable")
-            h1(class="title") Menu
-          div(class="content has-header")
-            div(class="list")
-              +sideMenuList
-              div(class="padding")
-                button(class="button button-block button-balanced") Quit
-
-      +ionSideMenuContent
-        +ionNavBar class="bar-calm"
-        +ionNavView
-          +yield
+    +ionSideMenuContent
+      +ionNavBar class="bar-calm"
+      +ionNavView
+        +yield
