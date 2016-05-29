@@ -10,7 +10,7 @@ class @SeasonParser
   @MINS_LAPS      = /(\d{1,3})\s(laps|mins)/
   @MINS_LAPS_LINE = /^(laps|mins)$/
   @NIGHT_RACE = ['Night race', '(Night)']
-  @TIME_OF_DAY= ['Morning', 'Late Afternoon', 'Afternoon']
+  @TIME_OF_DAY= ['(Morning)', '(Late Afternoon)', '(Afternoon)']
   @BLACKLISTED_WORDS = [
     'Local enforced cautions',
     'Local advisory cautions',
@@ -18,7 +18,7 @@ class @SeasonParser
     'Double file', 'course cautions',
     'Cautions disabled', 'Dynamic weather',
     'Qual attached'
-  ].concat @NIGHT_RACE
+  ].concat(@NIGHT_RACE).concat(@TIME_OF_DAY)
 
   @DATE = /\((\d{4}-\d{2}-\d{2})\)/
 
@@ -40,15 +40,16 @@ class @SeasonParser
       else if @minsLaps(line).trim().length > 0
         idx = @season.tracks.length - 1
         @season.tracks[idx][2] = @minsLaps line
-      else if @readCars last
-        @cars = _.map line.trim().split(','), (name) -> name.trim()
+      else if @isSeason last
+        @cars = @readCars(line, index)
         last = ''
       @previous_line = line
 
-  readCars: (str) ->
-    keywords = @constructor.KEYWORDS
-    str.contains(keywords[0]) ||
-    str.contains(keywords[1])
+  readCars: (str, index) ->
+    nextLine = @lines[index + 1]
+    str = str + ' ' + nextLine unless nextLine.match /\([3-5]\.0\)/
+    list = _.map str.trim().split(','), (name) -> name.trim()
+    _.uniq list
 
   isKeyword: (line) ->
     ok = null
@@ -82,10 +83,10 @@ class @SeasonParser
       ]
       return
 
-  isSeason: (line) ->
-    (line.contains('Season') ||
-    line.contains('Winter Series')) &&
-    !line.contains('. .')
+  isSeason: (str) ->
+    keywords = @constructor.KEYWORDS
+    (str.contains(keywords[0]) ||
+    str.contains(keywords[1])) && !str.contains('. .')
 
   parseWeek: (line) ->
     week = @clear line.split(',')[0]
