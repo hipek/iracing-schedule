@@ -3,7 +3,7 @@ class @SeasonBuilder
     'Full', 'Circuit', 'Speedway', 'Park',
     'Raceway', 'Course', 'Racing', '(Night) Dynamic weather',
     '(Night) Qual attached', '(Night)', 'Night', 'Dynamic weather',
-    'Qual attached'
+    'Qual attached', '(Afternoon)', '(Late Afternoon)', '(Morning)'
   ]
 
   constructor: (@name, @data) ->

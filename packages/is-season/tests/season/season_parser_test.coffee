@@ -65,7 +65,7 @@ describe 'SeasonParser', ->
       @parser = new SeasonParser(@data)
       @series = @parser.series()
 
-    it "has 38 series", (test) ->
+    it "has 42 series", (test) ->
       test.equal @series.length, 42
 
     describe "first series", ->
@@ -77,3 +77,22 @@ describe 'SeasonParser', ->
 
       it "has season name", (test) ->
         test.equal @ser.seasonName, '2016 Season 2'
+
+  describe '2016S3.txt', ->
+    before ->
+      @data = Factory.loadFixture('2016S3.txt')
+      @parser = new SeasonParser(@data)
+      @series = @parser.series()
+
+    it "has 41 series", (test) ->
+      test.equal @series.length, 41
+
+    describe "first series", ->
+      before ->
+        @ser = @series[0]
+
+      it "has series name", (test) ->
+        test.equal @ser.name, 'iRacing Advanced Legends'
+
+      it "has season name", (test) ->
+        test.equal @ser.seasonName, '2016 Season 3'
