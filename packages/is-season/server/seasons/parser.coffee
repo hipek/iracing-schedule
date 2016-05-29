@@ -10,6 +10,7 @@ class @SeasonParser
   @MINS_LAPS      = /(\d{1,3})\s(laps|mins)/
   @MINS_LAPS_LINE = /^(laps|mins)$/
   @NIGHT_RACE = ['Night race', '(Night)']
+  @TIME_OF_DAY= ['Morning', 'Late Afternoon', 'Afternoon']
   @BLACKLISTED_WORDS = [
     'Local enforced cautions',
     'Local advisory cautions',
@@ -32,10 +33,10 @@ class @SeasonParser
 
   read: (callback) ->
     last = ''
-    @lines.forEach (line) =>
+    @lines.forEach (line, index) =>
       if @isKeyword line
         last = line
-        @readLine line, callback
+        @readLine line, callback, index
       else if @minsLaps(line).trim().length > 0
         idx = @season.tracks.length - 1
         @season.tracks[idx][2] = @minsLaps line
@@ -55,7 +56,7 @@ class @SeasonParser
       ok = true if line.contains key
     ok
 
-  readLine: (line, callback) ->
+  readLine: (line, callback, index) ->
     if line.contains 'Class Series'
       @license = line.split('Class')[0].trim()
       return
@@ -63,25 +64,34 @@ class @SeasonParser
       @raceType = line.trim()
       return
 
-    night = _.some @constructor.NIGHT_RACE, (name) ->
-      line.contains name
+    if @isSeason(line)
+      callback @season if @season?
+      @setSeason line
+      return
 
-    list = @parseWeek line
-    if list.length > 1
+    if line.contains('Week')
+      line = line + ' ' + @lines[index + 1]
+      night = _.some @constructor.NIGHT_RACE, (name) ->
+        line.contains name
+
+      week = @parseWeek(line, index)
       @season.cars = _.clone @cars
       @season.tracks ||= []
       @season.tracks.push [
-        list[0], list[1], '', night
+        week.date, week.track, '', night
       ]
-    else
-      callback @season if @season?
-      @setSeason list[0]
+      return
+
+  isSeason: (line) ->
+    (line.contains('Season') ||
+    line.contains('Winter Series')) &&
+    !line.contains('. .')
 
   parseWeek: (line) ->
     week = @clear line.split(',')[0]
     track = week.split(@constructor.DATE).pop().trim()
     date = (week.match(@constructor.DATE) || [])[1]
-    _.compact [date, track]
+    { date: date, track: track }
 
   clear: (text) ->
     @constructor.BLACKLISTED_WORDS.forEach (word) ->
