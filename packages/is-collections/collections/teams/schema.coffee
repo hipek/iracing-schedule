@@ -7,7 +7,9 @@
   'oxford plains',
   'south boston',
   'summit point',
-  'usa international'
+  'usa international',
+  'phoenix international 2008',
+  'daytona circa 2007'
 ]
 
 @PlayerTrackKinds =

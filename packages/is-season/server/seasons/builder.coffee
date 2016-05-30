@@ -48,7 +48,9 @@ class @SeasonBuilder
       trackId: @findOrCreateTrack data[1]
 
   findOrCreateTrack: (name) ->
+    legacyYear = (name.match(/(20[0-9]{2})/) || [])[0]
     name = name.split(' - ')[0]
+    name = [name, legacyYear].join(' ') if legacyYear && !name.contains(legacyYear)
     tname = _.clone name
     @constructor.BLACKLISTED_WORDS.forEach (word) ->
       tname = tname.replace word, ' '

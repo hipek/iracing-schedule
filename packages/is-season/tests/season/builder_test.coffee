@@ -1,7 +1,19 @@
-describe "SeasonBuilder", ->
+describe 'SeasonBuilder', ->
   before ->
-    @data = Factory.loadFixture('2014S3.txt')
-    @builder = new SeasonBuilder(null, @data)
+    Seasons.remove({})
 
-  it 'returns season', ->
-    @builder.build()
+  describe '2016S2', ->
+    before ->
+      @builder = new SeasonBuilder(null, Factory.loadFixture('2016S2.txt'))
+      @builder.build()
+
+    it 'returns season', (test) ->
+      test.equal Seasons.find().count(), 1
+
+  describe '2016S3', ->
+    before ->
+      @builder = new SeasonBuilder(null, Factory.loadFixture('2016S3.txt'))
+      @builder.build()
+
+    it 'returns season', (test) ->
+      test.equal Seasons.find().count(), 1
