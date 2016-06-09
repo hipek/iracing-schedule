@@ -2,8 +2,8 @@
 
 NAME='ischedule.tar.gz'
 DIR='/home/deploy/nodejs/ischedule'
-REMOTE='deploy@ischedule.tk'
-HOST='http://ischedule.tk'
+REMOTE="deploy@$1"
+HOST="http://$1"
 
 meteor build .build --server $HOST
 
