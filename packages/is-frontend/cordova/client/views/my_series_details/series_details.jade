@@ -1,0 +1,23 @@
+template(name='seriesDetails')
+  +ionItem
+    | Cars: 
+    = carNames
+
+  each playerSeriesTracks
+    +ionItem class=currentWeek
+      = week
+      | . 
+      = name
+      p
+        | {{displayDate date}}
+        | | 
+        = duration
+      p
+        each playerSeriesTrackData team
+          = playerNickname
+          | &nbsp;
+          if kind
+            +ionIcon icon="ios-checkmark" class=kind
+          else
+            +ionIcon icon="ios-close"
+          | &nbsp;

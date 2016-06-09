@@ -1,0 +1,27 @@
+Router.route '/admin',
+  name: 'admin',
+  controller: 'Admin.HomeController'
+Router.route '/admin/users',
+  name: 'adminUsers',
+  controller: 'Admin.UsersController'
+Router.route '/admin/tracks',
+  name: 'adminTracks',
+  controller: 'Admin.TracksController'
+Router.route '/admin/seasons',
+  name: 'adminSeasons',
+  controller: 'Admin.SeasonsController'
+Router.route '/admin/season/:sid',
+  name: 'adminSeason',
+  controller: 'Admin.SeasonController'
+Router.route '/admin/series',
+  name: 'adminSeries',
+  controller: 'Admin.SeriesController'
+Router.route '/admin/series/:id/edit',
+  name: 'adminSeriesEdit',
+  controller: 'Admin.SeriesEditController'
+Router.route '/admin/teams',
+  name: 'adminTeams',
+  controller: 'Admin.TeamsController'
+Router.route '/admin/player-series',
+  name: 'adminPlayerSeries',
+  controller: 'Admin.PlayerSeriesController'

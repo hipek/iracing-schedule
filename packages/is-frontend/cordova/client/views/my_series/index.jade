@@ -1,0 +1,18 @@
+template(name='mySeriesIndex')
+  +contentFor "headerButtonLeft"
+    +ionNavBackButton path="home"
+
+  +contentFor "headerTitle"
+    h1(class="title")
+      | Team 
+      = team.name
+
+  +ionView
+    +ionSubheaderBar
+      h2(class="title") My Series
+        | -
+        = name
+
+    +ionContent
+      +ionList
+        +series

@@ -4,45 +4,20 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-mquandalle:jade
-iron:router
-coffeescript
-less
-nemo64:bootstrap
-aldeed:autoform@4.2.2
-anti:modals
-aldeed:simple-schema
-aldeed:collection2
-xolvio:cucumber
-sanjo:jasmine
-velocity:console-reporter
-gandev:server-eval
-meteorhacks:npm
+meteor-base             # Packages every Meteor app needs to have
+mobile-experience       # Packages for a great mobile UX
+mongo                   # The database Meteor supports right now
+blaze-html-templates    # Compile .html files into Meteor Blaze views
+session                 # Client-side reactive dictionary for your app
+jquery                  # Helpful client-side library
+tracker                 # Meteor's client-side reactive programming library
 
+standard-minifiers      # JS/CSS minifiers run for production mode
+es5-shim                # ECMAScript 5 compatibility for older browsers.
+ecmascript              # Enable ECMAScript2015+ syntax in app code
 
-sacha:spin
-dburles:collection-helpers
-zimme:collection-timestampable
-mrt:flash-messages
-matb33:collection-hooks
-accounts-password
-ian:accounts-ui-bootstrap-3
-accounts-google
-alanning:roles
-standard-minifiers
-meteor-base
-mobile-experience
-mongo
-blaze-html-templates
-session
-jquery
-tracker
-logging
-reload
-random
-ejson
-spacebars
-check
-
-
-npm-container
+is-season
+is-collections
+meteoric:ionic-sass
+meteoric:ionicons-sass
+is-frontend

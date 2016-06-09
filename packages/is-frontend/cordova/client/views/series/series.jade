@@ -1,0 +1,11 @@
+template(name='series')
+  each series
+    each rowSeries
+      +ionItem route='mySeriesDetails' data=getSeriesDetails iconRight=true
+        = name
+        p
+          = license
+          | Class
+          | -
+          = raceType
+        +ionIconArrowRight

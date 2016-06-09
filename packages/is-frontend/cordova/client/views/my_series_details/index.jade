@@ -1,0 +1,21 @@
+template(name='mySeriesDetailsIndex')
+  +contentFor "headerButtonLeft"
+    +ionNavBackButton path="home"
+
+  +contentFor "headerTitle"
+    h1(class="title")
+      | My Series - 
+      = season.name
+
+  +ionView
+    +ionSubheaderBar
+      h2(class="title")
+        = name
+
+    +ionSubheaderBar
+      h2(class="title")
+        = name
+
+    +ionContent
+      +ionList
+        +seriesDetails

@@ -1,0 +1,16 @@
+template(name="homeShow")
+  +contentFor "headerTitle"
+    h1(class="title") iSchedule
+
+  +ionView
+    +ionSubheaderBar
+      h2(class="title") Teams
+
+    +ionContent
+      div.padding
+        each teams
+          +linkTo route="mySeries" data=getMySeries class="button button-block button-balanced"
+            = name
+
+      div.padding
+        button(class="button button-block button-positive") Quit

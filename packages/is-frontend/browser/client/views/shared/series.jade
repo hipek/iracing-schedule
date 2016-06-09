@@ -1,0 +1,29 @@
+template(name='series')
+  each series
+    .row.series-head
+      each rowSeries
+        .col-md-6
+          .panel.panel-default
+            .panel-heading= seriesName
+
+            table.series
+              thead
+                tr
+                  th.week Wk
+                  th.date Date
+                  th.duration Dur
+                  th Track
+                  each playerSeries
+                    th.user= playerNickname
+              tbody
+                each playerSeriesTracks
+                  tr(class=currentWeek)
+                    td.week= week
+                    td.date {{displayDate date}}
+                    td.duration= duration
+                    td= name
+                    each playerSeriesTrackData team
+                      td(class=kind)
+                        input(value=value data-track=trackId data-series=seriesId)
+                tr
+                  td(colspan='15')= carNames
