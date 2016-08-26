@@ -5,3 +5,4 @@
 tests/jasmine/server/unit/package*.js
 /system
 tmp/*
+.meteor/dev_bundle
