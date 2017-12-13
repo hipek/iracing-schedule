@@ -1,0 +1,3325 @@
+3
+3
+3
+3
+4
+4
+5
+5
+5
+6
+6
+7
+8
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+18
+19
+20
+21
+22
+23
+24
+24
+25
+Current iRacing Race Schedule
+OVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar Street Stock Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Advanced Legends - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Dirt Legends Cup - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Street Stock - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar 305 Sprint Car Series - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar Limited Late Model Series - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Late Model Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing National Series - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing SK Modified Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . .
+C Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar 360 Sprint Car Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar Class C Dirt Street Stock Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . .
+DIRTcar Pro Late Model Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar UMP Modified Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+INDYCAR Series - Oval - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Street Stock Class C - 2017 Season 4 - Fixed . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Super Late Model Series - 2017 Season 4 . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class C Series - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Tour Modified Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . .
+USAC 360 Sprint Car Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AMSOIL USAC Sprint Car National Championship - 2017 Season 4 . . . . . . . . . . . .
+iRacing Silver Crown Cup - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Sprint Car Cup - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class B Series - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . .
+World of Outlaws Late Model Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . .
+World of Outlaws Sprint Car Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . .
+A Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class A Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class A Series - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . .
+1
+26
+26
+26
+27
+28
+28
+29
+30
+31
+32
+33
+33
+34
+35
+36
+37
+38
+39
+40
+41
+43
+43
+44
+46
+46
+48
+49
+49
+50
+50
+50
+51
+51
+52
+ROAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Global Mazda MX-5 Cup - 2017 Season 4 Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Production Car Challenge - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . .
+D Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Global Challenge - 2017 Season 4 - Fixed . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Grand Touring Cup- 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Spec Racer Ford Challenge - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . .
+Ruf GT3 Challenge - 2017 Season 4 - Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Skip Barber Race Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Advanced Mazda MX-5 Cup Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . .
+Blancpain Endurance Series- 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Grand Prix Legends - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Verizon INDYCAR Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Formula Renault 2.0 Championship - 2017 Season 4 . . . . . . . . . . . . . . . . .
+iRacing V8 Supercars Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kamel GT Championship - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Porsche iRacing Cup - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pro Mazda Championship - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing ProtoGT Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Radical Racing Challenge- 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Blancpain Sprint Series- 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Classic Lotus Grand Prix- 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . .
+IMSA Sportscar Championship - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Grand Prix Series - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FUN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (FUN) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Carburetor Cup - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Dallara Dash - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PickUp Cup - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Industriefahrten Fun - 2017 Season 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+OVAL
+R Class Series (OVAL)
+DIRTcar Street Stock Series - 2017 Season 4
+Dirt Street Stock
+Rookie (1.0) --> Pro/WC (4.0)
+Races at 30 past every hour
+Week 1 (2017-09-12) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 2 (2017-09-19) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 3 (2017-09-26) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 4 (2017-10-03) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 5 (2017-10-10) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 6 (2017-10-17) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 7 (2017-10-24) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 8 (2017-10-31) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 9 (2017-11-07) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 10 (2017-11-14) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 11 (2017-11-21) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 12 (2017-11-28) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+iRacing Advanced Legends - 2017 Season 4
+Legends Ford '34 Coupe
+Rookie (3.0) --> Pro/WC (4.0)
+Races at 30 past
+Week 1 (2017-09-12) Charlotte Motor Speedway - Legends Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 2 (2017-09-19) Oxford Plains Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 3 (2017-09-26) USA International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 4 (2017-10-03) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 5 (2017-10-10) Thompson Speedway Motorsports Park - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 6 (2017-10-17) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 7 (2017-10-24) Charlotte Motor Speedway - Legends Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 8 (2017-10-31) Concord Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 9 (2017-11-07) USA International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 10 (2017-11-14) South Boston Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 11 (2017-11-21) Thompson Speedway Motorsports Park - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 12 (2017-11-28) Lanier National Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+3
+iRacing Dirt Legends Cup - 2017 Season 4
+Dirt Legends Ford '34 Coupe
+Rookie (3.0) --> Pro/WC (4.0)
+Races at 15 and 45 past every hour
+Week 1 (2017-09-12) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 2 (2017-09-19) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 3 (2017-09-26) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 4 (2017-10-03) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 5 (2017-10-10) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 6 (2017-10-17) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 7 (2017-10-24) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 8 (2017-10-31) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 9 (2017-11-07) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 10 (2017-11-14) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 11 (2017-11-21) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 12 (2017-11-28) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+iRacing Street Stock - 2017 Season 4 Fixed
+Street Stock
+Rookie (1.0) --> Class D (4.0)
+races every hour on the hour
+Week 1 (2017-09-12) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 2 (2017-09-19) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 3 (2017-09-26) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 4 (2017-10-03) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 5 (2017-10-10) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 6 (2017-10-17) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 7 (2017-10-24) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 8 (2017-10-31) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 9 (2017-11-07) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 10 (2017-11-14) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 11 (2017-11-21) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 12 (2017-11-28) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+4
+D Class Series (OVAL)
+DIRTcar 305 Sprint Car Series - 2017 Season 4 Fixed
+Dirt Sprint Car - 305
+Rookie (4.0) --> Pro/WC (4.0)
+Races every hour on the hour
+Week 1 (2017-09-12) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 2 (2017-09-19) Eldora Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 3 (2017-09-26) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 4 (2017-10-03) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 5 (2017-10-10) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 6 (2017-10-17) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 7 (2017-10-24) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 8 (2017-10-31) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 9 (2017-11-07) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 10 (2017-11-14) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 11 (2017-11-21) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 12 (2017-11-28) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+DIRTcar Limited Late Model Series - 2017 Season 4 Fixed
+Dirt Late Model - Limited
+Rookie (4.0) --> Pro/WC (4.0)
+Races every hour on the hour
+Week 1 (2017-09-12) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 2 (2017-09-19) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 3 (2017-09-26) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 4 (2017-10-03) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 5 (2017-10-10) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 6 (2017-10-17) Eldora Speedway (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 7 (2017-10-24) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 8 (2017-10-31) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 9 (2017-11-07) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 10 (2017-11-14) USA International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 11 (2017-11-21) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 12 (2017-11-28) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+5
+NASCAR iRacing Late Model Series - 2017 Season 4
+Chevrolet Monte Carlo SS
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every 2 hours
+Week 1 (2017-09-12) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 2 (2017-09-19) Langley Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+60 laps
+Week 3 (2017-09-26) Myrtle Beach Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 4 (2017-10-03) Oxford Plains Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 5 (2017-10-10) USA International Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 6 (2017-10-17) Irwindale Speedway - Outer (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 7 (2017-10-24) Southern National Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 8 (2017-10-31) Martinsville Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 9 (2017-11-07) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+60 laps
+Week 10 (2017-11-14) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 11 (2017-11-21) Five Flags Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 12 (2017-11-28) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+60 laps
+NASCAR iRacing National Series - 2017 Season 4 Fixed
+NASCAR K&N Pro Chevrolet Impala
+Rookie (4.0) --> Pro/WC (4.0)
+Races 45 past every odd 2 hours
+Week 1 (2017-09-12) Irwindale Speedway - Outer (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 2 (2017-09-19) New Smyrna Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 3 (2017-09-26) The Bullring (Night) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 4 (2017-10-03) Sonoma Raceway - Cup (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 5 (2017-10-10) Iowa Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 6 (2017-10-17) Lucas Oil Raceway (Late Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 7 (2017-10-24) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 8 (2017-10-31) Gateway Motorsports Park - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 9 (2017-11-07) Bristol Motor Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 10 (2017-11-14) Talladega Superspeedway (Late Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 11 (2017-11-21) Stafford Motor Speedway - Full Course
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 12 (2017-11-28) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+6
+NASCAR iRacing SK Modified Series - 2017 Season 4
+Modified - SK
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours
+Week 1 (2017-09-12) USA International Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+Week 2 (2017-09-19) Concord Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 3 (2017-09-26) Thompson Speedway Motorsports Park - Oval
+(Morning)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 4 (2017-10-03) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 5 (2017-10-10) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 6 (2017-10-17) The Bullring (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 7 (2017-10-24) Stafford Motor Speedway - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 8 (2017-10-31) New Smyrna Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 9 (2017-11-07) Myrtle Beach Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 10 (2017-11-14) Five Flags Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 11 (2017-11-21) Irwindale Speedway - Outer (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 12 (2017-11-28) Lucas Oil Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+35 laps
+7
+C Class Series (OVAL)
+DIRTcar 360 Sprint Car Series - 2017 Season 4
+Dirt Sprint Car - 360
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 30 past the hour
+Week 1 (2017-09-12) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 2 (2017-09-19) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 3 (2017-09-26) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 4 (2017-10-03) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 5 (2017-10-10) Volusia Speedway Park (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 6 (2017-10-17) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 7 (2017-10-24) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 8 (2017-10-31) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 9 (2017-11-07) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 10 (2017-11-14) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 11 (2017-11-21) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 12 (2017-11-28) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+8
+DIRTcar Class C Dirt Street Stock Series - 2017 Season 4
+Dirt Street Stock
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2017-09-12) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 2 (2017-09-19) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 3 (2017-09-26) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 4 (2017-10-03) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 5 (2017-10-10) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 6 (2017-10-17) Eldora Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 7 (2017-10-24) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 8 (2017-10-31) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 9 (2017-11-07) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 10 (2017-11-14) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 11 (2017-11-21) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 12 (2017-11-28) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+9
+DIRTcar Pro Late Model Series - 2017 Season 4
+Dirt Late Model - Pro
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours 30 past the hour
+Week 1 (2017-09-12) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 2 (2017-09-19) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 3 (2017-09-26) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 4 (2017-10-03) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 5 (2017-10-10) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 6 (2017-10-17) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 7 (2017-10-24) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 8 (2017-10-31) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 9 (2017-11-07) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 10 (2017-11-14) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 11 (2017-11-21) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 12 (2017-11-28) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+10
+DIRTcar UMP Modified Series - 2017 Season 4
+Dirt UMP Modified
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours 15 past the hour
+Week 1 (2017-09-12) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 2 (2017-09-19) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 3 (2017-09-26) Volusia Speedway Park (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 4 (2017-10-03) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 5 (2017-10-10) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 6 (2017-10-17) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 7 (2017-10-24) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 8 (2017-10-31) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 9 (2017-11-07) Williams Grove Speedway (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 10 (2017-11-14) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 11 (2017-11-21) Eldora Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 12 (2017-11-28) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+11
+INDYCAR Series - Oval - 2017 Season 4 Fixed
+Dallara DW12
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2017-09-12) Las Vegas Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 2 (2017-09-19) Auto Club Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+60 laps
+Week 3 (2017-09-26) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+45 laps
+Week 4 (2017-10-03) Homestead Miami Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 5 (2017-10-10) Iowa Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+115 laps
+Week 6 (2017-10-17) Atlanta Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 7 (2017-10-24) Michigan International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+60 laps
+Week 8 (2017-10-31) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 9 (2017-11-07) Pocono Raceway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+50 laps
+Week 10 (2017-11-14) Texas Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 11 (2017-11-21) Phoenix International Raceway - 2008 - Oval
+(Late Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 12 (2017-11-28) Indianapolis Motor Speedway - IndyCar Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+50 laps
+12
+iRacing Street Stock Class C - 2017 Season 4 - Fixed
+Street Stock
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2017-09-12) South Boston Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 2 (2017-09-19) Lanier National Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 3 (2017-09-26) Southern National Motorsports Park (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 4 (2017-10-03) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 5 (2017-10-10) Five Flags Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 6 (2017-10-17) New Smyrna Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 7 (2017-10-24) Martinsville Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 8 (2017-10-31) Thompson Speedway Motorsports Park - Oval
+(Night)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 9 (2017-11-07) Concord Speedway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 10 (2017-11-14) The Bullring (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 11 (2017-11-21) Bristol Motor Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 12 (2017-11-28) USA International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+13
+NASCAR iRacing Super Late Model Series - 2017 Season 4
+Super Late Model
+Class D (4.0) --> Pro/WC (4.0)
+Races at 15 past every odd 2 hours
+Week 1 (2017-09-12) Southern National Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 2 (2017-09-19) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 3 (2017-09-26) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 4 (2017-10-03) Five Flags Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 5 (2017-10-10) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 6 (2017-10-17) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 7 (2017-10-24) New Smyrna Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 8 (2017-10-31) Myrtle Beach Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 9 (2017-11-07) Stafford Motor Speedway - Full Course (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 10 (2017-11-14) Langley Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 11 (2017-11-21) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 12 (2017-11-28) Iowa Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+14
+NASCAR iRacing Class C Series - 2017 Season 4 Fixed
+NASCAR Camping World Toyota Tundra, NASCAR Camping World
+Chevrolet Silverado
+Class D (4.0) --> Pro/WC (4.0)
+Races 15 past every hour
+Week 1 (2017-09-12) Chicagoland Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 2 (2017-09-19) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 3 (2017-09-26) Las Vegas Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 4 (2017-10-03) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 5 (2017-10-10) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+30 laps
+Week 6 (2017-10-17) Kansas Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 7 (2017-10-24) Martinsville Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 8 (2017-10-31) Texas Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 9 (2017-11-07) Phoenix International Raceway - Oval w/open
+dogleg (Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 10 (2017-11-14) Homestead Miami Speedway - Oval (Late
+Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 11 (2017-11-21) Eldora Speedway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 12 (2017-11-28) Atlanta Motor Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+15
+NASCAR iRacing Tour Modified Series - 2017 Season 4
+Modified - NASCAR Whelen Tour
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2017-09-12) New Smyrna Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 2 (2017-09-19) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 3 (2017-09-26) Gateway Motorsports Park - Oval (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 4 (2017-10-03) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 5 (2017-10-10) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 6 (2017-10-17) Lucas Oil Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 7 (2017-10-24) Southern National Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 8 (2017-10-31) Myrtle Beach Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 9 (2017-11-07) Martinsville Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 10 (2017-11-14) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 11 (2017-11-21) Phoenix International Raceway - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 12 (2017-11-28) Five Flags Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+16
+USAC 360 Sprint Car Series - 2017 Season 4
+Dirt Sprint Car - 360 Non-Winged
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours 45 past the hour
+Week 1 (2017-09-12) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 2 (2017-09-19) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 3 (2017-09-26) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 4 (2017-10-03) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 5 (2017-10-10) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 6 (2017-10-17) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 7 (2017-10-24) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 8 (2017-10-31) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 9 (2017-11-07) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 10 (2017-11-14) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 11 (2017-11-21) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 12 (2017-11-28) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+17
+B Class Series (OVAL)
+AMSOIL USAC Sprint Car National Championship - 2017 Season 4
+Dirt Sprint Car - 410 Non-Winged
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours 45 past the hour
+Week 1 (2017-09-12) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 2 (2017-09-19) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 3 (2017-09-26) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 4 (2017-10-03) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 5 (2017-10-10) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 6 (2017-10-17) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 7 (2017-10-24) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 8 (2017-10-31) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 9 (2017-11-07) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 10 (2017-11-14) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 11 (2017-11-21) Volusia Speedway Park (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+Week 12 (2017-11-28) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+25 laps
+18
+iRacing Silver Crown Cup - 2017 Season 4
+Silver Crown
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours starting at 45 past
+Week 1 (2017-09-12) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 2 (2017-09-19) Iowa Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 3 (2017-09-26) Chicagoland Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+67 laps
+Week 4 (2017-10-03) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 5 (2017-10-10) Dover International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 6 (2017-10-17) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 7 (2017-10-24) Irwindale Speedway - Outer (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 8 (2017-10-31) Las Vegas Motor Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+67 laps
+Week 9 (2017-11-07) Twin Ring Motegi - Oval (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 10 (2017-11-14) The Milwaukee Mile (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 11 (2017-11-21) Kansas Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+67 laps
+Week 12 (2017-11-28) Lucas Oil Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+63 laps
+19
+iRacing Sprint Car Cup - 2017 Season 4
+Sprint Car
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2017-09-12) Phoenix International Raceway - 2008 - Oval
+(Morning)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+30 laps
+Week 2 (2017-09-19) Stafford Motor Speedway - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 3 (2017-09-26) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 4 (2017-10-03) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 5 (2017-10-10) Myrtle Beach Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 6 (2017-10-17) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 7 (2017-10-24) Irwindale Speedway - Outer (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 8 (2017-10-31) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 9 (2017-11-07) Lanier National Speedway (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 10 (2017-11-14) Iowa Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 11 (2017-11-21) Five Flags Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 12 (2017-11-28) Lucas Oil Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+63 laps
+20
+NASCAR iRacing Class B Series - 2017 Season 4 Fixed
+NASCAR XFINITY Ford Mustang, NASCAR XFINITY Chevrolet Camaro,
+NASCAR XFINITY Toyota Camry
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2017-09-12) Chicagoland Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 2 (2017-09-19) Kentucky Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 3 (2017-09-26) Dover International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 4 (2017-10-03) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 5 (2017-10-10) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+35 laps
+Week 6 (2017-10-17) Kansas Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 7 (2017-10-24) Martinsville Speedway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+70 laps
+Week 8 (2017-10-31) Texas Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 9 (2017-11-07) Phoenix International Raceway - Oval w/open
+dogleg (Late Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 10 (2017-11-14) Homestead Miami Speedway - Oval (Morning) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 11 (2017-11-21) Richmond International Raceway (Morning) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+70 laps
+Week 12 (2017-11-28) Atlanta Motor Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+21
+World of Outlaws Late Model Series - 2017 Season 4
+Dirt Late Model - Super
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 30 past the hour
+Week 1 (2017-09-12) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 2 (2017-09-19) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 3 (2017-09-26) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 4 (2017-10-03) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 5 (2017-10-10) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 6 (2017-10-17) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 7 (2017-10-24) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 8 (2017-10-31) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 9 (2017-11-07) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 10 (2017-11-14) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 11 (2017-11-21) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 12 (2017-11-28) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+22
+World of Outlaws Sprint Car Series - 2017 Season 4
+Dirt Sprint Car - 410
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours 30 past the hour
+Week 1 (2017-09-12) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 2 (2017-09-19) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 3 (2017-09-26) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 4 (2017-10-03) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 5 (2017-10-10) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 6 (2017-10-17) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 7 (2017-10-24) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 8 (2017-10-31) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 9 (2017-11-07) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 10 (2017-11-14) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+25 laps
+Week 11 (2017-11-21) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+Week 12 (2017-11-28) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+30 laps
+23
+A Class Series (OVAL)
+NASCAR iRacing Class A Series - 2017 Season 4
+NASCAR Monster Energy Cup Chevrolet SS, NASCAR Monster Energy
+Cup Ford Fusion, NASCAR Monster Energy Cup Toyota Camry
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past
+Week 1 (2017-09-12) Chicagoland Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 2 (2017-09-19) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 3 (2017-09-26) Dover International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 4 (2017-10-03) Charlotte Motor Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 5 (2017-10-10) Talladega Superspeedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 6 (2017-10-17) Kansas Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 7 (2017-10-24) Martinsville Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+150 laps
+Week 8 (2017-10-31) Texas Motor Speedway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 9 (2017-11-07) Phoenix International Raceway - Oval w/open
+dogleg (Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 10 (2017-11-14) Homestead Miami Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 11 (2017-11-21) Auto Club Speedway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+70 laps
+Week 12 (2017-11-28) Atlanta Motor Speedway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+24
+NASCAR iRacing Class A Series - 2017 Season 4 Fixed
+NASCAR Monster Energy Cup Chevrolet SS, NASCAR Monster Energy
+Cup Ford Fusion, NASCAR Monster Energy Cup Toyota Camry
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2017-09-12) Chicagoland Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 2 (2017-09-19) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 3 (2017-09-26) Dover International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 4 (2017-10-03) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 5 (2017-10-10) Talladega Superspeedway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 6 (2017-10-17) Kansas Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 7 (2017-10-24) Martinsville Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+75 laps
+Week 8 (2017-10-31) Texas Motor Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 9 (2017-11-07) Phoenix International Raceway - Oval w/open
+dogleg (Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 10 (2017-11-14) Homestead Miami Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 11 (2017-11-21) Auto Club Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 12 (2017-11-28) Atlanta Motor Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+25
+ROAD
+R Class Series (ROAD)
+Global Mazda MX-5 Cup - 2017 Season 4 Fixed
+Global Mazda MX-5 Cup
+Rookie (1.0) --> Pro/WC (4.0)
+Qual at 30 past every hour races every hour
+Week 1 (2017-09-12) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 2 (2017-09-19) Okayama International Circuit - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 3 (2017-09-26) Lime Rock Park - Full Course (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 4 (2017-10-03) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 5 (2017-10-10) Summit Point Raceway - Jefferson Circuit
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 6 (2017-10-17) Charlotte Motor Speedway - Road Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 7 (2017-10-24) Phoenix International Raceway - 2008 - Road
+Course (Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 8 (2017-10-31) Okayama International Circuit - Short (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 9 (2017-11-07) Lime Rock Park - Chicane (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 10 (2017-11-14) Summit Point Raceway - Jefferson Reverse
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 11 (2017-11-21) Okayama International Circuit - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 12 (2017-11-28) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+26
+iRacing Production Car Challenge - 2017 Season 4
+Pontiac Solstice, Global Mazda MX-5 Cup
+Rookie (3.0) --> Pro/WC (4.0)
+Races 30 past every hour
+Week 1 (2017-09-12) Okayama International Circuit - Short (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+25 laps
+Week 2 (2017-09-19) Summit Point Raceway - Jefferson Reverse
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 3 (2017-09-26) Charlotte Motor Speedway - Road Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 4 (2017-10-03) Summit Point Raceway - Short (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 5 (2017-10-10) Lime Rock Park - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 6 (2017-10-17) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+11 laps
+Week 7 (2017-10-24) Okayama International Circuit - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 8 (2017-10-31) Summit Point Raceway - Jefferson Circuit
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 9 (2017-11-07) Phoenix International Raceway - 2008 - Road
+Course (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 10 (2017-11-14) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 11 (2017-11-21) Lime Rock Park - Chicane (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 12 (2017-11-28) Daytona circa 2007 - Road Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+7 laps
+27
+D Class Series (ROAD)
+iRacing Global Challenge - 2017 Season 4 - Fixed
+Cadillac CTS-V Racecar, Kia Optima
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 30 past every odd 2 hours and qual at 15 past every hour
+Week 1 (2017-09-12) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 2 (2017-09-19) Nürburgring Combined - Gesamtstrecke Long
+(Afternoon)
+Grid by class, Rolling start, Local
+enforced cautions.
+40 mins
+Week 3 (2017-09-26) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 4 (2017-10-03) Snetterton Circuit - 300 (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 5 (2017-10-10) Lime Rock Park - Full Course (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 6 (2017-10-17) Sonoma Raceway - Long (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 7 (2017-10-24) Road America - Full Course (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 8 (2017-10-31) Watkins Glen International - Boot (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 9 (2017-11-07) Mount Panorama Circuit (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 10 (2017-11-14) Oulton Park Circuit - International (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 11 (2017-11-21) Okayama International Circuit - Full Course
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 12 (2017-11-28) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+28
+iRacing Grand Touring Cup- 2017 Season 4
+Ford Mustang FR500S, Pontiac Solstice, VW Jetta TDI Cup
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 15 past
+Week 1 (2017-09-12) Mazda Raceway Laguna Seca - Full Course
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 2 (2017-09-19) Watkins Glen International - Classic Boot
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 3 (2017-09-26) Lime Rock Park - Full Course (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 4 (2017-10-03) Mount Panorama Circuit (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 5 (2017-10-10) Snetterton Circuit - 200 (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 6 (2017-10-17) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 7 (2017-10-24) Nürburgring Combined - Gesamtstrecke Long
+(Morning)
+Grid by class, Rolling start, Local
+enforced cautions.
+3 laps
+Week 8 (2017-10-31) Autodromo Nazionale Monza - Junior (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 9 (2017-11-07) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 10 (2017-11-14) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 11 (2017-11-21) Daytona circa 2007 - Road Course (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 12 (2017-11-28) Canadian Tire Motorsports Park (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+29
+iRacing Spec Racer Ford Challenge - 2017 Season 4
+SCCA Spec Racer Ford
+Rookie (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2017-09-12) Charlotte Motor Speedway - Road Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 2 (2017-09-19) Snetterton Circuit - 200 (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 3 (2017-09-26) Watkins Glen International - Cup (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 4 (2017-10-03) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 5 (2017-10-10) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+5 laps
+Week 6 (2017-10-17) Lime Rock Park - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 7 (2017-10-24) Canadian Tire Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 8 (2017-10-31) Road America - Full Course (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 9 (2017-11-07) Summit Point Raceway - Summit Point Raceway
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 10 (2017-11-14) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Standing start, Local enforced
+cautions.
+3 laps
+Week 11 (2017-11-21) Okayama International Circuit - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 12 (2017-11-28) Circuit de Spa-Francorchamps - Classic Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+30
+Ruf GT3 Challenge - 2017 Season 4 - Fixed
+Ruf RT 12R Track
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2017-09-12) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 2 (2017-09-19) Autódromo José Carlos Pace - Grand Prix (Late
+Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 3 (2017-09-26) Circuit Park Zandvoort - Grand Prix (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 4 (2017-10-03) Circuit Gilles Villeneuve (Morning) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 5 (2017-10-10) Lime Rock Park - Full Course (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 6 (2017-10-17) Mount Panorama Circuit (Late Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 7 (2017-10-24) Twin Ring Motegi - Grand Prix (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 8 (2017-10-31) Road Atlanta - Full Course (Morning) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 9 (2017-11-07) Okayama International Circuit - Full Course (Late
+Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 10 (2017-11-14) Road America - Full Course (Late Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 11 (2017-11-21) Donington Park Racing Circuit - National
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 12 (2017-11-28) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Standing start, Local enforced
+cautions.
+30 mins
+31
+Skip Barber Race Series - 2017 Season 4
+Skip Barber Formula 2000
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every hour
+Week 1 (2017-09-12) Lime Rock Park - Full Course (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+25 laps
+Week 2 (2017-09-19) Silverstone Circuit - National (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+22 laps
+Week 3 (2017-09-26) Virginia International Raceway - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 4 (2017-10-03) Road Atlanta - Full Course (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 5 (2017-10-10) Suzuka International Racing Course - Grand Prix
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 6 (2017-10-17) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 7 (2017-10-24) Oran Park Raceway - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 8 (2017-10-31) Brands Hatch Circuit - Grand Prix (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 9 (2017-11-07) Okayama International Circuit - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 10 (2017-11-14) Snetterton Circuit - 300 (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+13 laps
+Week 11 (2017-11-21) Oulton Park Circuit - Island Historic (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+16 laps
+Week 12 (2017-11-28) Circuit Gilles Villeneuve (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+32
+C Class Series (ROAD)
+Advanced Mazda MX-5 Cup Series - 2017 Season 4
+Global Mazda MX-5 Cup
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2017-09-12) Mount Panorama Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+45 mins
+Week 2 (2017-09-19) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 3 (2017-09-26) Autódromo José Carlos Pace - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 4 (2017-10-03) Road America - Full Course (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+45 mins
+Week 5 (2017-10-10) Circuit Zolder - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 6 (2017-10-17) Nürburgring Combined - Gesamtstrecke 24h
+(Afternoon)
+Standing start, Local enforced
+cautions.
+MX16: 30%
+45 mins
+Week 7 (2017-10-24) Snetterton Circuit - 300 (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 8 (2017-10-31) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 9 (2017-11-07) Brands Hatch Circuit - Grand Prix (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 10 (2017-11-14) Road Atlanta - Full Course (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 11 (2017-11-21) Oulton Park Circuit - International (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 12 (2017-11-28) Autodromo Nazionale Monza - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+33
+Blancpain Endurance Series- 2017 Season 4
+McLaren MP4-12C GT3, BMW Z4 GT3, Ford GT GT3, Mercedes AMG GT3,
+Audi R8 LMS
+Class D (4.0) --> Pro/WC (4.0), Team racing
+Qual and Races Saturdays 9 and 19 GMT and Sundays 17 GMT
+Week 1 (2017-09-16) Sonoma Raceway - Long (Morning) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 2 (2017-09-23) Circuit of the Americas - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 3 (2017-09-30) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 4 (2017-10-07) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 5 (2017-10-14) Mazda Raceway Laguna Seca - Full Course
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 6 (2017-10-21) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 7 (2017-10-28) Snetterton Circuit - 300 (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+Week 8 (2017-11-04) Homestead Miami Speedway - Road Course B
+(Morning)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+180
+mins
+34
+Grand Prix Legends - 2017 Season 4
+Lotus 49
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 30 past
+Week 1 (2017-09-12) Circuit des 24 Heures du Mans - Historic (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+10 laps
+Week 2 (2017-09-19) Donington Park Racing Circuit - National
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+28 laps
+Week 3 (2017-09-26) Snetterton Circuit - 200 (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+25 laps
+Week 4 (2017-10-03) Brands Hatch Circuit - Grand Prix (Morning) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+22 laps
+Week 5 (2017-10-10) Silverstone Circuit - Grand Prix (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+18 laps
+Week 6 (2017-10-17) Oulton Park Circuit - Intl w/no Chicanes
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+22 laps
+Week 7 (2017-10-24) Phillip Island Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+20 laps
+Week 8 (2017-10-31) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Standing start, Local advisory
+cautions.
+6 laps
+Week 9 (2017-11-07) Mount Panorama Circuit (Morning) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+15 laps
+Week 10 (2017-11-14) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+20 laps
+Week 11 (2017-11-21) Circuit de Spa-Francorchamps - Classic Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+14 laps
+Week 12 (2017-11-28) Autodromo Nazionale Monza - Combined
+without chicanes (Afternoon)
+Standing start, Local advisory
+cautions.
+14 laps
+35
+Verizon INDYCAR Series - 2017 Season 4
+Dallara DW12
+Class D (4.0) --> Pro/WC (4.0)
+Combined oval and road series using road license. Races every 2 hours
+Week 1 (2017-09-12) Sonoma Raceway - IRL (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+32 laps
+Week 2 (2017-09-19) Auto Club Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+100 laps
+Week 3 (2017-09-26) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+21 laps
+Week 4 (2017-10-03) Homestead Miami Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+120 laps
+Week 5 (2017-10-10) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+40 laps
+Week 6 (2017-10-17) Richmond International Raceway (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+130 laps
+Week 7 (2017-10-24) Daytona International Speedway - Road Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+42 laps
+Week 8 (2017-10-31) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+140 laps
+Week 9 (2017-11-07) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+39 laps
+Week 10 (2017-11-14) Kentucky Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+120 laps
+Week 11 (2017-11-21) Watkins Glen International - Cup (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+55 laps
+Week 12 (2017-11-28) Indianapolis Motor Speedway - IndyCar Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+85 laps
+36
+iRacing Formula Renault 2.0 Championship - 2017 Season 4
+Formula Renault 2.0
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2017-09-12) Mazda Raceway Laguna Seca - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+23 laps
+Week 2 (2017-09-19) Watkins Glen International - Classic Boot
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 3 (2017-09-26) Mount Panorama Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 4 (2017-10-03) Canadian Tire Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+25 laps
+Week 5 (2017-10-10) Sonoma Raceway - Long (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 6 (2017-10-17) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 7 (2017-10-24) Circuit Zolder - Grand Prix (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 8 (2017-10-31) Phillip Island Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 9 (2017-11-07) Sebring International Raceway - International
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+16 laps
+Week 10 (2017-11-14) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 11 (2017-11-21) Circuit Park Zandvoort - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 12 (2017-11-28) Circuit of the Americas - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+37
+iRacing V8 Supercars Series - 2017 Season 4
+Holden Commodore VF V8, Ford Falcon FG V8
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2017-09-12) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 40%
+FFV8: 40%
+21 laps
+Week 2 (2017-09-19) Mount Panorama Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+19 laps
+Week 3 (2017-09-26) Brands Hatch Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+21 laps
+Week 4 (2017-10-03) Snetterton Circuit - 200 (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 40%
+FFV8: 40%
+20 laps
+Week 5 (2017-10-10) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+33 laps
+Week 6 (2017-10-17) Circuit Gilles Villeneuve (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 40%
+FFV8: 40%
+31 laps
+Week 7 (2017-10-24) Road Atlanta - Full Course (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+29 laps
+Week 8 (2017-10-31) Silverstone Circuit - National (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+33 laps
+Week 9 (2017-11-07) Autodromo Nazionale Monza - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 40%
+FFV8: 40%
+17 laps
+Week 10 (2017-11-14) Autódromo José Carlos Pace - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+26 laps
+Week 11 (2017-11-21) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 12 (2017-11-28) Road America - Full Course (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 40%
+FFV8: 40%
+29 laps
+38
+Kamel GT Championship - 2017 Season 4
+Nissan GTP ZX-T, Audi 90 GTO
+Class D (4.0) --> Pro/WC (4.0)
+30 minute races ever odd 2 hours on the hour
+Week 1 (2017-09-12) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Afternoon)
+Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions.
+7 laps
+Week 2 (2017-09-19) Snetterton Circuit - 300 (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 3 (2017-09-26) Daytona circa 2007 - Road Course (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 4 (2017-10-03) Barber Motorsports Park - Full Course
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 5 (2017-10-10) Sonoma Raceway - Long (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 6 (2017-10-17) Silverstone Circuit - Grand Prix (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 7 (2017-10-24) Sebring International Raceway - International
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+A90: 75%
+60 mins
+Week 8 (2017-10-31) Autodromo Nazionale Monza - Grand Prix
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 9 (2017-11-07) Circuit Zolder - Grand Prix (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 10 (2017-11-14) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 11 (2017-11-21) Canadian Tire Motorsports Park (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 12 (2017-11-28) Suzuka International Racing Course - Grand Prix
+(Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+39
+Porsche iRacing Cup - 2017 Season 4
+Porsche 911 GT3 Cup (991)
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2017-09-12) Watkins Glen International - Cup (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 2 (2017-09-19) Snetterton Circuit - 300 (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 3 (2017-09-26) Road Atlanta - Full Course (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 4 (2017-10-03) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 5 (2017-10-10) Mount Panorama Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 6 (2017-10-17) Sebring International Raceway - International
+(Night)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 7 (2017-10-24) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 8 (2017-10-31) Donington Park Racing Circuit - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 9 (2017-11-07) Autódromo José Carlos Pace - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+17 laps
+Week 10 (2017-11-14) Autodromo Nazionale Monza - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+13 laps
+Week 11 (2017-11-21) Suzuka International Racing Course - Grand Prix
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+13 laps
+Week 12 (2017-11-28) Okayama International Circuit - Full Course (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+19 laps
+40
+Pro Mazda Championship - 2017 Season 4
+Pro Mazda
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2017-09-12) Mid-Ohio Sports Car Course - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+22 laps
+Week 2 (2017-09-19) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+14 laps
+Week 3 (2017-09-26) Daytona circa 2007 - Road Course (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+PM: 32%
+18 laps
+Week 4 (2017-10-03) Charlotte Motor Speedway - Oval (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+PM: 32%
+50 laps
+Week 5 (2017-10-10) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Standing start, Local enforced
+cautions.
+PM: 32%
+5 laps
+Week 6 (2017-10-17) Autodromo Nazionale Monza - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+15 laps
+Week 7 (2017-10-24) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+PM: 32%
+16 laps
+Week 8 (2017-10-31) Okayama International Circuit - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+20 laps
+Week 9 (2017-11-07) Suzuka International Racing Course - Grand Prix
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+16 laps
+Week 10 (2017-11-14) Watkins Glen International - Classic Boot
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+17 laps
+Week 11 (2017-11-21) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+15 laps
+Week 12 (2017-11-28) Snetterton Circuit - 300 (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 32%
+18 laps
+41
+iRacing ProtoGT Series - 2017 Season 4
+Ford GT, HPD ARX-01c, Chevrolet Corvette C6.R GT1, Aston Martin DBR9
+GT1
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2017-09-12) Silverstone Circuit - Historical Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+60 mins
+Week 2 (2017-09-19) Snetterton Circuit - 300 (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+60 mins
+Week 3 (2017-09-26) Circuit de Spa-Francorchamps - Endurance
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+75 mins
+Week 4 (2017-10-03) Watkins Glen International - Classic (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+50 mins
+Week 5 (2017-10-10) Sebring International Raceway - International
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+60 mins
+Week 6 (2017-10-17) Road Atlanta - Full Course (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 65%
+ARX: 65%
+C6R GT1: 65%
+AM1: 65%
+50 mins
+Week 7 (2017-10-24) Nürburgring Grand-Prix-Strecke - Grand Prix
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+60 mins
+Week 8 (2017-10-31) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 65%
+ARX: 65%
+C6R GT1: 65%
+AM1: 65%
+50 mins
+Week 9 (2017-11-07) Road America - Full Course (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+60 mins
+42
+Week 10 (2017-11-14) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+75 mins
+Week 11 (2017-11-21) Autodromo Nazionale Monza - Grand Prix
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 65%
+ARX: 65%
+C6R GT1: 65%
+AM1: 65%
+50 mins
+Week 12 (2017-11-28) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT: 80%
+ARX: 80%
+C6R GT1: 80%
+AM1: 80%
+60 mins
+Radical Racing Challenge- 2017 Season 4
+Radical SR8
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2017-09-12) Watkins Glen International - Boot (Morning) Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 2 (2017-09-19) Snetterton Circuit - 200 (Morning) Qual attached, Standing start, Local
+enforced cautions.
+23 laps
+Week 3 (2017-09-26) Road Atlanta - Full Course (Morning) Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 4 (2017-10-03) Circuit de Spa-Francorchamps - Classic Pits
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 5 (2017-10-10) Silverstone Circuit - Historical Grand Prix
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+16 laps
+Week 6 (2017-10-17) Oulton Park Circuit - Intl w/no Chicanes
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+19 laps
+Week 7 (2017-10-24) Canadian Tire Motorsports Park (Morning) Qual attached, Standing start, Local
+enforced cautions.
+21 laps
+Week 8 (2017-10-31) Sebring International Raceway - International
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+25 laps
+Week 9 (2017-11-07) Road America - Full Course (Morning) Qual attached, Standing start, Local
+enforced cautions.
+13 laps
+Week 10 (2017-11-14) Autodromo Nazionale Monza - GP without
+chicanes (Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+16 laps
+Week 11 (2017-11-21) Autódromo José Carlos Pace - Grand Prix
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+17 laps
+Week 12 (2017-11-28) Phillip Island Circuit (Morning) Qual attached, Standing start, Local
+enforced cautions.
+31 laps
+43
+B Class Series (ROAD)
+44
+Blancpain Sprint Series- 2017 Season 4
+McLaren MP4-12C GT3, BMW Z4 GT3, Ford GT GT3, Mercedes AMG GT3,
+Audi R8 LMS
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2017-09-12) Sonoma Raceway - Long (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 40%
+BMWZ: 40%
+FGT3: 40%
+MGT3: 40%
+AR8: 40%
+40 mins
+Week 2 (2017-09-19) Circuit of the Americas - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 3 (2017-09-26) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 4 (2017-10-03) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 5 (2017-10-10) Mazda Raceway Laguna Seca - Full Course
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 6 (2017-10-17) Phillip Island Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 7 (2017-10-24) Snetterton Circuit - 300 (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 8 (2017-10-31) Homestead Miami Speedway - Road Course B
+(Morning)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 9 (2017-11-07) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+45
+Week 10 (2017-11-14) Silverstone Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 11 (2017-11-21) Mount Panorama Circuit (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+Week 12 (2017-11-28) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%
+AR8: 50%
+40 mins
+iRacing Classic Lotus Grand Prix- 2017 Season 4
+Lotus 79
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past
+Week 1 (2017-09-12) Oulton Park Circuit - Intl w/no Chicanes
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+34 laps
+Week 2 (2017-09-19) Circuit Zolder - Alternate (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+35 laps
+Week 3 (2017-09-26) Watkins Glen International - Classic Boot
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+28 laps
+Week 4 (2017-10-03) Virginia International Raceway - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+26 laps
+Week 5 (2017-10-10) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+30 laps
+Week 6 (2017-10-17) Lime Rock Park - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+60 laps
+Week 7 (2017-10-24) Circuit of the Americas - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+22 laps
+Week 8 (2017-10-31) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Standing start, Local enforced
+cautions.
+8 laps
+Week 9 (2017-11-07) Brands Hatch Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+36 laps
+Week 10 (2017-11-14) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+32 laps
+Week 11 (2017-11-21) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+36 laps
+Week 12 (2017-11-28) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+23 laps
+46
+IMSA Sportscar Championship - 2017 Season 4
+Ford GT - 2017, Ferrari 488 GTE, Mercedes AMG GT3, Audi R8 LMS,
+Chevrolet Corvette C7 Daytona Prototype
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2017-09-12) Circuit of the Americas - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 2 (2017-09-19) Mazda Raceway Laguna Seca - Full Course
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 3 (2017-09-26) Road Atlanta - Full Course (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+75 mins
+Week 4 (2017-10-03) Sebring International Raceway - International
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 5 (2017-10-10) Snetterton Circuit - 300 (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 6 (2017-10-17) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 7 (2017-10-24) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+75 mins
+Week 8 (2017-10-31) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 9 (2017-11-07) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+47
+Week 10 (2017-11-14) Canadian Tire Motorsports Park (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+Week 11 (2017-11-21) Daytona International Speedway - Road Course
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+75 mins
+Week 12 (2017-11-28) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 50%
+488E: 50%
+MGT3: 45%
+AR8: 45%
+C7DP: 60%
+45 mins
+48
+A Class Series (ROAD)
+iRacing Grand Prix Series - 2017 Season 4
+McLaren MP4-30
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2017-09-12) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+31 laps
+Week 2 (2017-09-19) Sebring International Raceway - International
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+34 laps
+Week 3 (2017-09-26) Watkins Glen International - Classic Boot
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+36 laps
+Week 4 (2017-10-03) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+29 laps
+Week 5 (2017-10-10) Nürburgring Grand-Prix-Strecke - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+40 laps
+Week 6 (2017-10-17) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+41 laps
+Week 7 (2017-10-24) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+34 laps
+Week 8 (2017-10-31) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+46 laps
+Week 9 (2017-11-07) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+46 laps
+Week 10 (2017-11-14) Silverstone Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+39 laps
+Week 11 (2017-11-21) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+34 laps
+Week 12 (2017-11-28) Circuit of the Americas - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+36 laps
+49
+FUN
+R Class Series (FUN)
+Carburetor Cup - 2017 Season 4
+NASCAR Monster Energy Cup Chevrolet SS, NASCAR Monster Energy
+Cup Ford Fusion, NASCAR Monster Energy Cup Toyota Camry
+Rookie (1.0) --> Pro/WC (4.0)
+Races at 45 past every hour
+Week 1 (2017-09-12) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 2 (2017-09-19) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 3 (2017-09-26) Daytona International Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 4 (2017-10-03) Autodromo Nazionale Monza - Oval - Left turning
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 5 (2017-10-10) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 6 (2017-10-17) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 7 (2017-10-24) Daytona International Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 8 (2017-10-31) Autodromo Nazionale Monza - Oval - Left turning
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 9 (2017-11-07) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 10 (2017-11-14) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 11 (2017-11-21) Daytona International Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 12 (2017-11-28) Autodromo Nazionale Monza - Oval - Left turning
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 13 (2017-12-05) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+50
+Dallara Dash - 2017 Season 4
+Indycar Dallara circa 2011
+Rookie (1.0) --> Pro/WC (4.0)
+Races on the hour every hour
+Week 1 (2017-09-12) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 2 (2017-09-19) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 3 (2017-09-26) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+advisory cautions.
+10 laps
+Week 4 (2017-10-03) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 5 (2017-10-10) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 6 (2017-10-17) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+advisory cautions.
+10 laps
+Week 7 (2017-10-24) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 8 (2017-10-31) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 9 (2017-11-07) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+advisory cautions.
+10 laps
+Week 10 (2017-11-14) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 11 (2017-11-21) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 12 (2017-11-28) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+advisory cautions.
+10 laps
+Week 13 (2017-12-05) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+PickUp Cup - 2017 Season 4
+NASCAR Truck Series Chevrolet Silverado circa 2013
+Rookie (1.0) --> Pro/WC (4.0)
+Races 30 past hour every hour
+Week 1 (2017-09-12) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 2 (2017-09-19) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 3 (2017-09-26) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 4 (2017-10-03) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 5 (2017-10-10) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 6 (2017-10-17) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 7 (2017-10-24) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 8 (2017-10-31) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 9 (2017-11-07) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 10 (2017-11-14) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 11 (2017-11-21) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 12 (2017-11-28) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 13 (2017-12-05) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+51
+Industriefahrten Fun - 2017 Season 4
+McLaren MP4-12C GT3, BMW Z4 GT3, Ford GT GT3, Mercedes AMG GT3,
+Audi R8 LMS
+Rookie (1.0) --> Pro/WC (4.0)
+Races 30 past every hour
+Week 1 (2017-09-12) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Dynamic weather, Rolling start, Local
+enforced cautions.
+3 laps
+52
+
