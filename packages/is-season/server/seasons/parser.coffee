@@ -109,7 +109,9 @@ class @SeasonParser
 
   minsLaps: (str) ->
     result = str.match @constructor.MINS_LAPS_LINE
-    return @previous_line + ' ' + result[0] if result? && result.length > 1
+    if result? && result.length > 1
+      numberOfLaps = @previous_line.split('0/0/').pop()
+      return numberOfLaps + ' ' + result[0]
 
     result = str.match @constructor.MINS_LAPS
     return '' if result == null || result.length < 2
