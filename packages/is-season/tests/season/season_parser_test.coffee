@@ -116,3 +116,12 @@ describe 'SeasonParser', ->
 
       it 'has valid number of laps', (test) ->
         test.equal @ser.tracks[0][2], '20 laps'
+
+  describe '2018S2.txt', ->
+    before ->
+      @data = Factory.loadFixture('2018S2.txt')
+      @parser = new SeasonParser(@data)
+      @series = @parser.series()
+
+    it 'has 65 series', (test) ->
+      test.equal @series.length, 65
