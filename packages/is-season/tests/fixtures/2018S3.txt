@@ -1,0 +1,3826 @@
+4
+4
+4
+4
+5
+5
+5
+6
+7
+7
+8
+9
+10
+11
+12
+12
+13
+14
+15
+15
+16
+16
+16
+17
+18
+19
+19
+20
+21
+22
+23
+24
+24
+Current iRacing Race Schedule
+OVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Advanced Legends - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Street Stock - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Late Model Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing National Series - 2018 Season 3 - Fixed . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing SK Modified Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . .
+C Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+INDYCAR Series - Oval - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Street Stock Class C - 2018 Season 3 - Fixed . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Super Late Model Series - 2018 Season 3 . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class C Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Tour Modified Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . .
+B Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Silver Crown Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Sprint Car Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class B Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . .
+A Class Series (OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class A Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NASCAR iRacing Class A Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . .
+ROAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Global Mazda MX-5 Cup - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Production Car Challenge - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . .
+D Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fanatec Global Challenge - 2018 Season 3 - Fixed . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Grand Touring Cup- 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Spec Racer Ford Challenge - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . .
+Ruf GT3 Challenge - 2018 Season 3 - Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Skip Barber Race Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+C Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Advanced Mazda MX-5 Cup Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+25
+26
+28
+29
+30
+31
+32
+33
+34
+35
+37
+38
+38
+39
+41
+43
+44
+44
+44
+44
+45
+45
+46
+46
+46
+47
+47
+48
+49
+50
+50
+51
+51
+52
+53
+54
+54
+54
+55
+Fanatec GT Challenge - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Grand Prix Legends - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IMSA Sportscar Championship - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Verizon INDYCAR Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Formula Renault 2.0 Championship - 2018 Season 3 . . . . . . . . . . . . . . . . .
+iRacing V8 Supercars Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kamel GT Championship - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Porsche iRacing Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pro Mazda Championship - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Radical Racing Challenge- 2018 Season 3 - Fixed . . . . . . . . . . . . . . . . . . . . . . . . . . .
+VRS GT Endurance Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Classic Lotus Grand Prix- 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Endurance Le Mans Series- 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Le Mans Series- 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+VRS GT Sprint Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A Class Series (ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Grand Prix Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRT OVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (DIRT OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar Street Stock Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Dirt Legends Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+D Class Series (DIRT OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar 305 Sprint Car Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar Limited Late Model Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . . . . . . .
+C Class Series (DIRT OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar 360 Sprint Car Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIRTcar Class C Dirt Street Stock Series - 2018 Season 3 Fixed . . . . . . . . . . . . . . .
+DIRTcar Pro Late Model Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Dirt Midget Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+USAC 360 Sprint Car Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+B Class Series (DIRT OVAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AMSOIL USAC Sprint Car National Championship - 2018 Season 3 . . . . . . . . . . . .
+DIRTcar UMP Modified Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+World of Outlaws Late Model Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . .
+World of Outlaws Sprint Car Series - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . .
+DIRT ROAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (DIRT ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Rookie iRacing Rallycross Series- 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+56
+56
+57
+57
+57
+58
+58
+59
+D Class Series (DIRT ROAD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iRacing Rallycross Series- 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FUN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+R Class Series (FUN) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Carburetor Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Dallara Dash - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PickUp Cup - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Industriefahrten Fun - 2018 Season 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+OVAL
+R Class Series (OVAL)
+iRacing Advanced Legends - 2018 Season 3
+Legends Ford '34 Coupe
+Rookie (1.0) --> Pro/WC (4.0)
+Races at 30 past
+Week 1 (2018-06-12) Charlotte Motor Speedway - Legends Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 2 (2018-06-19) Oxford Plains Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 3 (2018-06-26) USA International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 4 (2018-07-03) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 5 (2018-07-10) Thompson Speedway Motorsports Park - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 6 (2018-07-17) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 7 (2018-07-24) Charlotte Motor Speedway - Legends Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 8 (2018-07-31) Concord Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 9 (2018-08-07) USA International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 10 (2018-08-14) South Boston Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 11 (2018-08-21) Thompson Speedway Motorsports Park - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 12 (2018-08-28) Lanier National Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+iRacing Street Stock - 2018 Season 3 Fixed
+Street Stock
+Rookie (1.0) --> Class D (4.0)
+races every hour on the hour
+Week 1 (2018-06-12) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 2 (2018-06-19) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 3 (2018-06-26) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 4 (2018-07-03) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 5 (2018-07-10) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 6 (2018-07-17) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 7 (2018-07-24) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 8 (2018-07-31) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 9 (2018-08-07) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 10 (2018-08-14) USA International Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+Week 11 (2018-08-21) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 12 (2018-08-28) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+40 laps
+4
+D Class Series (OVAL)
+NASCAR iRacing Late Model Series - 2018 Season 3
+Chevrolet Monte Carlo SS
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every 2 hours
+Week 1 (2018-06-12) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+60 laps
+Week 2 (2018-06-19) Southern National Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 3 (2018-06-26) Concord Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 4 (2018-07-03) New Smyrna Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 5 (2018-07-10) Stafford Motor Speedway - Full Course (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 6 (2018-07-17) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 7 (2018-07-24) Martinsville Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 8 (2018-07-31) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+60 laps
+Week 9 (2018-08-07) Five Flags Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 10 (2018-08-14) Lucas Oil Raceway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 11 (2018-08-21) Iowa Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 12 (2018-08-28) USA International Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+NASCAR iRacing National Series - 2018 Season 3 - Fixed
+NASCAR K&N Pro Chevrolet Impala
+Rookie (4.0) --> Pro/WC (4.0)
+Races 45 past every odd 2 hours
+Week 1 (2018-06-12) Lanier National Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+60 laps
+Week 2 (2018-06-19) Martinsville Speedway (Late Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 3 (2018-06-26) Five Flags Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+60 laps
+Week 4 (2018-07-03) USA International Speedway (Night) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+Week 5 (2018-07-10) Dover International Speedway (Morning) Qual attached, Rolling start, Cautions
+disabled.
+45 laps
+Week 6 (2018-07-17) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 7 (2018-07-24) Brands Hatch Circuit - Indy (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 8 (2018-07-31) Atlanta Motor Speedway - Oval (Morning) Qual attached, Rolling start, Cautions
+disabled.
+35 laps
+Week 9 (2018-08-07) Lime Rock Park - Full Course (Late Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+20 laps
+Week 10 (2018-08-14) Rockingham Speedway - Oval (Morning) Qual attached, Rolling start, Cautions
+disabled.
+45 laps
+Week 11 (2018-08-21) New Smyrna Speedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+60 laps
+Week 12 (2018-08-28) Richmond Raceway (Late Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+50 laps
+5
+NASCAR iRacing SK Modified Series - 2018 Season 3
+Modified - SK
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours
+Week 1 (2018-06-12) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 2 (2018-06-19) New Smyrna Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 3 (2018-06-26) Concord Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 4 (2018-07-03) Thompson Speedway Motorsports Park - Oval
+(Night)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 5 (2018-07-10) Myrtle Beach Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 6 (2018-07-17) Richmond Raceway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+Week 7 (2018-07-24) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 8 (2018-07-31) Southern National Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 9 (2018-08-07) Oxford Plains Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 10 (2018-08-14) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 11 (2018-08-21) Langley Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+50 laps
+Week 12 (2018-08-28) USA International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+40 laps
+6
+C Class Series (OVAL)
+INDYCAR Series - Oval - 2018 Season 3 Fixed
+Dallara IR18
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2018-06-12) Texas Motor Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 2 (2018-06-19) The Milwaukee Mile (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+80 laps
+Week 3 (2018-06-26) Kentucky Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 4 (2018-07-03) Iowa Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+115 laps
+Week 5 (2018-07-10) Chicagoland Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 6 (2018-07-17) Kentucky Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 7 (2018-07-24) Michigan International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+60 laps
+Week 8 (2018-07-31) Homestead Miami Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+75 laps
+Week 9 (2018-08-07) Auto Club Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+60 laps
+Week 10 (2018-08-14) Pocono Raceway (Morning) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+50 laps
+Week 11 (2018-08-21) Gateway Motorsports Park - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+85 laps
+Week 12 (2018-08-28) Indianapolis Motor Speedway - IndyCar Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Single file restarts.
+50 laps
+7
+iRacing Street Stock Class C - 2018 Season 3 - Fixed
+Street Stock
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2018-06-12) Thompson Speedway Motorsports Park - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+55 laps
+Week 2 (2018-06-19) New Smyrna Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 3 (2018-06-26) Lanier National Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 4 (2018-07-03) Richmond Raceway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 5 (2018-07-10) Southern National Motorsports Park (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 6 (2018-07-17) Concord Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 7 (2018-07-24) Five Flags Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+55 laps
+Week 8 (2018-07-31) Bristol Motor Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+55 laps
+Week 9 (2018-08-07) South Boston Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+55 laps
+Week 10 (2018-08-14) Langley Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 11 (2018-08-21) Martinsville Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 12 (2018-08-28) USA International Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+8
+NASCAR iRacing Super Late Model Series - 2018 Season 3
+Super Late Model
+Class D (4.0) --> Pro/WC (4.0)
+Races at 15 past every odd 2 hours - Heat Racing
+Week 1 (2018-06-12) USA International Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 2 (2018-06-19) Five Flags Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 3 (2018-06-26) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+125 laps
+Week 4 (2018-07-03) New Smyrna Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 5 (2018-07-10) Myrtle Beach Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+101 laps
+Week 6 (2018-07-17) Concord Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 7 (2018-07-24) Richmond Raceway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 8 (2018-07-31) Martinsville Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+Week 9 (2018-08-07) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 10 (2018-08-14) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 11 (2018-08-21) Oxford Plains Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+125 laps
+Week 12 (2018-08-28) Lucas Oil Raceway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+75 laps
+9
+NASCAR iRacing Class C Series - 2018 Season 3 Fixed
+NASCAR Camping World Toyota Tundra, NASCAR Camping World
+Chevrolet Silverado
+Class D (4.0) --> Pro/WC (4.0)
+Races 15 past every hour
+Week 1 (2018-06-12) Iowa Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 2 (2018-06-19) Gateway Motorsports Park - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 3 (2018-06-26) Chicagoland Speedway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 4 (2018-07-03) Daytona International Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+30 laps
+Week 5 (2018-07-10) Kentucky Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 6 (2018-07-17) Eldora Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 7 (2018-07-24) Pocono Raceway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+30 laps
+Week 8 (2018-07-31) Watkins Glen International - Cup (Afternoon) Qual attached, Rolling start, Local
+enforced cautions.
+20 laps
+Week 9 (2018-08-07) Michigan International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+30 laps
+Week 10 (2018-08-14) Bristol Motor Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+80 laps
+Week 11 (2018-08-21) Canadian Tire Motorsports Park (Afternoon) Qual attached, Rolling start, Local
+enforced cautions.
+20 laps
+Week 12 (2018-08-28) Darlington Raceway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+10
+NASCAR iRacing Tour Modified Series - 2018 Season 3
+Modified - NASCAR Whelen Tour
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2018-06-12) South Boston Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 2 (2018-06-19) Five Flags Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 3 (2018-06-26) ISM Raceway - Oval w/open dogleg (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 4 (2018-07-03) Martinsville Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 5 (2018-07-10) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 6 (2018-07-17) Thompson Speedway Motorsports Park - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 7 (2018-07-24) Lucas Oil Raceway - Oval (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 8 (2018-07-31) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+Week 9 (2018-08-07) Stafford Motor Speedway - Full Course (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+Week 10 (2018-08-14) Gateway Motorsports Park - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 11 (2018-08-21) Langley Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 12 (2018-08-28) Myrtle Beach Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+90 laps
+11
+B Class Series (OVAL)
+iRacing Silver Crown Cup - 2018 Season 3
+Silver Crown
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours starting at 45 past
+Week 1 (2018-06-12) Kansas Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+67 laps
+Week 2 (2018-06-19) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 3 (2018-06-26) Gateway Motorsports Park - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 4 (2018-07-03) The Milwaukee Mile (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 5 (2018-07-10) Southern National Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 6 (2018-07-17) Kentucky Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+67 laps
+Week 7 (2018-07-24) Michigan International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+50 laps
+Week 8 (2018-07-31) Indianapolis Motor Speedway - IndyCar Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+40 laps
+Week 9 (2018-08-07) Chicagoland Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+67 laps
+Week 10 (2018-08-14) Iowa Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 11 (2018-08-21) ISM Raceway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 12 (2018-08-28) Lucas Oil Raceway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+12
+iRacing Sprint Car Cup - 2018 Season 3
+Sprint Car
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2018-06-12) Lanier National Speedway (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 2 (2018-06-19) Bristol Motor Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 3 (2018-06-26) Iowa Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+30 laps
+Week 4 (2018-07-03) The Milwaukee Mile (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+30 laps
+Week 5 (2018-07-10) Southern National Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 6 (2018-07-17) Irwindale Speedway - Outer (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 7 (2018-07-24) The Bullring (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 8 (2018-07-31) Lanier National Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+55 laps
+Week 9 (2018-08-07) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 10 (2018-08-14) Iowa Speedway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+30 laps
+Week 11 (2018-08-21) The Bullring (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+Week 12 (2018-08-28) Lucas Oil Raceway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+40 laps
+13
+NASCAR iRacing Class B Series - 2018 Season 3 Fixed
+NASCAR XFINITY Ford Mustang, NASCAR XFINITY Chevrolet Camaro,
+NASCAR XFINITY Toyota Camry
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2018-06-12) Iowa Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+70 laps
+Week 2 (2018-06-19) Gateway Motorsports Park - Oval (Late
+Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 3 (2018-06-26) Chicagoland Speedway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 4 (2018-07-03) Daytona International Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 5 (2018-07-10) Kentucky Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+90 laps
+Week 6 (2018-07-17) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+51 laps
+Week 7 (2018-07-24) Iowa Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+70 laps
+Week 8 (2018-07-31) Watkins Glen International - Cup (Afternoon) Qual attached, Rolling start, Local
+enforced cautions.
+21 laps
+Week 9 (2018-08-07) Mid-Ohio Sports Car Course - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+enforced cautions.
+20 laps
+Week 10 (2018-08-14) Bristol Motor Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+90 laps
+Week 11 (2018-08-21) Road America - Full Course (Afternoon) Qual attached, Rolling start, Local
+enforced cautions.
+14 laps
+Week 12 (2018-08-28) Darlington Raceway (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+14
+A Class Series (OVAL)
+NASCAR iRacing Class A Series - 2018 Season 3
+NASCAR Monster Energy Cup Chevrolet SS, NASCAR Monster Energy
+Cup Ford Fusion, NASCAR Monster Energy Cup Toyota Camry
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past
+Week 1 (2018-06-12) Iowa Speedway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+150 laps
+Week 2 (2018-06-19) Sonoma Raceway - Cup (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+35 laps
+Week 3 (2018-06-26) Chicagoland Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 4 (2018-07-03) Daytona International Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+70 laps
+Week 5 (2018-07-10) Kentucky Speedway - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 6 (2018-07-17) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+100 laps
+Week 7 (2018-07-24) Pocono Raceway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+60 laps
+Week 8 (2018-07-31) Watkins Glen International - Cup (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+35 laps
+Week 9 (2018-08-07) Michigan International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+80 laps
+Week 10 (2018-08-14) Bristol Motor Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+175 laps
+Week 11 (2018-08-21) Indianapolis Motor Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+70 laps
+Week 12 (2018-08-28) Darlington Raceway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Lucky dog, Double file restarts lapped
+at back.
+120 laps
+15
+ROAD
+R Class Series (ROAD)
+NASCAR iRacing Class A Series - 2018 Season 3 Fixed
+NASCAR Monster Energy Cup Chevrolet SS, NASCAR Monster Energy
+Cup Ford Fusion, NASCAR Monster Energy Cup Toyota Camry
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2018-06-12) Iowa Speedway - Oval (Late Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+80 laps
+Week 2 (2018-06-19) Sonoma Raceway - Cup (Afternoon) Qual attached, Rolling start, Local
+enforced cautions.
+25 laps
+Week 3 (2018-06-26) Chicagoland Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 4 (2018-07-03) Daytona International Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+45 laps
+Week 5 (2018-07-10) Kentucky Speedway - Oval (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 6 (2018-07-17) New Hampshire Motor Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+60 laps
+Week 7 (2018-07-24) Pocono Raceway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+40 laps
+Week 8 (2018-07-31) Watkins Glen International - Cup (Afternoon) Qual attached, Rolling start, Local
+enforced cautions.
+25 laps
+Week 9 (2018-08-07) Michigan International Speedway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 10 (2018-08-14) Bristol Motor Speedway (Night) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+100 laps
+Week 11 (2018-08-21) Indianapolis Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+50 laps
+Week 12 (2018-08-28) Darlington Raceway (Afternoon) Qual attached, Rolling start, Full
+course cautions, Lucky dog, Double
+file restarts lapped at back.
+70 laps
+16
+Global Mazda MX-5 Cup - 2018 Season 3 Fixed
+Global Mazda MX-5 Cup
+Rookie (1.0) --> Pro/WC (4.0)
+Races every hour on the hour
+Week 1 (2018-06-12) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 2 (2018-06-19) Okayama International Circuit - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 3 (2018-06-26) Lime Rock Park - Full Course (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 4 (2018-07-03) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 5 (2018-07-10) Summit Point Raceway - Jefferson Circuit
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 6 (2018-07-17) Charlotte Motor Speedway - Road Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 7 (2018-07-24) Phoenix International Raceway - 2008 - Road
+Course (Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 8 (2018-07-31) Okayama International Circuit - Short (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 9 (2018-08-07) Lime Rock Park - Chicane (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 10 (2018-08-14) Summit Point Raceway - Jefferson Reverse
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 11 (2018-08-21) Okayama International Circuit - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+Week 12 (2018-08-28) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+10 laps
+17
+iRacing Production Car Challenge - 2018 Season 3
+Global Mazda MX-5 Cup, Pontiac Solstice
+Rookie (1.0) --> Pro/WC (4.0)
+Races 30 past every hour
+Week 1 (2018-06-12) Daytona circa 2007 - Moto (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 2 (2018-06-19) Lime Rock Park - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 3 (2018-06-26) Pocono Raceway - 2011 - South (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 4 (2018-07-03) Okayama International Circuit - Short (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+25 laps
+Week 5 (2018-07-10) Phoenix International Raceway - 2008 - Road
+Course (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 6 (2018-07-17) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+11 laps
+Week 7 (2018-07-24) Pocono Raceway - 2011 - East (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 8 (2018-07-31) Charlotte Motor Speedway - Road Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 9 (2018-08-07) Summit Point Raceway - Jefferson Circuit
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+19 laps
+Week 10 (2018-08-14) Okayama International Circuit - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 11 (2018-08-21) Pocono Raceway - 2011 - International
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 12 (2018-08-28) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+18
+D Class Series (ROAD)
+Fanatec Global Challenge - 2018 Season 3 - Fixed
+Cadillac CTS-V Racecar, Kia Optima
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 30 past every odd 2 hours
+Week 1 (2018-06-12) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 2 (2018-06-19) Road America - Full Course (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 3 (2018-06-26) Mid-Ohio Sports Car Course - Full Course
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 4 (2018-07-03) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+40 mins
+Week 5 (2018-07-10) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 6 (2018-07-17) Detroit Grand Prix at Belle Isle - Belle Isle
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 7 (2018-07-24) Autodromo Nazionale Monza - GP without first
+chicane (Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 8 (2018-07-31) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 9 (2018-08-07) Mount Panorama Circuit (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 10 (2018-08-14) Lime Rock Park - Full Course (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 11 (2018-08-21) Twin Ring Motegi - Grand Prix (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+Week 12 (2018-08-28) Watkins Glen International - Boot (Afternoon) Qual attached, Grid by class, Rolling
+start, Local enforced cautions.
+25 mins
+19
+iRacing Grand Touring Cup- 2018 Season 3
+VW Jetta TDI Cup, Ford Mustang FR500S, Pontiac Solstice
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 15 past
+Week 1 (2018-06-12) Summit Point Raceway - Summit Point Raceway
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 2 (2018-06-19) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 3 (2018-06-26) Road Atlanta - Short (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 4 (2018-07-03) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 5 (2018-07-10) Detroit Grand Prix at Belle Isle - Belle Isle
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 6 (2018-07-17) Okayama International Circuit - Full Course (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 7 (2018-07-24) Nürburgring Combined - Gesamtstrecke Short
+w/out Arena (Morning)
+Grid by class, Rolling start, Local
+enforced cautions.
+4 laps
+Week 8 (2018-07-31) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 9 (2018-08-07) Charlotte Motor Speedway - Road Course (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 10 (2018-08-14) Watkins Glen International - Classic Boot
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 11 (2018-08-21) Brands Hatch Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+Week 12 (2018-08-28) Daytona International Speedway - Road Course
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+25 mins
+20
+iRacing Spec Racer Ford Challenge - 2018 Season 3
+SCCA Spec Racer Ford
+Rookie (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2018-06-12) Okayama International Circuit - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 2 (2018-06-19) Sebring International Raceway - International
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 3 (2018-06-26) Sonoma Raceway - Cup (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 4 (2018-07-03) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 5 (2018-07-10) Road America - Full Course (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 6 (2018-07-17) Oulton Park Circuit - Island (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 7 (2018-07-24) Pocono Raceway - 2011 - East (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+22 laps
+Week 8 (2018-07-31) Mount Panorama Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 9 (2018-08-07) Mazda Raceway Laguna Seca - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 10 (2018-08-14) Watkins Glen International - Cup (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 11 (2018-08-21) Canadian Tire Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 12 (2018-08-28) Circuit de Spa-Francorchamps - Classic Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+21
+Ruf GT3 Challenge - 2018 Season 3 - Fixed
+Ruf RT 12R Track
+Rookie (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2018-06-12) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 2 (2018-06-19) Canadian Tire Motorsports Park (Late Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 3 (2018-06-26) Watkins Glen International - Boot (Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 4 (2018-07-03) Oulton Park Circuit - Intl w/no Chicanes
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 5 (2018-07-10) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 6 (2018-07-17) Sonoma Raceway - Long (Late Afternoon) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 7 (2018-07-24) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 8 (2018-07-31) Mount Panorama Circuit (Morning) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 9 (2018-08-07) Charlotte Motor Speedway - Road Course
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 10 (2018-08-14) Barber Motorsports Park - Full Course (Late
+Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 11 (2018-08-21) Circuit de Spa-Francorchamps - Endurance
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+Week 12 (2018-08-28) Snetterton Circuit - 300 (Morning) Qual attached, Standing start, Local
+enforced cautions.
+30 mins
+22
+Skip Barber Race Series - 2018 Season 3
+Skip Barber Formula 2000
+Rookie (4.0) --> Pro/WC (4.0)
+Races at 15 past every hour
+Week 1 (2018-06-12) Okayama International Circuit - Short (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+25 laps
+Week 2 (2018-06-19) Canadian Tire Motorsports Park (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+16 laps
+Week 3 (2018-06-26) Nürburgring Nordschleife - Industriefahrten (Late
+Afternoon)
+Standing start, Local enforced
+cautions.
+3 laps
+Week 4 (2018-07-03) Mid-Ohio Sports Car Course - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 5 (2018-07-10) Donington Park Racing Circuit - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 6 (2018-07-17) Sonoma Raceway - Cup (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+17 laps
+Week 7 (2018-07-24) Circuit of the Americas - West (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 8 (2018-07-31) Circuit de Spa-Francorchamps - Classic Pits
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+9 laps
+Week 9 (2018-08-07) Circuit Zolder - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+Week 10 (2018-08-14) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 11 (2018-08-21) Detroit Grand Prix at Belle Isle - Belle Isle (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+12 laps
+Week 12 (2018-08-28) Circuit Park Zandvoort - Grand Prix (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+14 laps
+23
+C Class Series (ROAD)
+Advanced Mazda MX-5 Cup Series - 2018 Season 3
+Global Mazda MX-5 Cup
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2018-06-12) Nürburgring Combined - Gesamtstrecke Short
+w/out Arena (Morning)
+Standing start, Local enforced
+cautions.
+MX16: 30%
+4 laps
+Week 2 (2018-06-19) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 3 (2018-06-26) Sebring International Raceway - International
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 4 (2018-07-03) Lime Rock Park - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 5 (2018-07-10) Twin Ring Motegi - East (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 6 (2018-07-17) Watkins Glen International - Boot (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+45 mins
+Week 7 (2018-07-24) Mount Panorama Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 8 (2018-07-31) Nürburgring Grand-Prix-Strecke - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 9 (2018-08-07) Brands Hatch Circuit - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 10 (2018-08-14) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+45 mins
+Week 11 (2018-08-21) Circuit Zolder - Alternate (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+Week 12 (2018-08-28) Autodromo Nazionale Monza - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MX16: 30%
+25 mins
+24
+Fanatec GT Challenge - 2018 Season 3
+Chevrolet Corvette C6.R GT1, Aston Martin DBR9 GT1, Ford GT
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2018-06-12) Watkins Glen International - Boot (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 2 (2018-06-19) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 3 (2018-06-26) Detroit Grand Prix at Belle Isle - Belle Isle
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 4 (2018-07-03) Mount Panorama Circuit (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 5 (2018-07-10) Sebring International Raceway - International
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 6 (2018-07-17) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 7 (2018-07-24) Autodromo Nazionale Monza - Grand Prix
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 8 (2018-07-31) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+n/a
+Week 9 (2018-08-07) Phillip Island Circuit (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 10 (2018-08-14) Road America - Full Course (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 11 (2018-08-21) Circuit Gilles Villeneuve (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+Week 12 (2018-08-28) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+30 mins
+25
+Grand Prix Legends - 2018 Season 3
+Lotus 49
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 30 past
+Week 1 (2018-06-12) Okayama International Circuit - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+22 laps
+Week 2 (2018-06-19) Sebring International Raceway - International
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+16 laps
+Week 3 (2018-06-26) Sonoma Raceway - Cup (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+20 laps
+Week 4 (2018-07-03) Detroit Grand Prix at Belle Isle - Belle Isle
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+20 laps
+Week 5 (2018-07-10) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+16 laps
+Week 6 (2018-07-17) Oulton Park Circuit - Intl w/no Chicanes
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+24 laps
+Week 7 (2018-07-24) Autodromo Nazionale Monza - Combined
+without chicanes (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+15 laps
+Week 8 (2018-07-31) Mount Panorama Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+16 laps
+Week 9 (2018-08-07) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+24 laps
+Week 10 (2018-08-14) Watkins Glen International - Boot (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+18 laps
+Week 11 (2018-08-21) Canadian Tire Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+25 laps
+Week 12 (2018-08-28) Circuit de Spa-Francorchamps - Classic Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local advisory
+cautions.
+15 laps
+26
+IMSA Sportscar Championship - 2018 Season 3
+Mercedes AMG GT3, Audi R8 LMS, Chevrolet Corvette C7 Daytona
+Prototype, Ford GT - 2017, Ferrari 488 GTE, Porsche 911 RSR
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2018-06-12) Detroit Grand Prix at Belle Isle - Belle Isle
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 2 (2018-06-19) Circuit de Spa-Francorchamps - Endurance
+(Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 3 (2018-06-26) Watkins Glen International - Boot (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+C7DP: 75%
+FGT7: 65%
+488E: 65%
+RSR: 65%
+60 mins
+Week 4 (2018-07-03) Canadian Tire Motorsports Park (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 5 (2018-07-10) Phillip Island Circuit (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 6 (2018-07-17) Lime Rock Park - Full Course (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 7 (2018-07-24) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+27
+Week 8 (2018-07-31) Road America - Full Course (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 9 (2018-08-07) Nürburgring Grand-Prix-Strecke - BES/WEC
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 10 (2018-08-14) Virginia International Raceway - Full Course
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 11 (2018-08-21) Autódromo José Carlos Pace - Grand Prix
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+Week 12 (2018-08-28) Mazda Raceway Laguna Seca - Full Course
+(Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+MGT3: 45%, 5kg
+AR8: 45%, 30kg
+C7DP: 60%
+FGT7: 50%
+488E: 50%
+RSR: 50%
+45 mins
+28
+Verizon INDYCAR Series - 2018 Season 3
+Dallara IR18
+Class D (4.0) --> Pro/WC (4.0)
+Combined oval and road series using road license. Races every 2 hours
+Week 1 (2018-06-12) Texas Motor Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+120 laps
+Week 2 (2018-06-19) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+32 laps
+Week 3 (2018-06-26) Detroit Grand Prix at Belle Isle - Belle Isle
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+40 laps
+Week 4 (2018-07-03) Iowa Speedway - Oval (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+160 laps
+Week 5 (2018-07-10) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+35 laps
+Week 6 (2018-07-17) Kentucky Speedway - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+120 laps
+Week 7 (2018-07-24) Mid-Ohio Sports Car Course - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+45 laps
+Week 8 (2018-07-31) Michigan International Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+100 laps
+Week 9 (2018-08-07) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+35 laps
+Week 10 (2018-08-14) Pocono Raceway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+85 laps
+Week 11 (2018-08-21) Gateway Motorsports Park - Oval (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Single file restarts.
+130 laps
+Week 12 (2018-08-28) Homestead Miami Speedway - Road Course A
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+38 laps
+29
+iRacing Formula Renault 2.0 Championship - 2018 Season 3
+Formula Renault 2.0
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 45 past
+Week 1 (2018-06-12) Okayama International Circuit - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 2 (2018-06-19) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+16 laps
+Week 3 (2018-06-26) Nürburgring Grand-Prix-Strecke - Grand Prix
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 4 (2018-07-03) Phillip Island Circuit (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 5 (2018-07-10) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 6 (2018-07-17) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+22 laps
+Week 7 (2018-07-24) Nürburgring Nordschleife - Industriefahrten (Late
+Afternoon)
+Standing start, Local enforced
+cautions.
+4 laps
+Week 8 (2018-07-31) Detroit Grand Prix at Belle Isle - Belle Isle (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 9 (2018-08-07) Circuit Park Zandvoort - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 10 (2018-08-14) Mount Panorama Circuit (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 11 (2018-08-21) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 12 (2018-08-28) Circuit de Spa-Francorchamps - Classic Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+13 laps
+30
+iRacing V8 Supercars Series - 2018 Season 3
+Holden Commodore VF V8, Ford Falcon FG V8
+Class D (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 15 past
+Week 1 (2018-06-12) Canadian Tire Motorsports Park (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+31 laps
+Week 2 (2018-06-19) Mount Panorama Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+32 laps
+Week 3 (2018-06-26) Watkins Glen International - Boot (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+21 laps
+Week 4 (2018-07-03) Silverstone Circuit - Historical Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 65%
+FFV8: 65%
+29 laps
+Week 5 (2018-07-10) Mazda Raceway Laguna Seca - Full Course
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+28 laps
+Week 6 (2018-07-17) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+34 laps
+Week 7 (2018-07-24) Detroit Grand Prix at Belle Isle - Belle Isle
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+40 laps
+Week 8 (2018-07-31) Autódromo José Carlos Pace - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+32 laps
+Week 9 (2018-08-07) Daytona International Speedway - Road Course
+(Night)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+34 laps
+Week 10 (2018-08-14) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 60%
+FFV8: 60%
+23 laps
+Week 11 (2018-08-21) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 50%
+FFV8: 50%
+28 laps
+Week 12 (2018-08-28) Phillip Island Circuit (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+HCV8: 52%
+FFV8: 52%
+46 laps
+31
+Kamel GT Championship - 2018 Season 3
+Audi 90 GTO, Nissan GTP ZX-T
+Class D (4.0) --> Pro/WC (4.0)
+30 minute races every odd 2 hours on the hour
+Week 1 (2018-06-12) Watkins Glen International - Classic Boot
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 2 (2018-06-19) Phillip Island Circuit (Late Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 3 (2018-06-26) Detroit Grand Prix at Belle Isle - Belle Isle
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 4 (2018-07-03) Summit Point Raceway - Summit Point Raceway
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+A90: 75%
+60 mins
+Week 5 (2018-07-10) Okayama International Circuit - Full Course (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 6 (2018-07-17) Road America - Full Course (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 7 (2018-07-24) Virginia International Raceway - Full Course
+(Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 8 (2018-07-31) Mount Panorama Circuit (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 9 (2018-08-07) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 10 (2018-08-14) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+A90: 75%
+60 mins
+Week 11 (2018-08-21) Donington Park Racing Circuit - National (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+Week 12 (2018-08-28) Circuit de Spa-Francorchamps - Endurance
+(Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+40 mins
+32
+Porsche iRacing Cup - 2018 Season 3
+Porsche 911 GT3 Cup (991)
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2018-06-12) Nürburgring Combined - Gesamtstrecke Long
+(Morning)
+Standing start, Local enforced
+cautions.
+3 laps
+Week 2 (2018-06-19) Detroit Grand Prix at Belle Isle - Belle Isle (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+19 laps
+Week 3 (2018-06-26) Phillip Island Circuit (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+15 laps
+Week 4 (2018-07-03) Canadian Tire Motorsports Park (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 5 (2018-07-10) Brands Hatch Circuit - Indy (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+37 laps
+Week 6 (2018-07-17) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 7 (2018-07-24) Barber Motorsports Park - Full Course (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+18 laps
+Week 8 (2018-07-31) Circuit Park Zandvoort - Grand Prix (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+17 laps
+Week 9 (2018-08-07) Circuit of the Americas - West (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+19 laps
+Week 10 (2018-08-14) Road America - Full Course (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+11 laps
+Week 11 (2018-08-21) Mid-Ohio Sports Car Course - Chicane
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+20 laps
+Week 12 (2018-08-28) Circuit Gilles Villeneuve (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+17 laps
+33
+Pro Mazda Championship - 2018 Season 3
+Pro Mazda
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours at 45 past
+Week 1 (2018-06-12) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+22 laps
+Week 2 (2018-06-19) Suzuka International Racing Course - Grand Prix
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+18 laps
+Week 3 (2018-06-26) Brands Hatch Circuit - Grand Prix (Morning) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+21 laps
+Week 4 (2018-07-03) Phillip Island Circuit (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+18 laps
+Week 5 (2018-07-10) Watkins Glen International - Boot (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+16 laps
+Week 6 (2018-07-17) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+22 laps
+Week 7 (2018-07-24) Circuit Gilles Villeneuve (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+19 laps
+Week 8 (2018-07-31) Gateway Motorsports Park - Oval (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+PM: 25%
+60 laps
+Week 9 (2018-08-07) Detroit Grand Prix at Belle Isle - Belle Isle (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+18 laps
+Week 10 (2018-08-14) Nürburgring Nordschleife - Industriefahrten
+(Morning)
+Standing start, Local enforced
+cautions.
+PM: 25%
+6 laps
+Week 11 (2018-08-21) Donington Park Racing Circuit - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+20 laps
+Week 12 (2018-08-28) Circuit de Spa-Francorchamps - Classic Pits
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+PM: 25%
+17 laps
+34
+Radical Racing Challenge- 2018 Season 3 - Fixed
+Radical SR8
+Class D (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2018-06-12) Watkins Glen International - Boot (Morning) Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 2 (2018-06-19) Mazda Raceway Laguna Seca - Full Course
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+19 laps
+Week 3 (2018-06-26) Road Atlanta - Full Course (Morning) Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 4 (2018-07-03) Circuit de Spa-Francorchamps - Classic Pits
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+12 laps
+Week 5 (2018-07-10) Silverstone Circuit - Historical Grand Prix
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+Week 6 (2018-07-17) Oulton Park Circuit - Intl w/no Chicanes
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 7 (2018-07-24) Canadian Tire Motorsports Park (Morning) Qual attached, Standing start, Local
+enforced cautions.
+21 laps
+Week 8 (2018-07-31) Donington Park Racing Circuit - National
+(Afternoon)
+Qual attached, Standing start, Local
+enforced cautions.
+25 laps
+Week 9 (2018-08-07) Road America - Full Course (Morning) Qual attached, Standing start, Local
+enforced cautions.
+13 laps
+Week 10 (2018-08-14) Autodromo Nazionale Monza - GP without first
+chicane (Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+20 laps
+Week 11 (2018-08-21) Autódromo José Carlos Pace - Grand Prix
+(Morning)
+Qual attached, Standing start, Local
+enforced cautions.
+17 laps
+Week 12 (2018-08-28) Mount Panorama Circuit (Morning) Qual attached, Standing start, Local
+enforced cautions.
+15 laps
+35
+VRS GT Endurance Series - 2018 Season 3
+McLaren MP4-12C GT3, BMW Z4 GT3, Ford GT GT3, Mercedes AMG GT3,
+Audi R8 LMS, Ferrari 488 GT3
+Class D (4.0) --> Pro/WC (4.0), Team racing
+Qual and Races Saturdays 9 and 19 GMT and Sundays 17 GMT
+Week 1 (2018-06-16) Twin Ring Motegi - Grand Prix (Night) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 2 (2018-06-23) Circuit Park Zandvoort - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 3 (2018-06-30) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 4 (2018-07-07) Autódromo José Carlos Pace - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 5 (2018-07-14) Circuit de Spa-Francorchamps - Endurance
+(Morning)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 6 (2018-07-21) Detroit Grand Prix at Belle Isle - Belle Isle (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 7 (2018-07-28) Brands Hatch Circuit - Grand Prix (Morning) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 8 (2018-08-04) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 9 (2018-08-11) Indianapolis Motor Speedway - Road Course
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 10 (2018-08-18) Watkins Glen International - Boot (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+Week 11 (2018-08-25) Circuit Zolder - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+36
+Week 12 (2018-09-01) Silverstone Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 7 drivers, Driver fair
+share rule.
+MGT3: 5kg
+AR8: 30kg
+180
+mins
+37
+B Class Series (ROAD)
+iRacing Classic Lotus Grand Prix- 2018 Season 3
+Lotus 79
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours at 30 past
+Week 1 (2018-06-12) Watkins Glen International - Classic Boot
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+28 laps
+Week 2 (2018-06-19) Sebring International Raceway - International
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+23 laps
+Week 3 (2018-06-26) Virginia International Raceway - Full Course
+(Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+26 laps
+Week 4 (2018-07-03) Detroit Grand Prix at Belle Isle - Belle Isle
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+33 laps
+Week 5 (2018-07-10) Oulton Park Circuit - Intl w/no Chicanes
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+34 laps
+Week 6 (2018-07-17) Circuit Park Zandvoort - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+30 laps
+Week 7 (2018-07-24) Donington Park Racing Circuit - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+32 laps
+Week 8 (2018-07-31) Nürburgring Nordschleife - Industriefahrten
+(Morning)
+Standing start, Local enforced
+cautions.
+8 laps
+Week 9 (2018-08-07) Twin Ring Motegi - Grand Prix (Late Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+26 laps
+Week 10 (2018-08-14) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+23 laps
+Week 11 (2018-08-21) Circuit of the Americas - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+22 laps
+Week 12 (2018-08-28) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+36 laps
+38
+iRacing Endurance Le Mans Series- 2018 Season 3
+Audi R18, Porsche 919, HPD ARX-01c, Ford GT - 2017, Ferrari 488 GTE,
+Porsche 911 RSR
+Class C (4.0) --> Pro/WC (4.0), Team racing
+Races every other Saturday at 7 and 19 GMT
+Week 1 (2018-06-19) Road Atlanta - Full Course (Late Afternoon) Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 16 drivers, Driver
+fair share rule.
+360
+mins
+Week 2 (2018-07-03) Circuit de Spa-Francorchamps - Endurance
+(Night)
+Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 16 drivers, Driver
+fair share rule.
+360
+mins
+Week 3 (2018-07-17) Road America - Full Course (Afternoon) Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 16 drivers, Driver
+fair share rule.
+360
+mins
+Week 4 (2018-07-31) Silverstone Circuit - Grand Prix (Morning) Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 16 drivers, Driver
+fair share rule.
+360
+mins
+Week 5 (2018-08-14) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Morning)
+Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 16 drivers, Driver
+fair share rule.
+360
+mins
+Week 6 (2018-08-28) Sebring International Raceway - International
+(Late Afternoon)
+Dynamic weather, Grid by class,
+Rolling start, Local enforced cautions,
+Min 2 drivers, Max 16 drivers, Driver
+fair share rule.
+360
+mins
+39
+iRacing Le Mans Series- 2018 Season 3
+Ford GT - 2017, Ferrari 488 GTE, Porsche 911 RSR, Audi R18, Porsche
+919, HPD ARX-01c
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours on the hour
+Week 1 (2018-06-12) Nürburgring Grand-Prix-Strecke - BES/WEC
+(Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 2 (2018-06-19) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 3 (2018-06-26) Circuit of the Americas - Grand Prix (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 4 (2018-07-03) Circuit de Spa-Francorchamps - Endurance
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 5 (2018-07-10) Suzuka International Racing Course - Grand Prix
+(Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 6 (2018-07-17) Road America - Full Course (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 7 (2018-07-24) Autodromo Nazionale Monza - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+40
+Week 8 (2018-07-31) Silverstone Circuit - Grand Prix (Morning) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 9 (2018-08-07) Watkins Glen International - Boot (Afternoon) Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 10 (2018-08-14) Circuit des 24 Heures du Mans - 24 Heures du
+Mans (Morning)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 11 (2018-08-21) Daytona International Speedway - Road Course
+(Night)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+Week 12 (2018-08-28) Sebring International Raceway - International
+(Late Afternoon)
+Dynamic weather, Qual attached, Grid
+by class, Rolling start, Local enforced
+cautions.
+FGT7: 75%
+488E: 75%
+RSR: 75%
+AR18: 75%
+919: 75%
+ARX: 75%
+60 mins
+41
+VRS GT Sprint Series - 2018 Season 3
+McLaren MP4-12C GT3, BMW Z4 GT3, Ford GT GT3, Mercedes AMG GT3,
+Audi R8 LMS, Ferrari 488 GT3
+Class C (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2018-06-12) Twin Ring Motegi - East (Night) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 2 (2018-06-19) Circuit Park Zandvoort - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 3 (2018-06-26) Road Atlanta - Full Course (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 4 (2018-07-03) Autódromo José Carlos Pace - Grand Prix (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 5 (2018-07-10) Circuit de Spa-Francorchamps - Endurance
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 6 (2018-07-17) Detroit Grand Prix at Belle Isle - Belle Isle (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 7 (2018-07-24) Brands Hatch Circuit - Grand Prix (Morning) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 8 (2018-07-31) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+42
+Week 9 (2018-08-07) Indianapolis Motor Speedway - Road Course
+(Late Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 10 (2018-08-14) Watkins Glen International - Boot (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 11 (2018-08-21) Circuit Zolder - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+Week 12 (2018-08-28) Silverstone Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Local enforced cautions.
+MP4: 50%
+BMWZ: 50%
+FGT3: 50%
+MGT3: 50%, 5kg
+AR8: 50%, 30kg
+488T3: 50%
+40 mins
+43
+A Class Series (ROAD)
+DIRT OVAL
+R Class Series (DIRT OVAL)
+iRacing Grand Prix Series - 2018 Season 3
+McLaren MP4-30
+Class B (4.0) --> Pro/WC (4.0)
+Races every 2 hours on the hour
+Week 1 (2018-06-12) Silverstone Circuit - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+60 laps
+Week 2 (2018-06-19) Autódromo José Carlos Pace - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+46 laps
+Week 3 (2018-06-26) Circuit de Spa-Francorchamps - Grand Prix Pits
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+44 laps
+Week 4 (2018-07-03) Autodromo Internazionale Enzo e Dino Ferrari -
+Grand Prix (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+41 laps
+Week 5 (2018-07-10) Nürburgring Grand-Prix-Strecke - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+39 laps
+Week 6 (2018-07-17) Circuit Park Zandvoort - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+46 laps
+Week 7 (2018-07-24) Circuit Gilles Villeneuve (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+46 laps
+Week 8 (2018-07-31) Suzuka International Racing Course - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+34 laps
+Week 9 (2018-08-07) Road America - Full Course (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+31 laps
+Week 10 (2018-08-14) Circuit of the Americas - Grand Prix (Afternoon) Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+36 laps
+Week 11 (2018-08-21) Indianapolis Motor Speedway - Road Course
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+MP430: 66%
+48 laps
+Week 12 (2018-08-28) Autodromo Nazionale Monza - Grand Prix
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+53 laps
+44
+DIRTcar Street Stock Series - 2018 Season 3 Fixed
+Dirt Street Stock
+Rookie (1.0) --> Class D (4.0)
+Races at 30 past every hour
+Week 1 (2018-06-12) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 2 (2018-06-19) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 3 (2018-06-26) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 4 (2018-07-03) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 5 (2018-07-10) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 6 (2018-07-17) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 7 (2018-07-24) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 8 (2018-07-31) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 9 (2018-08-07) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 10 (2018-08-14) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 11 (2018-08-21) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 12 (2018-08-28) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+iRacing Dirt Legends Cup - 2018 Season 3
+Dirt Legends Ford '34 Coupe
+Rookie (3.0) --> Pro/WC (4.0)
+Races at 15 and 45 past every hour
+Week 1 (2018-06-12) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 2 (2018-06-19) Limaland Motorsports Park (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 3 (2018-06-26) USA International Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 4 (2018-07-03) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 5 (2018-07-10) Limaland Motorsports Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 6 (2018-07-17) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 7 (2018-07-24) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 8 (2018-07-31) Limaland Motorsports Park (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 9 (2018-08-07) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 10 (2018-08-14) Lanier National Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+30 laps
+Week 11 (2018-08-21) Limaland Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 12 (2018-08-28) USA International Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+45
+D Class Series (DIRT OVAL)
+DIRTcar 305 Sprint Car Series - 2018 Season 3 Fixed
+Dirt Sprint Car - 305
+Rookie (4.0) --> Pro/WC (4.0)
+Races every hour on the hour
+Week 1 (2018-06-12) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 2 (2018-06-19) Lanier National Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 3 (2018-06-26) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 4 (2018-07-03) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 5 (2018-07-10) Williams Grove Speedway (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 6 (2018-07-17) Knoxville Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 7 (2018-07-24) Limaland Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 8 (2018-07-31) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 9 (2018-08-07) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 10 (2018-08-14) Lanier National Speedway - Dirt (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 11 (2018-08-21) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+Week 12 (2018-08-28) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+20 laps
+DIRTcar Limited Late Model Series - 2018 Season 3 Fixed
+Dirt Late Model - Limited
+Rookie (4.0) --> Pro/WC (4.0)
+Races every hour on the hour
+Week 1 (2018-06-12) Eldora Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 2 (2018-06-19) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 3 (2018-06-26) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 4 (2018-07-03) Williams Grove Speedway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 5 (2018-07-10) Knoxville Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 6 (2018-07-17) Eldora Speedway (Morning) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 7 (2018-07-24) Limaland Motorsports Park (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 8 (2018-07-31) Volusia Speedway Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 9 (2018-08-07) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 10 (2018-08-14) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 11 (2018-08-21) Limaland Motorsports Park (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+Week 12 (2018-08-28) Knoxville Raceway (Night) Dynamic weather, Qual attached,
+Rolling start, Cautions disabled.
+25 laps
+46
+C Class Series (DIRT OVAL)
+DIRTcar 360 Sprint Car Series - 2018 Season 3
+Dirt Sprint Car - 360
+Class D (4.0) --> Pro/WC (4.0), Heat racing
+Races every odd 2 hours at 30 past the hour
+Week 1 (2018-06-12) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 2 (2018-06-19) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 3 (2018-06-26) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 4 (2018-07-03) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 5 (2018-07-10) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 6 (2018-07-17) The Dirt Track at Charlotte (Morning) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 7 (2018-07-24) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 8 (2018-07-31) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 9 (2018-08-07) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 10 (2018-08-14) Volusia Speedway Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 11 (2018-08-21) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 12 (2018-08-28) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+47
+DIRTcar Class C Dirt Street Stock Series - 2018 Season 3 Fixed
+Dirt Street Stock
+Class D (4.0) --> Pro/WC (4.0), Heat racing
+Races every 2 hours on the hour
+Week 1 (2018-06-12) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 2 (2018-06-19) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 3 (2018-06-26) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 4 (2018-07-03) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 5 (2018-07-10) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 6 (2018-07-17) Eldora Speedway (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 7 (2018-07-24) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 8 (2018-07-31) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 9 (2018-08-07) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 10 (2018-08-14) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 11 (2018-08-21) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 12 (2018-08-28) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+48
+DIRTcar Pro Late Model Series - 2018 Season 3
+Dirt Late Model - Pro
+Class D (4.0) --> Pro/WC (4.0), Heat racing
+Races every 2 hours 30 past the hour
+Week 1 (2018-06-12) Knoxville Raceway (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 2 (2018-06-19) Lanier National Speedway - Dirt (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 3 (2018-06-26) Limaland Motorsports Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 4 (2018-07-03) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 5 (2018-07-10) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 6 (2018-07-17) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 7 (2018-07-24) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 8 (2018-07-31) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 9 (2018-08-07) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 10 (2018-08-14) Lanier National Speedway - Dirt (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 11 (2018-08-21) Limaland Motorsports Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 12 (2018-08-28) The Dirt Track at Charlotte (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+49
+iRacing Dirt Midget Cup - 2018 Season 3
+Dirt Midget
+Class D (4.0) --> Pro/WC (4.0), Heat racing
+Races every odd 2 hours 15 past the hour - Heat Racing
+Week 1 (2018-06-12) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 2 (2018-06-19) Volusia Speedway Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 3 (2018-06-26) Eldora Speedway (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 4 (2018-07-03) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 5 (2018-07-10) Limaland Motorsports Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 6 (2018-07-17) Knoxville Raceway (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 7 (2018-07-24) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 8 (2018-07-31) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 9 (2018-08-07) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 10 (2018-08-14) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 11 (2018-08-21) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 12 (2018-08-28) Limaland Motorsports Park (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+USAC 360 Sprint Car Series - 2018 Season 3
+Dirt Sprint Car - 360 Non-Winged
+Class D (4.0) --> Pro/WC (4.0), Heat racing
+Races every odd 2 hours 45 past the hour
+Week 1 (2018-06-12) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 2 (2018-06-19) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 3 (2018-06-26) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 4 (2018-07-03) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 5 (2018-07-10) Lanier National Speedway - Dirt (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 6 (2018-07-17) Eldora Speedway (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 7 (2018-07-24) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 8 (2018-07-31) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 9 (2018-08-07) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 10 (2018-08-14) Lanier National Speedway - Dirt (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 11 (2018-08-21) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 12 (2018-08-28) Limaland Motorsports Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+50
+B Class Series (DIRT OVAL)
+AMSOIL USAC Sprint Car National Championship - 2018 Season 3
+Dirt Sprint Car - 410 Non-Winged
+Class C (4.0) --> Pro/WC (4.0), Heat racing
+Races every odd 2 hours 45 past the hour
+Week 1 (2018-06-12) Lanier National Speedway - Dirt (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 2 (2018-06-19) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 3 (2018-06-26) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 4 (2018-07-03) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 5 (2018-07-10) Limaland Motorsports Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 6 (2018-07-17) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 7 (2018-07-24) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 8 (2018-07-31) Lanier National Speedway - Dirt (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 9 (2018-08-07) The Dirt Track at Charlotte (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 10 (2018-08-14) Limaland Motorsports Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 11 (2018-08-21) Knoxville Raceway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+Week 12 (2018-08-28) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Single file restarts.
+0/0/30
+laps
+51
+DIRTcar UMP Modified Series - 2018 Season 3
+Dirt UMP Modified
+Class C (4.0) --> Pro/WC (4.0)
+Races every odd 2 hours 15 past the hour
+Week 1 (2018-06-12) Volusia Speedway Park (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 2 (2018-06-19) Knoxville Raceway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 3 (2018-06-26) Eldora Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 4 (2018-07-03) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 5 (2018-07-10) Lanier National Speedway - Dirt (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 6 (2018-07-17) Williams Grove Speedway (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 7 (2018-07-24) Volusia Speedway Park (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 8 (2018-07-31) Limaland Motorsports Park (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 9 (2018-08-07) Knoxville Raceway (Morning) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 10 (2018-08-14) USA International Speedway - Dirt (Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 11 (2018-08-21) Lanier National Speedway - Dirt (Late Afternoon) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+Week 12 (2018-08-28) The Dirt Track at Charlotte (Night) Dynamic weather, Qual attached,
+Rolling start, Full course cautions,
+Double file restarts lapped at back.
+35 laps
+52
+World of Outlaws Late Model Series - 2018 Season 3
+Dirt Late Model - Super
+Class C (4.0) --> Pro/WC (4.0), Heat racing
+Races every odd 2 hours 45 past the hour - Heat Racing
+Week 1 (2018-06-12) Knoxville Raceway (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 2 (2018-06-19) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 3 (2018-06-26) Eldora Speedway (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 4 (2018-07-03) Volusia Speedway Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 5 (2018-07-10) Williams Grove Speedway (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 6 (2018-07-17) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 7 (2018-07-24) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 8 (2018-07-31) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 9 (2018-08-07) Knoxville Raceway (Morning) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 10 (2018-08-14) Volusia Speedway Park (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 11 (2018-08-21) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+Week 12 (2018-08-28) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/40
+laps
+53
+DIRT ROAD
+R Class Series (DIRT ROAD)
+World of Outlaws Sprint Car Series - 2018 Season 3
+Dirt Sprint Car - 410
+Class C (4.0) --> Pro/WC (4.0), Heat racing
+Races every 2 hours 30 past the hour - Heat Racing
+Week 1 (2018-06-12) USA International Speedway - Dirt (Late
+Afternoon)
+Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 2 (2018-06-19) Limaland Motorsports Park (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 3 (2018-06-26) Knoxville Raceway (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 4 (2018-07-03) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 5 (2018-07-10) Eldora Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 6 (2018-07-17) Williams Grove Speedway (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 7 (2018-07-24) Limaland Motorsports Park (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 8 (2018-07-31) Volusia Speedway Park (Night) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 9 (2018-08-07) Knoxville Raceway (Late Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 10 (2018-08-14) The Dirt Track at Charlotte (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 11 (2018-08-21) Eldora Speedway (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+Week 12 (2018-08-28) Lanier National Speedway - Dirt (Afternoon) Dynamic weather, Rolling start, Full
+course cautions, Double file restarts
+lapped at back.
+0/0/30
+laps
+54
+Rookie iRacing Rallycross Series- 2018 Season 3
+Ford Fiesta RS WRC, VW Beetle, Subaru WRX STI
+Rookie (1.0) --> Pro/WC (4.0)
+Races 30 past every hour
+Week 1 (2018-06-12) Daytona circa 2007 - Rallycross Short (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 2 (2018-06-19) Daytona circa 2007 - Rallycross Long
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 3 (2018-06-26) Phoenix International Raceway - 2008 -
+Rallycross (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 4 (2018-07-03) Daytona circa 2007 - Rallycross Short
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 5 (2018-07-10) Daytona circa 2007 - Rallycross Long
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 6 (2018-07-17) Phoenix International Raceway - 2008 -
+Rallycross (Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 7 (2018-07-24) Daytona circa 2007 - Rallycross Short
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 8 (2018-07-31) Daytona circa 2007 - Rallycross Long
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 9 (2018-08-07) Phoenix International Raceway - 2008 -
+Rallycross (Morning)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 10 (2018-08-14) Daytona circa 2007 - Rallycross Short (Late
+Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 11 (2018-08-21) Daytona circa 2007 - Rallycross Long
+(Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+Week 12 (2018-08-28) Phoenix International Raceway - 2008 -
+Rallycross (Late Afternoon)
+Dynamic weather, Qual attached,
+Standing start, Local enforced
+cautions.
+10 laps
+55
+D Class Series (DIRT ROAD)
+iRacing Rallycross Series- 2018 Season 3
+Ford Fiesta RS WRC, VW Beetle, Subaru WRX STI
+Rookie (4.0) --> Pro/WC (4.0), Heat racing
+Races every hour on the hour
+Week 1 (2018-06-12) Daytona circa 2007 - Rallycross Long
+(Afternoon)
+Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 2 (2018-06-19) Lucas Oil Raceway - Rallycross (Afternoon) Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 3 (2018-06-26) Iowa Speedway - Rallycross (Afternoon) Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 4 (2018-07-03) Daytona circa 2007 - Rallycross Short
+(Afternoon)
+Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 5 (2018-07-10) Phoenix International Raceway - 2008 -
+Rallycross (Afternoon)
+Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 6 (2018-07-17) Sonoma Raceway - Rallycross (Afternoon) Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 7 (2018-07-24) Iowa Speedway - Rallycross (Afternoon) Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 8 (2018-07-31) Lucas Oil Raceway - Rallycross (Afternoon) Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 9 (2018-08-07) Daytona circa 2007 - Rallycross Short
+(Afternoon)
+Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 10 (2018-08-14) Phoenix International Raceway - 2008 -
+Rallycross (Afternoon)
+Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 11 (2018-08-21) Daytona circa 2007 - Rallycross Long
+(Afternoon)
+Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+Week 12 (2018-08-28) Sonoma Raceway - Rallycross (Afternoon) Dynamic weather, Standing start,
+Local enforced cautions.
+0/0/10
+laps
+56
+FUN
+R Class Series (FUN)
+Carburetor Cup - 2018 Season 3
+NASCAR Monster Energy Cup Chevrolet SS, NASCAR Monster Energy
+Cup Ford Fusion, NASCAR Monster Energy Cup Toyota Camry
+Rookie (1.0) --> Pro/WC (4.0)
+Races at 45 past every hour
+Week 1 (2018-06-12) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 2 (2018-06-19) Charlotte Motor Speedway - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 3 (2018-06-26) Daytona International Speedway - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 4 (2018-07-03) Autodromo Nazionale Monza - Oval - Left turning
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 5 (2018-07-10) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 6 (2018-07-17) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 7 (2018-07-24) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 8 (2018-07-31) Pocono Raceway - 2011 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 9 (2018-08-07) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 10 (2018-08-14) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 11 (2018-08-21) Daytona International Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 12 (2018-08-28) Pocono Raceway - 2011 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 13 (2018-09-04) Talladega Superspeedway (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+57
+Dallara Dash - 2018 Season 3
+Indycar Dallara circa 2011, Dallara DW12
+Rookie (1.0) --> Pro/WC (4.0)
+Races on the hour every hour
+Week 1 (2018-06-12) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 2 (2018-06-19) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 3 (2018-06-26) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+advisory cautions.
+10 laps
+Week 4 (2018-07-03) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 5 (2018-07-10) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 6 (2018-07-17) Indianapolis Motor Speedway - IndyCar Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 7 (2018-07-24) Pocono Raceway - 2011 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 8 (2018-07-31) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 9 (2018-08-07) Mazda Raceway Laguna Seca - Full Course
+(Afternoon)
+Qual attached, Rolling start, Local
+advisory cautions.
+10 laps
+Week 10 (2018-08-14) Autodromo Nazionale Monza - Oval - Left turning
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+15 laps
+Week 11 (2018-08-21) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+Week 12 (2018-08-28) Indianapolis Motor Speedway - IndyCar Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 13 (2018-09-04) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+30 laps
+PickUp Cup - 2018 Season 3
+NASCAR Truck Series Chevrolet Silverado circa 2013
+Rookie (1.0) --> Pro/WC (4.0)
+Races 30 past hour every hour
+Week 1 (2018-06-12) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 2 (2018-06-19) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 3 (2018-06-26) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 4 (2018-07-03) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 5 (2018-07-10) Pocono Raceway - 2011 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 6 (2018-07-17) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 7 (2018-07-24) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 8 (2018-07-31) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 9 (2018-08-07) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 10 (2018-08-14) Pocono Raceway - 2011 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+Week 11 (2018-08-21) Charlotte Motor Speedway - Oval (Night) Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 12 (2018-08-28) Phoenix International Raceway - 2008 - Oval
+(Afternoon)
+Qual attached, Rolling start, Cautions
+disabled.
+25 laps
+Week 13 (2018-09-04) Daytona circa 2007 - Oval (Afternoon) Qual attached, Rolling start, Cautions
+disabled.
+10 laps
+58
+Industriefahrten Fun - 2018 Season 3
+Ford GT - 2017, Ferrari 488 GTE, Porsche 911 RSR
+Rookie (1.0) --> Pro/WC (4.0)
+Races 30 past every hour
+Week 1 (2018-06-12) Nürburgring Nordschleife - Industriefahrten
+(Afternoon)
+Dynamic weather, Rolling start, Local
+enforced cautions.
+3 laps
+59
+
